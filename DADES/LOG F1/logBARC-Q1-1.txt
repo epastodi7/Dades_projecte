@@ -1,0 +1,2205 @@
+05-11 14:01:52.139: I/ApplicationPackageManager(2229): cscCountry is not German : YOG
+05-11 14:01:52.149: D/F1LTActivity(2229): onCreate
+05-11 14:01:52.309: D/DataStreamReader(2229): getInstance
+05-11 14:01:52.319: D/DataStreamReader(2229): setDataStreamReceiver
+05-11 14:01:52.329: W/ApplicationContext(2229): getSharedPreferences
+05-11 14:01:52.329: W/ApplicationContext(2229): org.xmlpull.v1.XmlPullParserException: Error parsing document. (position:line -1, column -1) caused by: org.apache.harmony.xml.ExpatParser$ParseException: At line 4, column 27: not well-formed (invalid token)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at org.apache.harmony.xml.ExpatPullParser$ByteDocument.flush(ExpatPullParser.java:958)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at org.apache.harmony.xml.ExpatPullParser$Document.pump(ExpatPullParser.java:769)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at org.apache.harmony.xml.ExpatPullParser$Document.dequeue(ExpatPullParser.java:813)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at org.apache.harmony.xml.ExpatPullParser.next(ExpatPullParser.java:302)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at com.android.internal.util.XmlUtils.readValueXml(XmlUtils.java:675)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at com.android.internal.util.XmlUtils.readMapXml(XmlUtils.java:470)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.ContextImpl.getSharedPreferences(ContextImpl.java:385)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.content.ContextWrapper.getSharedPreferences(ContextWrapper.java:146)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at com.f1lt.F1LTActivity.onCreate(F1LTActivity.java:125)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1047)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:1615)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:1667)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.ActivityThread.access$1500(ActivityThread.java:117)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:935)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.os.Looper.loop(Looper.java:130)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at android.app.ActivityThread.main(ActivityThread.java:3687)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at java.lang.reflect.Method.invokeNative(Native Method)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at java.lang.reflect.Method.invoke(Method.java:507)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:867)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:625)
+05-11 14:01:52.329: W/ApplicationContext(2229): 	at dalvik.system.NativeStart.main(Native Method)
+05-11 14:01:52.329: D/DataStreamReader(2229): isConnected
+05-11 14:01:52.329: D/F1LTAct L139(2229): No conectat
+05-11 14:01:52.329: D/F1LTActivity(2229): login
+05-11 14:01:52.339: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:01:52.339: D/F1LTActivity(2229): onStart
+05-11 14:01:52.569: D/F1LTActivity(2229): onSaveInstanceState
+05-11 14:01:52.589: W/dalvikvm(2229): VFY: unable to resolve virtual method 3966: Lcom/f1lt/LoginActivity;.getActionBar ()Landroid/app/ActionBar;
+05-11 14:01:52.589: I/ApplicationPackageManager(2229): cscCountry is not German : YOG
+05-11 14:01:57.529: D/F1LTActivity(2229): onActivityResult
+05-11 14:01:57.539: D/ResultCode dins F1LT(2229): -1
+05-11 14:01:57.539: D/F1LTActivity(2229): onConnectedClicked
+05-11 14:01:57.549: D/DataStreamReader(2229): encodePasswd
+05-11 14:01:57.609: D/HttpReader(2229): attemptAuth
+05-11 14:01:57.629: D/F1LTActivity(2229): onRestart
+05-11 14:01:57.629: D/F1LTActivity(2229): onStart
+05-11 14:01:57.629: D/HttpReader(2229): authorize
+05-11 14:02:00.089: I/global(2229): Loaded time zone names for en_US in 1818ms.
+05-11 14:02:00.739: D/HttpReader(2229): sendAuthenticationCookie
+05-11 14:02:00.749: D/F1LTActivity(2229): onAuthorized
+05-11 14:02:00.799: D/DataStreamReader(2229): connectToStream
+05-11 14:02:00.799: D/HttpReader(2229): attemptObtainKeyFrame
+05-11 14:02:00.799: D/HttpReader(2229): obtainKeyFrame
+05-11 14:02:01.219: D/HttpReader(2229): sendKeyFrame
+05-11 14:02:01.219: D/DataStreamReader(2229): onKeyFrameObtained
+05-11 14:02:01.219: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:01.219: D/DataStreamReader(2229): parseBlock: 1
+05-11 14:02:01.419: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades1.txt
+05-11 14:02:01.419: D/SessionTimer(2229): getTime
+05-11 14:02:01.429: D/GUARDAT NUM DADES AL ARXIU:(2229): 2351
+05-11 14:02:01.439: D/HTTP ATTEMPT L752(2229): 0
+05-11 14:02:01.439: D/HttpReader(2229): attemptObtainDecryptionKey
+05-11 14:02:01.439: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:01.439: D/CAR=1(2229):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.439: D/CAR=2(2229):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.439: D/CAR=3(2229):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.439: D/CAR=4(2229):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.439: D/HttpReader(2229): obtainDecryptionKey
+05-11 14:02:01.449: D/CAR=5(2229):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.449: D/CAR=6(2229):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.449: D/CAR=7(2229):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.459: D/CAR=8(2229):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.459: D/CAR=9(2229):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.459: D/CAR=10(2229):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.459: D/CAR=11(2229):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=12(2229):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=13(2229):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=14(2229):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=15(2229):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=16(2229):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=17(2229):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.469: D/CAR=18(2229):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.479: D/CAR=19(2229):  CAR TYPE=0 CAR DATA= 19 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.479: D/CAR=20(2229):  CAR TYPE=0 CAR DATA= 20 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.479: D/CAR=21(2229):  CAR TYPE=0 CAR DATA= 21 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.479: D/CAR=22(2229):  CAR TYPE=0 CAR DATA= 22 CAR LEN= 0 LONG DATA= 
+05-11 14:02:01.519: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:01.519: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:01.519: D/SocketDataReader(2229): isConnected
+05-11 14:02:01.519: D/SocketDataReader(2229): openStream
+05-11 14:02:01.639: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:01.639: D/SocketDataReader(2229): reading stream...
+05-11 14:02:01.709: D/Nom fitxer KEY:(2229): DadesKEY.txt
+05-11 14:02:01.709: D/GUARDAT KEY.(2229): -1186878902
+05-11 14:02:01.719: D/SocketDataReader(2229): sendDataBlock
+05-11 14:02:01.719: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:01.719: D/SocketDataReader(2229): reading stream...
+05-11 14:02:01.719: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:02:01.719: D/DataStreamReader(2229): parseBlock: 2
+05-11 14:02:01.719: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades2.txt
+05-11 14:02:01.719: D/SessionTimer(2229): getTime
+05-11 14:02:01.719: D/GUARDAT KEY STRING(2229): -1186878902
+05-11 14:02:01.719: D/HttpReader(2229): sendDecryptionKey
+05-11 14:02:01.729: D/GUARDAT NUM DADES AL ARXIU:(2229): 38
+05-11 14:02:01.729: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:01.729: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:01.729: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:01.729: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:02.089: D/onNewDataObtained(2229): refreshView
+05-11 14:02:02.089: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:02.089: D/DataStreamReader(2229): onDecryptionKeyObtained
+05-11 14:02:02.089: D/KEY ES(2229): -1186878902
+05-11 14:02:02.089: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:02.089: D/CAR=1(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 1
+05-11 14:02:02.089: D/CAR=1(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 9 LONG DATA= S. VETTEL
+05-11 14:02:02.089: D/CAR=2(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 2
+05-11 14:02:02.089: D/CAR=2(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 9 LONG DATA= M. WEBBER
+05-11 14:02:02.089: D/CAR=3(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 3
+05-11 14:02:02.089: D/CAR=3(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 9 LONG DATA= F. ALONSO
+05-11 14:02:02.089: D/CAR=4(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 4
+05-11 14:02:02.089: D/CAR=4(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 8 LONG DATA= F. MASSA
+05-11 14:02:02.099: D/CAR=5(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 5
+05-11 14:02:02.099: D/CAR=5(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 9 LONG DATA= J. BUTTON
+05-11 14:02:02.099: D/CAR=6(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 6
+05-11 14:02:02.099: D/CAR=6(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 8 LONG DATA= S. PEREZ
+05-11 14:02:02.099: D/CAR=7(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 7
+05-11 14:02:02.099: D/CAR=7(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 12 LONG DATA= K. RAIKKONEN
+05-11 14:02:02.099: D/CAR=8(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 8
+05-11 14:02:02.099: D/CAR=8(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 11 LONG DATA= R. GROSJEAN
+05-11 14:02:02.099: D/CAR=9(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 9
+05-11 14:02:02.099: D/CAR=9(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 10 LONG DATA= N. ROSBERG
+05-11 14:02:02.099: D/CAR=10(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 10
+05-11 14:02:02.099: D/CAR=10(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 11 LONG DATA= L. HAMILTON
+05-11 14:02:02.099: D/CAR=11(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 11
+05-11 14:02:02.099: D/CAR=11(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 13 LONG DATA= N. HULKENBERG
+05-11 14:02:02.099: D/CAR=12(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 12
+05-11 14:02:02.099: D/CAR=12(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 12 LONG DATA= E. GUTIERREZ
+05-11 14:02:02.099: D/CAR=13(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 14
+05-11 14:02:02.109: D/CAR=13(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 11 LONG DATA= P. DI RESTA
+05-11 14:02:02.109: D/CAR=14(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 15
+05-11 14:02:02.109: D/CAR=14(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 8 LONG DATA= A. SUTIL
+05-11 14:02:02.109: D/CAR=15(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 16
+05-11 14:02:02.109: D/CAR=15(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 12 LONG DATA= P. MALDONADO
+05-11 14:02:02.109: D/CAR=16(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 17
+05-11 14:02:02.109: D/CAR=16(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 9 LONG DATA= V. BOTTAS
+05-11 14:02:02.109: D/CAR=17(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 18
+05-11 14:02:02.109: D/CAR=17(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 9 LONG DATA= J. VERGNE
+05-11 14:02:02.109: D/CAR=18(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 19
+05-11 14:02:02.109: D/CAR=18(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 12 LONG DATA= D. RICCIARDO
+05-11 14:02:02.109: D/CAR=19(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 20
+05-11 14:02:02.109: D/CAR=19(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 6 LONG DATA= C. PIC
+05-11 14:02:02.119: D/CAR=20(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 21
+05-11 14:02:02.119: D/CAR=20(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 14 LONG DATA= G. VAN DER GAR
+05-11 14:02:02.119: D/CAR=21(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 22
+05-11 14:02:02.119: D/CAR=21(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 10 LONG DATA= J. BIANCHI
+05-11 14:02:02.119: D/CAR=22(2229):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 23
+05-11 14:02:02.119: D/CAR=22(2229):  CAR TYPE=3 CAR DATA= 6 CAR LEN= 10 LONG DATA= M. CHILTON
+05-11 14:02:02.129: D/packet(2229): TIMESTAMP=3 0 3
+05-11 14:02:02.129: D/packet(2229): TIMESTAMP=52 0 52
+05-11 14:02:02.129: D/packet(2229): TIMESTAMP=107 0 107
+05-11 14:02:02.139: D/packet(2229): TIMESTAMP=110 0 110
+05-11 14:02:02.139: D/packet(2229): TIMESTAMP=113 0 113
+05-11 14:02:02.139: D/packet(2229): TIMESTAMP=121 0 121
+05-11 14:02:02.139: D/packet(2229): TIMESTAMP=165 0 -91
+05-11 14:02:02.149: D/packet(2229): TIMESTAMP=168 0 -88
+05-11 14:02:02.149: D/packet(2229): TIMESTAMP=178 0 -78
+05-11 14:02:02.149: D/packet(2229): TIMESTAMP=192 0 -64
+05-11 14:02:02.149: D/packet(2229): TIMESTAMP=220 0 -36
+05-11 14:02:02.149: D/packet(2229): TIMESTAMP=223 0 -33
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=275 1 19
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=278 1 22
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=330 1 74
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=333 1 77
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=337 1 81
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=385 1 -127
+05-11 14:02:02.159: D/packet(2229): TIMESTAMP=388 1 -124
+05-11 14:02:02.169: D/packet(2229): TIMESTAMP=390 1 -122
+05-11 14:02:02.169: D/SessionTimer(2229): setTime
+05-11 14:02:02.169: D/SessionTimer(2229): getTime
+05-11 14:02:02.169: D/SessionTimer(2229): isTimerRunning
+05-11 14:02:02.169: D/SessionTimer(2229): startTimer
+05-11 14:02:02.169: D/parseSystemPacket(2229): 0:18:23
+05-11 14:02:02.169: D/packet(2229): TIMESTAMP=31605 123 117
+05-11 14:02:02.169: D/parseSystemPacket(2229): 0:18:23
+05-11 14:02:02.169: D/parseSystemPacket(2229): 0:18:23
+05-11 14:02:02.169: D/packet(2229): TIMESTAMP=41297 -95 81
+05-11 14:02:02.169: D/parseSystemPacket(2229): 0:18:23
+05-11 14:02:02.169: D/parseSystemPacket(2229): 0:18:23
+05-11 14:02:02.169: D/SessionTimer(2229): decrementTime
+05-11 14:02:02.169: D/SessionTimer(2229): timerUpdated
+05-11 14:02:02.169: D/parseSystemPacket(2229): 0:18:23
+05-11 14:02:02.169: D/packet(2229): TIMESTAMP=32376 126 120
+05-11 14:02:02.179: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:02.179: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:02.299: D/onNewDataObtained(2229): refreshView
+05-11 14:02:02.299: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:02.619: D/SocketDataReader(2229): PingOK
+05-11 14:02:02.769: D/DataStreamReader(2229): getInstance
+05-11 14:02:02.769: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:02.769: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:02.769: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:02.769: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:03.169: D/SessionTimer(2229): decrementTime
+05-11 14:02:03.169: D/SessionTimer(2229): timerUpdated
+05-11 14:02:03.179: D/DataStreamReader(2229): getInstance
+05-11 14:02:03.179: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:03.179: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:03.189: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:03.189: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:03.519: D/SocketDataReader(2229): PingOK
+05-11 14:02:04.179: D/SessionTimer(2229): decrementTime
+05-11 14:02:04.179: D/SessionTimer(2229): timerUpdated
+05-11 14:02:04.179: D/DataStreamReader(2229): getInstance
+05-11 14:02:04.179: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:04.179: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:04.189: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:04.189: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:04.429: D/SocketDataReader(2229): PingOK
+05-11 14:02:05.189: D/SessionTimer(2229): decrementTime
+05-11 14:02:05.189: D/SessionTimer(2229): timerUpdated
+05-11 14:02:05.189: D/DataStreamReader(2229): getInstance
+05-11 14:02:05.189: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:05.189: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:05.199: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:05.199: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:05.259: W/KeyCharacterMap(2229): No keyboard for id 0
+05-11 14:02:05.259: W/KeyCharacterMap(2229): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+05-11 14:02:05.269: D/F1LTActivity(2229): onCreateOptionsMenu
+05-11 14:02:05.329: D/SocketDataReader(2229): PingOK
+05-11 14:02:06.189: D/SessionTimer(2229): decrementTime
+05-11 14:02:06.189: D/SessionTimer(2229): timerUpdated
+05-11 14:02:06.189: D/DataStreamReader(2229): getInstance
+05-11 14:02:06.189: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:06.189: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:06.209: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:06.209: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:06.229: D/SocketDataReader(2229): PingOK
+05-11 14:02:06.669: D/F1LTActivity(2229): onOptionsItemSelected
+05-11 14:02:06.669: D/F1LTActivity(2229): showPreferences
+05-11 14:02:06.689: D/F1LTActivity(2229): onSaveInstanceState
+05-11 14:02:06.729: W/dalvikvm(2229): VFY: unable to resolve virtual method 4007: Lcom/f1lt/PreferencesActivity;.getActionBar ()Landroid/app/ActionBar;
+05-11 14:02:06.739: I/ApplicationPackageManager(2229): cscCountry is not German : YOG
+05-11 14:02:07.129: D/SocketDataReader(2229): PingOK
+05-11 14:02:07.189: D/SessionTimer(2229): decrementTime
+05-11 14:02:07.189: D/SessionTimer(2229): timerUpdated
+05-11 14:02:07.189: D/DataStreamReader(2229): getInstance
+05-11 14:02:07.189: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:07.189: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:07.199: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:07.199: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:08.029: D/SocketDataReader(2229): PingOK
+05-11 14:02:08.189: D/SessionTimer(2229): decrementTime
+05-11 14:02:08.189: D/SessionTimer(2229): timerUpdated
+05-11 14:02:08.189: D/DataStreamReader(2229): getInstance
+05-11 14:02:08.189: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:08.189: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:08.209: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:08.209: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:08.499: D/F1LTActivity(2229): onActivityResult
+05-11 14:02:08.499: D/ResultCode dins F1LT(2229): -1
+05-11 14:02:08.669: D/F1LTActivity(2229): onRestart
+05-11 14:02:08.669: D/F1LTActivity(2229): onStart
+05-11 14:02:08.929: D/SocketDataReader(2229): PingOK
+05-11 14:02:09.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:09.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:09.239: D/DataStreamReader(2229): getInstance
+05-11 14:02:09.239: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:09.239: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:09.249: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:09.249: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:09.829: D/SocketDataReader(2229): PingOK
+05-11 14:02:10.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:10.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:10.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:10.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:10.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:10.209: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:10.209: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:10.729: D/SocketDataReader(2229): PingOK
+05-11 14:02:11.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:11.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:11.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:11.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:11.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:11.209: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:11.209: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:11.629: D/SocketDataReader(2229): PingOK
+05-11 14:02:12.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:12.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:12.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:12.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:12.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:12.219: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:12.219: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:12.529: D/SocketDataReader(2229): PingOK
+05-11 14:02:13.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:13.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:13.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:13.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:13.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:13.219: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:13.219: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:13.429: D/SocketDataReader(2229): PingOK
+05-11 14:02:14.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:14.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:14.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:14.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:14.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:14.219: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:14.219: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:14.339: D/SocketDataReader(2229): PingOK
+05-11 14:02:15.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:15.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:15.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:15.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:15.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:15.219: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:15.219: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:15.229: D/SocketDataReader(2229): PingOK
+05-11 14:02:15.329: D/SocketDataReader(2229): sendDataBlock
+05-11 14:02:15.329: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:15.329: D/SocketDataReader(2229): reading stream...
+05-11 14:02:15.329: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:02:15.329: D/DataStreamReader(2229): parseBlock: 3
+05-11 14:02:15.339: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades3.txt
+05-11 14:02:15.339: D/SessionTimer(2229): getTime
+05-11 14:02:15.349: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:02:15.349: D/parseSystemPacket(2229): 0:18:09
+05-11 14:02:15.349: D/packet(2229): TIMESTAMP=42315 -91 75
+05-11 14:02:15.349: D/parseSystemPacket(2229): 0:18:09
+05-11 14:02:15.349: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:15.349: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:15.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:15.469: D/onNewDataObtained(2229): refreshView
+05-11 14:02:15.469: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:16.139: D/SocketDataReader(2229): PingOK
+05-11 14:02:16.199: D/SessionTimer(2229): decrementTime
+05-11 14:02:16.199: D/SessionTimer(2229): timerUpdated
+05-11 14:02:16.199: D/DataStreamReader(2229): getInstance
+05-11 14:02:16.199: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:16.199: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:16.219: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:16.219: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:17.039: D/SocketDataReader(2229): PingOK
+05-11 14:02:17.209: D/SessionTimer(2229): decrementTime
+05-11 14:02:17.209: D/SessionTimer(2229): timerUpdated
+05-11 14:02:17.209: D/DataStreamReader(2229): getInstance
+05-11 14:02:17.209: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:17.209: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:17.219: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:17.219: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:17.939: D/SocketDataReader(2229): PingOK
+05-11 14:02:18.219: D/SessionTimer(2229): decrementTime
+05-11 14:02:18.219: D/SessionTimer(2229): timerUpdated
+05-11 14:02:18.219: D/DataStreamReader(2229): getInstance
+05-11 14:02:18.219: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:18.219: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:18.229: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:18.229: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:18.839: D/SocketDataReader(2229): PingOK
+05-11 14:02:19.219: D/SessionTimer(2229): decrementTime
+05-11 14:02:19.219: D/SessionTimer(2229): timerUpdated
+05-11 14:02:19.219: D/DataStreamReader(2229): getInstance
+05-11 14:02:19.219: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:19.219: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:19.229: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:19.239: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:19.739: D/SocketDataReader(2229): PingOK
+05-11 14:02:20.219: D/SessionTimer(2229): decrementTime
+05-11 14:02:20.219: D/SessionTimer(2229): timerUpdated
+05-11 14:02:20.219: D/DataStreamReader(2229): getInstance
+05-11 14:02:20.219: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:20.219: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:20.229: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:20.229: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:20.639: D/SocketDataReader(2229): PingOK
+05-11 14:02:21.219: D/SessionTimer(2229): decrementTime
+05-11 14:02:21.219: D/SessionTimer(2229): timerUpdated
+05-11 14:02:21.219: D/DataStreamReader(2229): getInstance
+05-11 14:02:21.219: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:21.219: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:21.229: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:21.239: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:21.539: D/SocketDataReader(2229): PingOK
+05-11 14:02:22.219: D/SessionTimer(2229): decrementTime
+05-11 14:02:22.219: D/SessionTimer(2229): timerUpdated
+05-11 14:02:22.219: D/DataStreamReader(2229): getInstance
+05-11 14:02:22.219: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:22.219: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:22.239: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:22.239: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:22.439: D/SocketDataReader(2229): PingOK
+05-11 14:02:23.219: D/SessionTimer(2229): decrementTime
+05-11 14:02:23.219: D/SessionTimer(2229): timerUpdated
+05-11 14:02:23.219: D/DataStreamReader(2229): getInstance
+05-11 14:02:23.219: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:23.219: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:23.229: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:23.229: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:23.339: D/SocketDataReader(2229): PingOK
+05-11 14:02:24.239: D/SessionTimer(2229): decrementTime
+05-11 14:02:24.239: D/SessionTimer(2229): timerUpdated
+05-11 14:02:24.239: D/DataStreamReader(2229): getInstance
+05-11 14:02:24.239: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:24.239: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:24.239: D/SocketDataReader(2229): PingOK
+05-11 14:02:24.249: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:24.249: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:25.139: D/SocketDataReader(2229): PingOK
+05-11 14:02:25.239: D/SessionTimer(2229): decrementTime
+05-11 14:02:25.239: D/SessionTimer(2229): timerUpdated
+05-11 14:02:25.239: D/DataStreamReader(2229): getInstance
+05-11 14:02:25.239: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:25.239: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:25.249: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:25.249: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:26.039: D/SocketDataReader(2229): PingOK
+05-11 14:02:26.249: D/SessionTimer(2229): decrementTime
+05-11 14:02:26.249: D/SessionTimer(2229): timerUpdated
+05-11 14:02:26.249: D/DataStreamReader(2229): getInstance
+05-11 14:02:26.249: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:26.249: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:26.259: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:26.259: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:26.949: D/SocketDataReader(2229): PingOK
+05-11 14:02:27.259: D/SessionTimer(2229): decrementTime
+05-11 14:02:27.259: D/SessionTimer(2229): timerUpdated
+05-11 14:02:27.259: D/DataStreamReader(2229): getInstance
+05-11 14:02:27.259: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:27.259: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:27.279: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:27.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:27.849: D/SocketDataReader(2229): PingOK
+05-11 14:02:28.259: D/SessionTimer(2229): decrementTime
+05-11 14:02:28.259: D/SessionTimer(2229): timerUpdated
+05-11 14:02:28.259: D/DataStreamReader(2229): getInstance
+05-11 14:02:28.259: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:28.259: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:28.269: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:28.269: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:28.749: D/SocketDataReader(2229): PingOK
+05-11 14:02:29.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:29.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:29.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:29.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:29.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:29.279: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:29.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:29.649: D/SocketDataReader(2229): PingOK
+05-11 14:02:30.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:30.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:30.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:30.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:30.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:30.279: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:30.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:30.549: D/SocketDataReader(2229): PingOK
+05-11 14:02:30.749: D/SocketDataReader(2229): sendDataBlock
+05-11 14:02:30.749: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:30.749: D/SocketDataReader(2229): reading stream...
+05-11 14:02:30.749: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:02:30.749: D/DataStreamReader(2229): parseBlock: 4
+05-11 14:02:30.749: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades4.txt
+05-11 14:02:30.749: D/SessionTimer(2229): getTime
+05-11 14:02:30.759: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:02:30.759: D/parseSystemPacket(2229): 0:17:54
+05-11 14:02:30.759: D/packet(2229): TIMESTAMP=423 1 -89
+05-11 14:02:30.759: D/parseSystemPacket(2229): 0:17:54
+05-11 14:02:30.759: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:30.759: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:30.759: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:30.899: D/onNewDataObtained(2229): refreshView
+05-11 14:02:30.899: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:31.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:31.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:31.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:31.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:31.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:31.269: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:31.269: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:31.449: D/SocketDataReader(2229): PingOK
+05-11 14:02:32.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:32.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:32.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:32.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:32.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:32.279: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:32.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:32.349: D/SocketDataReader(2229): PingOK
+05-11 14:02:33.249: D/SocketDataReader(2229): PingOK
+05-11 14:02:33.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:33.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:33.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:33.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:33.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:33.279: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:33.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:34.149: D/SocketDataReader(2229): PingOK
+05-11 14:02:34.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:34.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:34.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:34.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:34.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:34.289: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:34.289: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:35.049: D/SocketDataReader(2229): PingOK
+05-11 14:02:35.269: D/SessionTimer(2229): decrementTime
+05-11 14:02:35.269: D/SessionTimer(2229): timerUpdated
+05-11 14:02:35.269: D/DataStreamReader(2229): getInstance
+05-11 14:02:35.269: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:35.269: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:35.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:35.319: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:35.949: D/SocketDataReader(2229): PingOK
+05-11 14:02:36.279: D/SessionTimer(2229): decrementTime
+05-11 14:02:36.279: D/SessionTimer(2229): timerUpdated
+05-11 14:02:36.279: D/DataStreamReader(2229): getInstance
+05-11 14:02:36.279: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:36.279: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:36.279: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:36.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:36.849: D/SocketDataReader(2229): PingOK
+05-11 14:02:37.279: D/SessionTimer(2229): decrementTime
+05-11 14:02:37.279: D/SessionTimer(2229): timerUpdated
+05-11 14:02:37.279: D/DataStreamReader(2229): getInstance
+05-11 14:02:37.279: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:37.279: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:37.289: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:37.289: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:37.759: D/SocketDataReader(2229): PingOK
+05-11 14:02:38.279: D/SessionTimer(2229): decrementTime
+05-11 14:02:38.279: D/SessionTimer(2229): timerUpdated
+05-11 14:02:38.279: D/DataStreamReader(2229): getInstance
+05-11 14:02:38.279: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:38.279: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:38.289: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:38.289: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:38.659: D/SocketDataReader(2229): PingOK
+05-11 14:02:39.289: D/SessionTimer(2229): decrementTime
+05-11 14:02:39.289: D/SessionTimer(2229): timerUpdated
+05-11 14:02:39.289: D/DataStreamReader(2229): getInstance
+05-11 14:02:39.289: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:39.289: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:39.299: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:39.299: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:39.559: D/SocketDataReader(2229): PingOK
+05-11 14:02:40.299: D/SessionTimer(2229): decrementTime
+05-11 14:02:40.299: D/SessionTimer(2229): timerUpdated
+05-11 14:02:40.299: D/DataStreamReader(2229): getInstance
+05-11 14:02:40.299: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:40.299: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:40.309: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:40.309: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:40.449: D/SocketDataReader(2229): PingOK
+05-11 14:02:41.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:41.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:41.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:41.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:41.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:41.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:41.319: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:41.349: D/SocketDataReader(2229): PingOK
+05-11 14:02:42.259: D/SocketDataReader(2229): PingOK
+05-11 14:02:42.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:42.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:42.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:42.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:42.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:42.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:42.319: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:43.159: D/SocketDataReader(2229): PingOK
+05-11 14:02:43.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:43.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:43.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:43.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:43.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:43.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:43.319: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:44.059: D/SocketDataReader(2229): PingOK
+05-11 14:02:44.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:44.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:44.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:44.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:44.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:44.329: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:44.329: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:44.959: D/SocketDataReader(2229): PingOK
+05-11 14:02:45.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:45.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:45.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:45.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:45.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:45.329: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:45.329: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:45.859: D/SocketDataReader(2229): PingOK
+05-11 14:02:46.229: D/SocketDataReader(2229): sendDataBlock
+05-11 14:02:46.229: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:46.229: D/SocketDataReader(2229): reading stream...
+05-11 14:02:46.229: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:02:46.229: D/DataStreamReader(2229): parseBlock: 5
+05-11 14:02:46.229: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades5.txt
+05-11 14:02:46.229: D/SessionTimer(2229): getTime
+05-11 14:02:46.249: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:02:46.249: D/parseSystemPacket(2229): 0:17:39
+05-11 14:02:46.249: D/packet(2229): TIMESTAMP=438 1 -74
+05-11 14:02:46.249: D/parseSystemPacket(2229): 0:17:39
+05-11 14:02:46.249: D/DataStreamReader(2229): resetDecryption
+05-11 14:02:46.249: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:46.249: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:46.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:46.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:46.359: D/onNewDataObtained(2229): refreshView
+05-11 14:02:46.359: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:46.759: D/SocketDataReader(2229): PingOK
+05-11 14:02:46.849: D/DataStreamReader(2229): getInstance
+05-11 14:02:46.849: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:46.849: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:46.859: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:46.859: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:47.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:47.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:47.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:47.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:47.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:47.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:47.339: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:47.659: D/SocketDataReader(2229): PingOK
+05-11 14:02:48.319: D/SessionTimer(2229): decrementTime
+05-11 14:02:48.319: D/SessionTimer(2229): timerUpdated
+05-11 14:02:48.319: D/DataStreamReader(2229): getInstance
+05-11 14:02:48.319: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:48.319: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:48.329: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:48.329: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:48.559: D/SocketDataReader(2229): PingOK
+05-11 14:02:48.629: D/SocketDataReader(2229): sendDataBlock
+05-11 14:02:48.629: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:48.629: D/SocketDataReader(2229): reading stream...
+05-11 14:02:48.629: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:02:48.629: D/DataStreamReader(2229): parseBlock: 6
+05-11 14:02:48.629: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades6.txt
+05-11 14:02:48.629: D/SessionTimer(2229): getTime
+05-11 14:02:48.639: D/GUARDAT NUM DADES AL ARXIU:(2229): 9
+05-11 14:02:48.639: D/parseSystemPacket(2229): 0:17:36
+05-11 14:02:48.639: D/packet(2229): TIMESTAMP=440 1 -72
+05-11 14:02:48.639: D/parseSystemPacket(2229): 0:17:36
+05-11 14:02:48.639: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:48.639: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:48.759: D/onNewDataObtained(2229): refreshView
+05-11 14:02:48.759: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:49.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:49.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:49.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:49.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:49.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:49.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:49.319: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:49.459: D/SocketDataReader(2229): PingOK
+05-11 14:02:49.479: D/F1LTActivity(2229): onSaveInstanceState
+05-11 14:02:50.309: D/SessionTimer(2229): decrementTime
+05-11 14:02:50.309: D/SessionTimer(2229): timerUpdated
+05-11 14:02:50.309: D/DataStreamReader(2229): getInstance
+05-11 14:02:50.309: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:50.309: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:50.319: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:50.319: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:50.359: D/SocketDataReader(2229): PingOK
+05-11 14:02:51.259: D/SocketDataReader(2229): PingOK
+05-11 14:02:51.319: D/SessionTimer(2229): decrementTime
+05-11 14:02:51.319: D/SessionTimer(2229): timerUpdated
+05-11 14:02:51.319: D/DataStreamReader(2229): getInstance
+05-11 14:02:51.319: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:51.319: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:51.329: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:51.329: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:51.439: D/SocketDataReader(2229): sendDataBlock
+05-11 14:02:51.439: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:02:51.439: D/SocketDataReader(2229): reading stream...
+05-11 14:02:51.439: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:02:51.439: D/DataStreamReader(2229): parseBlock: 7
+05-11 14:02:51.439: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades7.txt
+05-11 14:02:51.439: D/SessionTimer(2229): getTime
+05-11 14:02:51.459: D/GUARDAT NUM DADES AL ARXIU:(2229): 13
+05-11 14:02:51.459: D/parseSystemPacket(2229): 0:17:33
+05-11 14:02:51.459: D/packet(2229): TIMESTAMP=443 1 -69
+05-11 14:02:51.459: D/parseSystemPacket(2229): 0:17:33
+05-11 14:02:51.469: D/parseSystemPacket(2229): 0:17:33
+05-11 14:02:51.469: D/DataStreamReader(2229): newDataObtained
+05-11 14:02:51.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:51.599: D/onNewDataObtained(2229): refreshView
+05-11 14:02:51.599: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:52.159: D/SocketDataReader(2229): PingOK
+05-11 14:02:52.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:52.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:52.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:52.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:52.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:52.339: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:52.339: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:53.069: D/SocketDataReader(2229): PingOK
+05-11 14:02:53.229: D/F1LTActivity(2229): onSaveInstanceState
+05-11 14:02:53.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:53.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:53.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:53.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:53.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:53.329: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:53.329: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:53.969: D/SocketDataReader(2229): PingOK
+05-11 14:02:54.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:54.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:54.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:54.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:54.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:54.339: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:54.339: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:54.869: D/SocketDataReader(2229): PingOK
+05-11 14:02:55.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:55.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:55.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:55.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:55.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:55.349: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:55.349: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:55.769: D/SocketDataReader(2229): PingOK
+05-11 14:02:56.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:56.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:56.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:56.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:56.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:56.339: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:56.339: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:56.669: D/SocketDataReader(2229): PingOK
+05-11 14:02:57.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:57.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:57.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:57.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:57.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:57.349: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:57.349: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:57.569: D/SocketDataReader(2229): PingOK
+05-11 14:02:58.329: D/SessionTimer(2229): decrementTime
+05-11 14:02:58.329: D/SessionTimer(2229): timerUpdated
+05-11 14:02:58.329: D/DataStreamReader(2229): getInstance
+05-11 14:02:58.329: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:58.329: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:58.349: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:58.349: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:58.469: D/SocketDataReader(2229): PingOK
+05-11 14:02:59.339: D/SessionTimer(2229): decrementTime
+05-11 14:02:59.339: D/SessionTimer(2229): timerUpdated
+05-11 14:02:59.339: D/DataStreamReader(2229): getInstance
+05-11 14:02:59.339: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:02:59.339: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:02:59.349: D/onNewDataObtained(2229): updateStatus
+05-11 14:02:59.349: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:02:59.369: D/SocketDataReader(2229): PingOK
+05-11 14:03:00.269: D/SocketDataReader(2229): PingOK
+05-11 14:03:00.339: D/SessionTimer(2229): decrementTime
+05-11 14:03:00.339: D/SessionTimer(2229): timerUpdated
+05-11 14:03:00.339: D/DataStreamReader(2229): getInstance
+05-11 14:03:00.339: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:00.339: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:00.349: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:00.349: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:01.169: D/SocketDataReader(2229): PingOK
+05-11 14:03:01.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:01.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:01.349: D/DataStreamReader(2229): getInstance
+05-11 14:03:01.349: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:01.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:01.359: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:01.359: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:02.079: D/SocketDataReader(2229): PingOK
+05-11 14:03:02.299: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:02.299: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:02.299: D/SocketDataReader(2229): reading stream...
+05-11 14:03:02.299: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:02.299: D/DataStreamReader(2229): parseBlock: 8
+05-11 14:03:02.309: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades8.txt
+05-11 14:03:02.309: D/SessionTimer(2229): getTime
+05-11 14:03:02.319: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:03:02.319: D/parseSystemPacket(2229): 0:17:23
+05-11 14:03:02.319: D/packet(2229): TIMESTAMP=455 1 -57
+05-11 14:03:02.319: D/parseSystemPacket(2229): 0:17:23
+05-11 14:03:02.319: D/DataStreamReader(2229): resetDecryption
+05-11 14:03:02.319: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:02.319: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:02.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:02.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:02.429: D/onNewDataObtained(2229): refreshView
+05-11 14:03:02.429: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:02.739: D/DataStreamReader(2229): getInstance
+05-11 14:03:02.739: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:02.739: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:02.749: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:02.749: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:02.979: D/SocketDataReader(2229): PingOK
+05-11 14:03:03.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:03.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:03.349: D/DataStreamReader(2229): getInstance
+05-11 14:03:03.349: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:03.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:03.359: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:03.359: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:03.879: D/SocketDataReader(2229): PingOK
+05-11 14:03:04.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:04.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:04.349: D/DataStreamReader(2229): getInstance
+05-11 14:03:04.349: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:04.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:04.359: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:04.359: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:04.779: D/SocketDataReader(2229): PingOK
+05-11 14:03:05.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:05.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:05.349: D/DataStreamReader(2229): getInstance
+05-11 14:03:05.349: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:05.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:05.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:05.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:05.679: D/SocketDataReader(2229): PingOK
+05-11 14:03:06.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:06.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:06.349: D/DataStreamReader(2229): getInstance
+05-11 14:03:06.349: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:06.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:06.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:06.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:06.579: D/SocketDataReader(2229): PingOK
+05-11 14:03:07.349: D/SessionTimer(2229): decrementTime
+05-11 14:03:07.349: D/SessionTimer(2229): timerUpdated
+05-11 14:03:07.349: D/DataStreamReader(2229): getInstance
+05-11 14:03:07.349: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:07.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:07.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:07.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:07.479: D/SocketDataReader(2229): PingOK
+05-11 14:03:08.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:08.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:08.359: D/DataStreamReader(2229): getInstance
+05-11 14:03:08.359: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:08.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:08.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:08.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:08.379: D/SocketDataReader(2229): PingOK
+05-11 14:03:09.279: D/SocketDataReader(2229): PingOK
+05-11 14:03:09.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:09.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:09.359: D/DataStreamReader(2229): getInstance
+05-11 14:03:09.359: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:09.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:09.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:09.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:10.179: D/SocketDataReader(2229): PingOK
+05-11 14:03:10.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:10.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:10.359: D/DataStreamReader(2229): getInstance
+05-11 14:03:10.359: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:10.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:10.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:10.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:11.079: D/SocketDataReader(2229): PingOK
+05-11 14:03:11.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:11.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:11.359: D/DataStreamReader(2229): getInstance
+05-11 14:03:11.359: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:11.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:11.379: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:11.379: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:11.979: D/SocketDataReader(2229): PingOK
+05-11 14:03:12.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:12.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:12.359: D/DataStreamReader(2229): getInstance
+05-11 14:03:12.359: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:12.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:12.369: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:12.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:12.879: D/SocketDataReader(2229): PingOK
+05-11 14:03:13.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:13.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:13.359: D/DataStreamReader(2229): getInstance
+05-11 14:03:13.359: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:13.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:13.379: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:13.379: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:13.789: D/SocketDataReader(2229): PingOK
+05-11 14:03:14.359: D/SessionTimer(2229): decrementTime
+05-11 14:03:14.359: D/SessionTimer(2229): timerUpdated
+05-11 14:03:14.369: D/DataStreamReader(2229): getInstance
+05-11 14:03:14.369: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:14.369: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:14.379: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:14.379: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:14.689: D/SocketDataReader(2229): PingOK
+05-11 14:03:15.379: D/SessionTimer(2229): decrementTime
+05-11 14:03:15.379: D/SessionTimer(2229): timerUpdated
+05-11 14:03:15.379: D/DataStreamReader(2229): getInstance
+05-11 14:03:15.379: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:15.379: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:15.399: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:15.399: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:15.579: D/SocketDataReader(2229): PingOK
+05-11 14:03:16.379: D/SessionTimer(2229): decrementTime
+05-11 14:03:16.379: D/SessionTimer(2229): timerUpdated
+05-11 14:03:16.379: D/DataStreamReader(2229): getInstance
+05-11 14:03:16.379: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:16.379: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:16.419: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:16.419: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:16.489: D/SocketDataReader(2229): PingOK
+05-11 14:03:17.379: D/SessionTimer(2229): decrementTime
+05-11 14:03:17.379: D/SessionTimer(2229): timerUpdated
+05-11 14:03:17.379: D/DataStreamReader(2229): getInstance
+05-11 14:03:17.379: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:17.379: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:17.389: D/SocketDataReader(2229): PingOK
+05-11 14:03:17.399: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:17.399: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:18.289: D/SocketDataReader(2229): PingOK
+05-11 14:03:18.379: D/SessionTimer(2229): decrementTime
+05-11 14:03:18.379: D/SessionTimer(2229): timerUpdated
+05-11 14:03:18.379: D/DataStreamReader(2229): getInstance
+05-11 14:03:18.379: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:18.379: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:18.399: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:18.399: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:18.599: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:18.599: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:18.599: D/SocketDataReader(2229): reading stream...
+05-11 14:03:18.599: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:18.599: D/DataStreamReader(2229): parseBlock: 9
+05-11 14:03:18.599: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades9.txt
+05-11 14:03:18.599: D/SessionTimer(2229): getTime
+05-11 14:03:18.609: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:03:18.609: D/parseSystemPacket(2229): 0:17:06
+05-11 14:03:18.609: D/packet(2229): TIMESTAMP=471 1 -41
+05-11 14:03:18.609: D/parseSystemPacket(2229): 0:17:06
+05-11 14:03:18.619: D/DataStreamReader(2229): resetDecryption
+05-11 14:03:18.619: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:18.619: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:18.719: D/onNewDataObtained(2229): refreshView
+05-11 14:03:18.719: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:19.189: D/SocketDataReader(2229): PingOK
+05-11 14:03:19.389: D/SessionTimer(2229): decrementTime
+05-11 14:03:19.389: D/SessionTimer(2229): timerUpdated
+05-11 14:03:19.389: D/DataStreamReader(2229): getInstance
+05-11 14:03:19.389: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:19.389: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:19.409: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:19.409: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:20.089: D/SocketDataReader(2229): PingOK
+05-11 14:03:20.389: D/SessionTimer(2229): decrementTime
+05-11 14:03:20.389: D/SessionTimer(2229): timerUpdated
+05-11 14:03:20.389: D/DataStreamReader(2229): getInstance
+05-11 14:03:20.389: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:20.389: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:20.409: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:20.409: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:20.989: D/SocketDataReader(2229): PingOK
+05-11 14:03:21.399: D/SessionTimer(2229): decrementTime
+05-11 14:03:21.399: D/SessionTimer(2229): timerUpdated
+05-11 14:03:21.399: D/DataStreamReader(2229): getInstance
+05-11 14:03:21.399: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:21.399: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:21.409: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:21.409: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:21.889: D/SocketDataReader(2229): PingOK
+05-11 14:03:22.399: D/SessionTimer(2229): decrementTime
+05-11 14:03:22.399: D/SessionTimer(2229): timerUpdated
+05-11 14:03:22.399: D/DataStreamReader(2229): getInstance
+05-11 14:03:22.399: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:22.399: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:22.409: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:22.409: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:22.799: D/SocketDataReader(2229): PingOK
+05-11 14:03:23.399: D/SessionTimer(2229): decrementTime
+05-11 14:03:23.399: D/SessionTimer(2229): timerUpdated
+05-11 14:03:23.399: D/DataStreamReader(2229): getInstance
+05-11 14:03:23.399: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:23.399: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:23.409: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:23.409: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:23.699: D/SocketDataReader(2229): PingOK
+05-11 14:03:24.409: D/SessionTimer(2229): decrementTime
+05-11 14:03:24.409: D/SessionTimer(2229): timerUpdated
+05-11 14:03:24.409: D/DataStreamReader(2229): getInstance
+05-11 14:03:24.409: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:24.409: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:24.419: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:24.419: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:24.599: D/SocketDataReader(2229): PingOK
+05-11 14:03:25.409: D/SessionTimer(2229): decrementTime
+05-11 14:03:25.409: D/SessionTimer(2229): timerUpdated
+05-11 14:03:25.409: D/DataStreamReader(2229): getInstance
+05-11 14:03:25.409: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:25.409: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:25.419: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:25.419: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:25.489: D/SocketDataReader(2229): PingOK
+05-11 14:03:26.399: D/SocketDataReader(2229): PingOK
+05-11 14:03:26.409: D/SessionTimer(2229): decrementTime
+05-11 14:03:26.409: D/SessionTimer(2229): timerUpdated
+05-11 14:03:26.409: D/DataStreamReader(2229): getInstance
+05-11 14:03:26.409: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:26.409: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:26.429: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:26.429: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:26.949: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:26.949: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:26.949: D/SocketDataReader(2229): reading stream...
+05-11 14:03:26.949: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:26.949: D/DataStreamReader(2229): parseBlock: 10
+05-11 14:03:26.949: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades10.txt
+05-11 14:03:26.949: D/SessionTimer(2229): getTime
+05-11 14:03:26.959: D/GUARDAT NUM DADES AL ARXIU:(2229): 121
+05-11 14:03:26.959: D/parseSystemPacket(2229): 0:16:58
+05-11 14:03:26.959: D/packet(2229): TIMESTAMP=479 1 -33
+05-11 14:03:26.959: D/parseSystemPacket(2229): 0:16:58
+05-11 14:03:26.969: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:26.969: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:27.069: D/onNewDataObtained(2229): refreshView
+05-11 14:03:27.069: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:27.299: D/SocketDataReader(2229): PingOK
+05-11 14:03:27.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:27.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:27.419: D/DataStreamReader(2229): getInstance
+05-11 14:03:27.419: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:27.419: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:27.419: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:27.419: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:28.199: D/SocketDataReader(2229): PingOK
+05-11 14:03:28.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:28.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:28.419: D/DataStreamReader(2229): getInstance
+05-11 14:03:28.419: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:28.419: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:28.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:28.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:29.099: D/SocketDataReader(2229): PingOK
+05-11 14:03:29.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:29.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:29.419: D/DataStreamReader(2229): getInstance
+05-11 14:03:29.419: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:29.419: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:29.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:29.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:29.999: D/SocketDataReader(2229): PingOK
+05-11 14:03:30.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:30.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:30.419: D/DataStreamReader(2229): getInstance
+05-11 14:03:30.419: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:30.419: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:30.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:30.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:30.899: D/SocketDataReader(2229): PingOK
+05-11 14:03:31.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:31.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:31.419: D/DataStreamReader(2229): getInstance
+05-11 14:03:31.419: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:31.419: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:31.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:31.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:31.799: D/SocketDataReader(2229): PingOK
+05-11 14:03:32.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:32.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:32.429: D/DataStreamReader(2229): getInstance
+05-11 14:03:32.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:32.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:32.449: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:32.449: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:32.699: D/SocketDataReader(2229): PingOK
+05-11 14:03:33.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:33.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:33.419: D/DataStreamReader(2229): getInstance
+05-11 14:03:33.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:33.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:33.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:33.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:33.599: D/SocketDataReader(2229): PingOK
+05-11 14:03:34.419: D/SessionTimer(2229): decrementTime
+05-11 14:03:34.419: D/SessionTimer(2229): timerUpdated
+05-11 14:03:34.429: D/DataStreamReader(2229): getInstance
+05-11 14:03:34.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:34.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:34.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:34.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:34.499: D/SocketDataReader(2229): PingOK
+05-11 14:03:35.049: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:35.049: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:35.049: D/SocketDataReader(2229): reading stream...
+05-11 14:03:35.059: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:35.059: D/DataStreamReader(2229): parseBlock: 11
+05-11 14:03:35.059: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades11.txt
+05-11 14:03:35.059: D/SessionTimer(2229): getTime
+05-11 14:03:35.079: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:03:35.079: D/parseSystemPacket(2229): 0:16:50
+05-11 14:03:35.079: D/packet(2229): TIMESTAMP=487 1 -25
+05-11 14:03:35.079: D/parseSystemPacket(2229): 0:16:50
+05-11 14:03:35.079: D/DataStreamReader(2229): resetDecryption
+05-11 14:03:35.079: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:35.079: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:35.209: D/onNewDataObtained(2229): refreshView
+05-11 14:03:35.209: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:35.419: D/SocketDataReader(2229): PingOK
+05-11 14:03:35.429: D/SessionTimer(2229): decrementTime
+05-11 14:03:35.429: D/SessionTimer(2229): timerUpdated
+05-11 14:03:35.529: D/DataStreamReader(2229): getInstance
+05-11 14:03:35.529: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:35.529: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:35.529: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:35.529: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:36.319: D/SocketDataReader(2229): PingOK
+05-11 14:03:36.429: D/SessionTimer(2229): decrementTime
+05-11 14:03:36.429: D/SessionTimer(2229): timerUpdated
+05-11 14:03:36.429: D/DataStreamReader(2229): getInstance
+05-11 14:03:36.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:36.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:36.449: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:36.449: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:37.219: D/SocketDataReader(2229): PingOK
+05-11 14:03:37.429: D/SessionTimer(2229): decrementTime
+05-11 14:03:37.429: D/SessionTimer(2229): timerUpdated
+05-11 14:03:37.429: D/DataStreamReader(2229): getInstance
+05-11 14:03:37.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:37.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:37.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:37.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:38.119: D/SocketDataReader(2229): PingOK
+05-11 14:03:38.429: D/SessionTimer(2229): decrementTime
+05-11 14:03:38.429: D/SessionTimer(2229): timerUpdated
+05-11 14:03:38.429: D/DataStreamReader(2229): getInstance
+05-11 14:03:38.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:38.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:38.439: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:38.439: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:39.019: D/SocketDataReader(2229): PingOK
+05-11 14:03:39.429: D/SessionTimer(2229): decrementTime
+05-11 14:03:39.429: D/SessionTimer(2229): timerUpdated
+05-11 14:03:39.429: D/DataStreamReader(2229): getInstance
+05-11 14:03:39.429: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:39.429: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:39.449: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:39.449: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:39.919: D/SocketDataReader(2229): PingOK
+05-11 14:03:40.429: D/SessionTimer(2229): decrementTime
+05-11 14:03:40.459: D/SessionTimer(2229): timerUpdated
+05-11 14:03:40.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:40.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:40.479: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:40.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:40.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:40.819: D/SocketDataReader(2229): PingOK
+05-11 14:03:41.459: D/SessionTimer(2229): decrementTime
+05-11 14:03:41.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:41.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:41.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:41.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:41.479: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:41.479: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:41.719: D/SocketDataReader(2229): PingOK
+05-11 14:03:42.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:42.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:42.479: D/DataStreamReader(2229): getInstance
+05-11 14:03:42.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:42.479: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:42.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:42.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:42.619: D/SocketDataReader(2229): PingOK
+05-11 14:03:43.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:43.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:43.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:43.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:43.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:43.479: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:43.479: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:43.519: D/SocketDataReader(2229): PingOK
+05-11 14:03:43.659: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:43.659: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:43.659: D/SocketDataReader(2229): reading stream...
+05-11 14:03:43.659: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:43.659: D/DataStreamReader(2229): parseBlock: 12
+05-11 14:03:43.659: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades12.txt
+05-11 14:03:43.659: D/SessionTimer(2229): getTime
+05-11 14:03:43.669: D/GUARDAT NUM DADES AL ARXIU:(2229): 9
+05-11 14:03:43.669: D/parseSystemPacket(2229): 0:16:41
+05-11 14:03:43.669: D/packet(2229): TIMESTAMP=495 1 -17
+05-11 14:03:43.669: D/parseSystemPacket(2229): 0:16:41
+05-11 14:03:43.679: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:43.679: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:43.789: D/onNewDataObtained(2229): refreshView
+05-11 14:03:43.789: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:44.419: D/SocketDataReader(2229): PingOK
+05-11 14:03:44.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:44.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:44.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:44.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:44.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:44.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:44.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:45.319: D/SocketDataReader(2229): PingOK
+05-11 14:03:45.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:45.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:45.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:45.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:45.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:45.479: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:45.479: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:46.219: D/SocketDataReader(2229): PingOK
+05-11 14:03:46.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:46.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:46.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:46.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:46.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:46.479: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:46.479: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:46.729: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:46.729: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:46.729: D/SocketDataReader(2229): reading stream...
+05-11 14:03:46.729: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:46.729: D/DataStreamReader(2229): parseBlock: 13
+05-11 14:03:46.729: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades13.txt
+05-11 14:03:46.729: D/SessionTimer(2229): getTime
+05-11 14:03:46.739: D/GUARDAT NUM DADES AL ARXIU:(2229): 9
+05-11 14:03:46.739: D/parseSystemPacket(2229): 0:16:38
+05-11 14:03:46.739: D/packet(2229): TIMESTAMP=498 1 -14
+05-11 14:03:46.739: D/parseSystemPacket(2229): 0:16:38
+05-11 14:03:46.739: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:46.739: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:46.859: D/onNewDataObtained(2229): refreshView
+05-11 14:03:46.859: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:47.129: D/SocketDataReader(2229): PingOK
+05-11 14:03:47.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:47.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:47.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:47.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:47.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:47.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:47.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:48.029: D/SocketDataReader(2229): PingOK
+05-11 14:03:48.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:48.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:48.469: D/DataStreamReader(2229): getInstance
+05-11 14:03:48.469: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:48.469: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:48.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:48.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:48.929: D/SocketDataReader(2229): PingOK
+05-11 14:03:49.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:49.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:49.479: D/DataStreamReader(2229): getInstance
+05-11 14:03:49.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:49.489: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:49.499: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:49.499: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:49.829: D/SocketDataReader(2229): PingOK
+05-11 14:03:50.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:50.469: D/SessionTimer(2229): timerUpdated
+05-11 14:03:50.479: D/DataStreamReader(2229): getInstance
+05-11 14:03:50.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:50.479: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:50.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:50.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:50.729: D/SocketDataReader(2229): PingOK
+05-11 14:03:50.939: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:50.939: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:50.939: D/SocketDataReader(2229): reading stream...
+05-11 14:03:50.939: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:50.939: D/DataStreamReader(2229): parseBlock: 14
+05-11 14:03:50.939: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades14.txt
+05-11 14:03:50.939: D/SessionTimer(2229): getTime
+05-11 14:03:50.959: D/GUARDAT NUM DADES AL ARXIU:(2229): 4
+05-11 14:03:50.959: D/parseSystemPacket(2229): 0:16:34
+05-11 14:03:50.959: D/packet(2229): TIMESTAMP=503 1 -9
+05-11 14:03:50.959: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:50.959: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:50.989: D/SocketDataReader(2229): sendDataBlock
+05-11 14:03:50.989: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:03:50.989: D/SocketDataReader(2229): reading stream...
+05-11 14:03:51.089: D/onNewDataObtained(2229): refreshView
+05-11 14:03:51.089: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:51.319: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:03:51.319: D/DataStreamReader(2229): parseBlock: 15
+05-11 14:03:51.319: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades15.txt
+05-11 14:03:51.319: D/SessionTimer(2229): getTime
+05-11 14:03:51.339: D/GUARDAT NUM DADES AL ARXIU:(2229): 4
+05-11 14:03:51.349: D/parseSystemPacket(2229): 0:16:34
+05-11 14:03:51.349: D/DataStreamReader(2229): resetDecryption
+05-11 14:03:51.349: D/DataStreamReader(2229): newDataObtained
+05-11 14:03:51.349: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:51.469: D/SessionTimer(2229): decrementTime
+05-11 14:03:51.479: D/SessionTimer(2229): timerUpdated
+05-11 14:03:51.519: D/onNewDataObtained(2229): refreshView
+05-11 14:03:51.519: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:51.629: D/SocketDataReader(2229): PingOK
+05-11 14:03:51.729: D/DataStreamReader(2229): getInstance
+05-11 14:03:51.729: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:51.729: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:51.739: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:51.739: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:52.479: D/SessionTimer(2229): decrementTime
+05-11 14:03:52.479: D/SessionTimer(2229): timerUpdated
+05-11 14:03:52.479: D/DataStreamReader(2229): getInstance
+05-11 14:03:52.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:52.479: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:52.499: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:52.499: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:52.529: D/SocketDataReader(2229): PingOK
+05-11 14:03:53.429: D/SocketDataReader(2229): PingOK
+05-11 14:03:53.479: D/SessionTimer(2229): decrementTime
+05-11 14:03:53.479: D/SessionTimer(2229): timerUpdated
+05-11 14:03:53.489: D/DataStreamReader(2229): getInstance
+05-11 14:03:53.489: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:53.489: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:53.509: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:53.509: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:54.329: D/SocketDataReader(2229): PingOK
+05-11 14:03:54.479: D/SessionTimer(2229): decrementTime
+05-11 14:03:54.479: D/SessionTimer(2229): timerUpdated
+05-11 14:03:54.479: D/DataStreamReader(2229): getInstance
+05-11 14:03:54.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:54.479: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:54.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:54.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:55.229: D/SocketDataReader(2229): PingOK
+05-11 14:03:55.479: D/SessionTimer(2229): decrementTime
+05-11 14:03:55.479: D/SessionTimer(2229): timerUpdated
+05-11 14:03:55.479: D/DataStreamReader(2229): getInstance
+05-11 14:03:55.479: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:55.479: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:55.489: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:55.489: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:56.129: D/SocketDataReader(2229): PingOK
+05-11 14:03:56.479: D/SessionTimer(2229): decrementTime
+05-11 14:03:56.519: D/SessionTimer(2229): timerUpdated
+05-11 14:03:56.529: D/DataStreamReader(2229): getInstance
+05-11 14:03:56.529: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:56.529: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:56.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:56.569: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:57.029: D/SocketDataReader(2229): PingOK
+05-11 14:03:57.499: D/F1LTActivity(2229): onSaveInstanceState
+05-11 14:03:57.519: D/SessionTimer(2229): decrementTime
+05-11 14:03:57.519: D/SessionTimer(2229): timerUpdated
+05-11 14:03:57.549: D/DataStreamReader(2229): getInstance
+05-11 14:03:57.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:57.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:57.549: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:57.549: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:57.939: D/SocketDataReader(2229): PingOK
+05-11 14:03:58.519: D/SessionTimer(2229): decrementTime
+05-11 14:03:58.519: D/SessionTimer(2229): timerUpdated
+05-11 14:03:58.529: D/DataStreamReader(2229): getInstance
+05-11 14:03:58.529: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:58.529: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:58.539: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:58.539: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:58.829: D/SocketDataReader(2229): PingOK
+05-11 14:03:59.539: D/SessionTimer(2229): decrementTime
+05-11 14:03:59.539: D/SessionTimer(2229): timerUpdated
+05-11 14:03:59.539: D/DataStreamReader(2229): getInstance
+05-11 14:03:59.539: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:03:59.539: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:03:59.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:03:59.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:03:59.729: D/SocketDataReader(2229): PingOK
+05-11 14:04:00.539: D/SessionTimer(2229): decrementTime
+05-11 14:04:00.539: D/SessionTimer(2229): timerUpdated
+05-11 14:04:00.539: D/DataStreamReader(2229): getInstance
+05-11 14:04:00.539: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:00.539: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:00.549: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:00.549: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:00.639: D/SocketDataReader(2229): PingOK
+05-11 14:04:01.459: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:01.459: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:01.459: D/SocketDataReader(2229): reading stream...
+05-11 14:04:01.469: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:01.469: D/DataStreamReader(2229): parseBlock: 16
+05-11 14:04:01.469: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades16.txt
+05-11 14:04:01.469: D/SessionTimer(2229): getTime
+05-11 14:04:01.479: D/GUARDAT NUM DADES AL ARXIU:(2229): 54
+05-11 14:04:01.479: D/parseSystemPacket(2229): 0:16:24
+05-11 14:04:01.479: D/packet(2229): TIMESTAMP=513 2 1
+05-11 14:04:01.479: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.479: D/CAR=18(2229):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.479: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.479: D/CAR=1(2229):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.479: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.479: D/CAR=2(2229):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.479: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.479: D/CAR=3(2229):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.489: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.489: D/CAR=4(2229):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.489: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.489: D/CAR=5(2229):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.489: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.489: D/CAR=6(2229):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.489: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.489: D/CAR=7(2229):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.489: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.489: D/CAR=8(2229):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.489: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.489: D/CAR=9(2229):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=10(2229):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=11(2229):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=12(2229):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=13(2229):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=14(2229):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=15(2229):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=16(2229):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.499: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.499: D/CAR=17(2229):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-11 14:04:01.509: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.509: D/CAR=18(2229):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:04:01.509: D/parseCarPacket(2229): 0:16:24
+05-11 14:04:01.509: D/CAR=18(2229):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 1
+05-11 14:04:01.509: D/DriverData(2229): DriverData-addLap
+05-11 14:04:01.509: D/parseSystemPacket(2229): 0:16:24
+05-11 14:04:01.509: D/parseSystemPacket(2229): 0:16:24
+05-11 14:04:01.509: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:01.509: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:01.539: D/SocketDataReader(2229): PingOK
+05-11 14:04:01.539: D/SessionTimer(2229): decrementTime
+05-11 14:04:01.539: D/SessionTimer(2229): timerUpdated
+05-11 14:04:01.639: D/onNewDataObtained(2229): refreshView
+05-11 14:04:01.639: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:01.899: D/DataStreamReader(2229): getInstance
+05-11 14:04:01.899: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:01.899: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:01.919: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:01.919: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:02.369: D/F1LTActivity(2229): onSaveInstanceState
+05-11 14:04:02.439: D/SocketDataReader(2229): PingOK
+05-11 14:04:02.539: D/SessionTimer(2229): decrementTime
+05-11 14:04:02.539: D/SessionTimer(2229): timerUpdated
+05-11 14:04:02.539: D/DataStreamReader(2229): getInstance
+05-11 14:04:02.539: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:02.539: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:02.549: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:02.549: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:03.339: D/SocketDataReader(2229): PingOK
+05-11 14:04:03.539: D/SessionTimer(2229): decrementTime
+05-11 14:04:03.539: D/SessionTimer(2229): timerUpdated
+05-11 14:04:03.539: D/DataStreamReader(2229): getInstance
+05-11 14:04:03.539: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:03.539: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:03.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:03.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:04.239: D/SocketDataReader(2229): PingOK
+05-11 14:04:04.539: D/SessionTimer(2229): decrementTime
+05-11 14:04:04.539: D/SessionTimer(2229): timerUpdated
+05-11 14:04:04.539: D/DataStreamReader(2229): getInstance
+05-11 14:04:04.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:04.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:04.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:04.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:05.139: D/SocketDataReader(2229): PingOK
+05-11 14:04:05.539: D/SessionTimer(2229): decrementTime
+05-11 14:04:05.539: D/SessionTimer(2229): timerUpdated
+05-11 14:04:05.549: D/DataStreamReader(2229): getInstance
+05-11 14:04:05.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:05.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:05.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:05.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:06.039: D/SocketDataReader(2229): PingOK
+05-11 14:04:06.379: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:06.379: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:06.379: D/SocketDataReader(2229): reading stream...
+05-11 14:04:06.389: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:06.389: D/DataStreamReader(2229): parseBlock: 17
+05-11 14:04:06.389: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades17.txt
+05-11 14:04:06.389: D/SessionTimer(2229): getTime
+05-11 14:04:06.399: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:04:06.399: D/parseSystemPacket(2229): 0:16:19
+05-11 14:04:06.409: D/packet(2229): TIMESTAMP=519 2 7
+05-11 14:04:06.409: D/parseSystemPacket(2229): 0:16:19
+05-11 14:04:06.409: D/DataStreamReader(2229): resetDecryption
+05-11 14:04:06.409: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:06.409: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:06.539: D/onNewDataObtained(2229): refreshView
+05-11 14:04:06.539: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:06.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:06.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:06.779: D/DataStreamReader(2229): getInstance
+05-11 14:04:06.779: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:06.779: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:06.799: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:06.799: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:06.939: D/SocketDataReader(2229): PingOK
+05-11 14:04:07.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:07.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:07.549: D/DataStreamReader(2229): getInstance
+05-11 14:04:07.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:07.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:07.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:07.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:07.839: D/SocketDataReader(2229): PingOK
+05-11 14:04:08.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:08.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:08.559: D/DataStreamReader(2229): getInstance
+05-11 14:04:08.559: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:08.559: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:08.579: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:08.579: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:08.739: D/SocketDataReader(2229): PingOK
+05-11 14:04:09.149: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:09.159: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:09.159: D/SocketDataReader(2229): reading stream...
+05-11 14:04:09.159: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:09.159: D/DataStreamReader(2229): parseBlock: 18
+05-11 14:04:09.159: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades18.txt
+05-11 14:04:09.159: D/SessionTimer(2229): getTime
+05-11 14:04:09.169: D/GUARDAT NUM DADES AL ARXIU:(2229): 21
+05-11 14:04:09.169: D/parseSystemPacket(2229): 0:16:16
+05-11 14:04:09.169: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:09.169: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:09.289: D/onNewDataObtained(2229): refreshView
+05-11 14:04:09.289: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:09.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:09.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:09.549: D/DataStreamReader(2229): getInstance
+05-11 14:04:09.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:09.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:09.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:09.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:09.639: D/SocketDataReader(2229): PingOK
+05-11 14:04:10.539: D/SocketDataReader(2229): PingOK
+05-11 14:04:10.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:10.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:10.549: D/DataStreamReader(2229): getInstance
+05-11 14:04:10.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:10.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:10.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:10.569: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:11.439: D/SocketDataReader(2229): PingOK
+05-11 14:04:11.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:11.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:11.549: D/DataStreamReader(2229): getInstance
+05-11 14:04:11.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:11.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:11.569: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:11.569: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:12.339: D/SocketDataReader(2229): PingOK
+05-11 14:04:12.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:12.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:12.549: D/DataStreamReader(2229): getInstance
+05-11 14:04:12.549: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:12.549: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:12.559: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:12.559: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:12.989: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:12.989: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:12.989: D/SocketDataReader(2229): reading stream...
+05-11 14:04:12.989: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:12.989: D/DataStreamReader(2229): parseBlock: 19
+05-11 14:04:12.999: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades19.txt
+05-11 14:04:12.999: D/SessionTimer(2229): getTime
+05-11 14:04:13.009: D/GUARDAT NUM DADES AL ARXIU:(2229): 120
+05-11 14:04:13.009: D/parseSystemPacket(2229): 0:16:12
+05-11 14:04:13.009: D/packet(2229): TIMESTAMP=525 2 13
+05-11 14:04:13.009: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.009: D/CAR=15(2229):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.009: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.009: D/CAR=18(2229):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.009: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.009: D/CAR=1(2229):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.009: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.009: D/CAR=2(2229):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.009: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.009: D/CAR=3(2229):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=4(2229):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=5(2229):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=6(2229):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=7(2229):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=8(2229):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=9(2229):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=10(2229):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.019: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.019: D/CAR=11(2229):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.029: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.029: D/CAR=12(2229):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.029: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.029: D/CAR=13(2229):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.029: D/parseCarPacket(2229): 0:16:12
+05-11 14:04:13.029: D/CAR=14(2229):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 14:04:13.029: D/parseSystemPacket(2229): 0:16:12
+05-11 14:04:13.029: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:13.029: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:13.139: D/onNewDataObtained(2229): refreshView
+05-11 14:04:13.139: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:13.249: D/SocketDataReader(2229): PingOK
+05-11 14:04:13.339: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:13.339: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:13.339: D/SocketDataReader(2229): reading stream...
+05-11 14:04:13.349: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:13.349: D/DataStreamReader(2229): parseBlock: 20
+05-11 14:04:13.349: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades20.txt
+05-11 14:04:13.349: D/SessionTimer(2229): getTime
+05-11 14:04:13.359: D/GUARDAT NUM DADES AL ARXIU:(2229): 9
+05-11 14:04:13.359: D/parseSystemPacket(2229): 0:16:12
+05-11 14:04:13.359: D/parseSystemPacket(2229): 0:16:12
+05-11 14:04:13.359: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:13.359: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:13.539: D/onNewDataObtained(2229): refreshView
+05-11 14:04:13.539: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:13.549: D/SessionTimer(2229): decrementTime
+05-11 14:04:13.549: D/SessionTimer(2229): timerUpdated
+05-11 14:04:13.749: D/DataStreamReader(2229): getInstance
+05-11 14:04:13.749: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:13.749: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:13.749: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:13.749: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:14.149: D/SocketDataReader(2229): PingOK
+05-11 14:04:14.559: D/SessionTimer(2229): decrementTime
+05-11 14:04:14.559: D/SessionTimer(2229): timerUpdated
+05-11 14:04:14.559: D/DataStreamReader(2229): getInstance
+05-11 14:04:14.559: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:14.559: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:14.569: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:14.569: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:15.049: D/SocketDataReader(2229): PingOK
+05-11 14:04:15.569: D/SessionTimer(2229): decrementTime
+05-11 14:04:15.569: D/SessionTimer(2229): timerUpdated
+05-11 14:04:15.569: D/DataStreamReader(2229): getInstance
+05-11 14:04:15.569: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:15.569: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:15.579: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:15.579: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:15.949: D/SocketDataReader(2229): PingOK
+05-11 14:04:16.569: D/SessionTimer(2229): decrementTime
+05-11 14:04:16.569: D/SessionTimer(2229): timerUpdated
+05-11 14:04:16.569: D/DataStreamReader(2229): getInstance
+05-11 14:04:16.569: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:16.569: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:16.579: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:16.579: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:16.849: D/SocketDataReader(2229): PingOK
+05-11 14:04:17.569: D/SessionTimer(2229): decrementTime
+05-11 14:04:17.569: D/SessionTimer(2229): timerUpdated
+05-11 14:04:17.569: D/DataStreamReader(2229): getInstance
+05-11 14:04:17.569: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:17.569: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:17.579: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:17.579: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:17.749: D/SocketDataReader(2229): PingOK
+05-11 14:04:18.569: D/SessionTimer(2229): decrementTime
+05-11 14:04:18.569: D/SessionTimer(2229): timerUpdated
+05-11 14:04:18.569: D/DataStreamReader(2229): getInstance
+05-11 14:04:18.569: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:18.569: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:18.589: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:18.589: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:18.649: D/SocketDataReader(2229): PingOK
+05-11 14:04:18.979: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:18.979: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:18.979: D/SocketDataReader(2229): reading stream...
+05-11 14:04:18.979: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:18.979: D/DataStreamReader(2229): parseBlock: 21
+05-11 14:04:18.979: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades21.txt
+05-11 14:04:18.979: D/SessionTimer(2229): getTime
+05-11 14:04:18.989: D/GUARDAT NUM DADES AL ARXIU:(2229): 36
+05-11 14:04:18.989: D/parseSystemPacket(2229): 0:16:06
+05-11 14:04:18.989: D/packet(2229): TIMESTAMP=531 2 19
+05-11 14:04:18.989: D/parseCarPacket(2229): 0:16:06
+05-11 14:04:18.999: D/CAR=15(2229):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:04:18.999: D/parseCarPacket(2229): 0:16:06
+05-11 14:04:18.999: D/CAR=15(2229):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 1
+05-11 14:04:18.999: D/DriverData(2229): DriverData-addLap
+05-11 14:04:18.999: D/parseSystemPacket(2229): 0:16:06
+05-11 14:04:18.999: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:18.999: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:19.189: D/onNewDataObtained(2229): refreshView
+05-11 14:04:19.199: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:19.549: D/SocketDataReader(2229): PingOK
+05-11 14:04:19.569: D/SessionTimer(2229): decrementTime
+05-11 14:04:19.579: D/SessionTimer(2229): timerUpdated
+05-11 14:04:19.579: D/DataStreamReader(2229): getInstance
+05-11 14:04:19.579: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:19.579: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:19.589: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:19.589: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:20.449: D/SocketDataReader(2229): PingOK
+05-11 14:04:20.579: D/SessionTimer(2229): decrementTime
+05-11 14:04:20.579: D/SessionTimer(2229): timerUpdated
+05-11 14:04:20.579: D/DataStreamReader(2229): getInstance
+05-11 14:04:20.579: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:20.579: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:20.589: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:20.589: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:21.349: D/SocketDataReader(2229): PingOK
+05-11 14:04:21.589: D/SessionTimer(2229): decrementTime
+05-11 14:04:21.589: D/SessionTimer(2229): timerUpdated
+05-11 14:04:21.589: D/DataStreamReader(2229): getInstance
+05-11 14:04:21.589: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:21.589: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:21.619: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:21.619: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:22.249: D/SocketDataReader(2229): PingOK
+05-11 14:04:22.369: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:22.369: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:22.369: D/SocketDataReader(2229): reading stream...
+05-11 14:04:22.369: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:22.369: D/DataStreamReader(2229): parseBlock: 22
+05-11 14:04:22.369: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades22.txt
+05-11 14:04:22.369: D/SessionTimer(2229): getTime
+05-11 14:04:22.389: D/GUARDAT NUM DADES AL ARXIU:(2229): 8
+05-11 14:04:22.389: D/parseSystemPacket(2229): 0:16:03
+05-11 14:04:22.389: D/packet(2229): TIMESTAMP=535 2 23
+05-11 14:04:22.389: D/parseSystemPacket(2229): 0:16:03
+05-11 14:04:22.389: D/DataStreamReader(2229): resetDecryption
+05-11 14:04:22.389: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:22.389: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:22.519: D/onNewDataObtained(2229): refreshView
+05-11 14:04:22.519: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:22.589: D/SessionTimer(2229): decrementTime
+05-11 14:04:22.589: D/SessionTimer(2229): timerUpdated
+05-11 14:04:22.809: D/DataStreamReader(2229): getInstance
+05-11 14:04:22.809: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:22.809: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:22.819: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:22.819: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:23.159: D/SocketDataReader(2229): PingOK
+05-11 14:04:23.589: D/SessionTimer(2229): decrementTime
+05-11 14:04:23.589: D/SessionTimer(2229): timerUpdated
+05-11 14:04:23.589: D/DataStreamReader(2229): getInstance
+05-11 14:04:23.589: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:23.589: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:23.629: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:23.629: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:24.059: D/SocketDataReader(2229): PingOK
+05-11 14:04:24.589: D/SessionTimer(2229): decrementTime
+05-11 14:04:24.589: D/SessionTimer(2229): timerUpdated
+05-11 14:04:24.589: D/DataStreamReader(2229): getInstance
+05-11 14:04:24.589: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:24.589: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:24.619: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:24.619: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:24.949: D/SocketDataReader(2229): PingOK
+05-11 14:04:25.589: D/SessionTimer(2229): decrementTime
+05-11 14:04:25.589: D/SessionTimer(2229): timerUpdated
+05-11 14:04:25.589: D/DataStreamReader(2229): getInstance
+05-11 14:04:25.589: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:25.589: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:25.619: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:25.619: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:25.859: D/SocketDataReader(2229): PingOK
+05-11 14:04:26.149: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:26.149: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:26.149: D/SocketDataReader(2229): reading stream...
+05-11 14:04:26.149: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:26.149: D/DataStreamReader(2229): parseBlock: 23
+05-11 14:04:26.149: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades23.txt
+05-11 14:04:26.149: D/SessionTimer(2229): getTime
+05-11 14:04:26.159: D/GUARDAT NUM DADES AL ARXIU:(2229): 25
+05-11 14:04:26.159: D/parseSystemPacket(2229): 0:15:59
+05-11 14:04:26.159: D/packet(2229): TIMESTAMP=539 2 27
+05-11 14:04:26.159: D/parseSystemPacket(2229): 0:15:59
+05-11 14:04:26.159: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:26.159: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:26.279: D/onNewDataObtained(2229): refreshView
+05-11 14:04:26.279: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:26.599: D/SessionTimer(2229): decrementTime
+05-11 14:04:26.599: D/SessionTimer(2229): timerUpdated
+05-11 14:04:26.599: D/DataStreamReader(2229): getInstance
+05-11 14:04:26.599: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:26.599: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:26.619: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:26.619: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:26.759: D/SocketDataReader(2229): PingOK
+05-11 14:04:26.869: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:26.869: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:26.869: D/SocketDataReader(2229): reading stream...
+05-11 14:04:26.869: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:26.869: D/DataStreamReader(2229): parseBlock: 24
+05-11 14:04:26.869: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades24.txt
+05-11 14:04:26.869: D/SessionTimer(2229): getTime
+05-11 14:04:26.889: D/GUARDAT NUM DADES AL ARXIU:(2229): 30
+05-11 14:04:26.889: D/parseSystemPacket(2229): 0:15:58
+05-11 14:04:26.889: D/packet(2229): TIMESTAMP=540 2 28
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.889: D/CAR=11(2229):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.889: D/CAR=15(2229):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.889: D/CAR=18(2229):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.889: D/CAR=1(2229):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.889: D/CAR=2(2229):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.889: D/CAR=3(2229):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.889: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.899: D/CAR=4(2229):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.899: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.899: D/CAR=5(2229):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.899: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.899: D/CAR=6(2229):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.899: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.899: D/CAR=7(2229):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.899: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.899: D/CAR=8(2229):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.899: D/parseCarPacket(2229): 0:15:58
+05-11 14:04:26.899: D/CAR=9(2229):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 14:04:26.899: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:26.909: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:26.999: D/onNewDataObtained(2229): refreshView
+05-11 14:04:26.999: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:27.599: D/SessionTimer(2229): decrementTime
+05-11 14:04:27.599: D/SessionTimer(2229): timerUpdated
+05-11 14:04:27.599: D/DataStreamReader(2229): getInstance
+05-11 14:04:27.599: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:27.599: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:27.599: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:27.599: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:27.659: D/SocketDataReader(2229): PingOK
+05-11 14:04:27.889: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:27.889: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:27.889: D/SocketDataReader(2229): reading stream...
+05-11 14:04:27.889: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:27.889: D/DataStreamReader(2229): parseBlock: 25
+05-11 14:04:27.889: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades25.txt
+05-11 14:04:27.889: D/SessionTimer(2229): getTime
+05-11 14:04:27.899: D/GUARDAT NUM DADES AL ARXIU:(2229): 11
+05-11 14:04:27.899: D/parseCarPacket(2229): 0:15:57
+05-11 14:04:27.899: D/CAR=10(2229):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 14:04:27.899: D/parseSystemPacket(2229): 0:15:57
+05-11 14:04:27.899: D/parseSystemPacket(2229): 0:15:57
+05-11 14:04:27.899: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:27.899: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:28.019: D/onNewDataObtained(2229): refreshView
+05-11 14:04:28.019: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:28.559: D/SocketDataReader(2229): PingOK
+05-11 14:04:28.599: D/SessionTimer(2229): decrementTime
+05-11 14:04:28.599: D/SessionTimer(2229): timerUpdated
+05-11 14:04:28.599: D/DataStreamReader(2229): getInstance
+05-11 14:04:28.599: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:28.599: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:28.629: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:28.629: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:29.459: D/SocketDataReader(2229): PingOK
+05-11 14:04:29.599: D/SessionTimer(2229): decrementTime
+05-11 14:04:29.599: D/SessionTimer(2229): timerUpdated
+05-11 14:04:29.599: D/DataStreamReader(2229): getInstance
+05-11 14:04:29.599: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:29.599: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:29.629: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:29.629: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:30.359: D/SocketDataReader(2229): PingOK
+05-11 14:04:30.599: D/SessionTimer(2229): decrementTime
+05-11 14:04:30.599: D/SessionTimer(2229): timerUpdated
+05-11 14:04:30.599: D/DataStreamReader(2229): getInstance
+05-11 14:04:30.599: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:30.599: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:30.629: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:30.629: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:31.259: D/SocketDataReader(2229): PingOK
+05-11 14:04:31.359: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:31.359: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:31.359: D/SocketDataReader(2229): reading stream...
+05-11 14:04:31.359: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:31.359: D/DataStreamReader(2229): parseBlock: 26
+05-11 14:04:31.359: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades26.txt
+05-11 14:04:31.359: D/SessionTimer(2229): getTime
+05-11 14:04:31.379: D/GUARDAT NUM DADES AL ARXIU:(2229): 43
+05-11 14:04:31.379: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.379: D/CAR=11(2229):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:04:31.379: D/parseSystemPacket(2229): 0:15:54
+05-11 14:04:31.379: D/packet(2229): TIMESTAMP=544 2 32
+05-11 14:04:31.379: D/parseSystemPacket(2229): 0:15:54
+05-11 14:04:31.379: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.379: D/CAR=11(2229):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 1
+05-11 14:04:31.379: D/DriverData(2229): DriverData-addLap
+05-11 14:04:31.379: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.379: D/CAR=17(2229):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.379: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.379: D/CAR=18(2229):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.379: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=1(2229):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=2(2229):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=3(2229):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=4(2229):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=5(2229):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=6(2229):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=7(2229):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=8(2229):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.389: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.389: D/CAR=9(2229):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.399: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.399: D/CAR=10(2229):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.399: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.399: D/CAR=12(2229):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.399: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.399: D/CAR=13(2229):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.399: D/parseCarPacket(2229): 0:15:54
+05-11 14:04:31.399: D/CAR=14(2229):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-11 14:04:31.399: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:31.399: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:31.499: D/onNewDataObtained(2229): refreshView
+05-11 14:04:31.499: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:31.619: D/SessionTimer(2229): decrementTime
+05-11 14:04:31.619: D/SessionTimer(2229): timerUpdated
+05-11 14:04:31.699: D/DataStreamReader(2229): getInstance
+05-11 14:04:31.699: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:31.699: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:31.709: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:31.709: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:32.159: D/SocketDataReader(2229): PingOK
+05-11 14:04:32.489: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:32.489: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:32.489: D/SocketDataReader(2229): reading stream...
+05-11 14:04:32.499: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:32.499: D/DataStreamReader(2229): parseBlock: 27
+05-11 14:04:32.499: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades27.txt
+05-11 14:04:32.499: D/SessionTimer(2229): getTime
+05-11 14:04:32.509: D/GUARDAT NUM DADES AL ARXIU:(2229): 5
+05-11 14:04:32.509: D/parseCarPacket(2229): 0:15:53
+05-11 14:04:32.509: D/CAR=16(2229):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-11 14:04:32.509: D/parseSystemPacket(2229): 0:15:53
+05-11 14:04:32.509: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:32.509: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:32.619: D/SessionTimer(2229): decrementTime
+05-11 14:04:32.619: D/SessionTimer(2229): timerUpdated
+05-11 14:04:32.649: D/onNewDataObtained(2229): refreshView
+05-11 14:04:32.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:32.899: D/DataStreamReader(2229): getInstance
+05-11 14:04:32.899: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:32.909: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:32.909: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:32.909: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:33.069: D/SocketDataReader(2229): PingOK
+05-11 14:04:33.509: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:33.519: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:33.519: D/DataStreamReader(2229): parseBlock: 28
+05-11 14:04:33.519: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades28.txt
+05-11 14:04:33.519: D/SessionTimer(2229): getTime
+05-11 14:04:33.519: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:33.519: D/SocketDataReader(2229): reading stream...
+05-11 14:04:33.529: D/GUARDAT NUM DADES AL ARXIU:(2229): 31
+05-11 14:04:33.529: D/parseSystemPacket(2229): 0:15:52
+05-11 14:04:33.529: D/packet(2229): TIMESTAMP=546 2 34
+05-11 14:04:33.529: D/parseSystemPacket(2229): 0:15:52
+05-11 14:04:33.529: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:33.529: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:33.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:33.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:33.659: D/onNewDataObtained(2229): refreshView
+05-11 14:04:33.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:33.929: D/DataStreamReader(2229): getInstance
+05-11 14:04:33.929: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:33.939: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:33.949: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:33.949: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:33.959: D/SocketDataReader(2229): PingOK
+05-11 14:04:34.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:34.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:34.629: D/DataStreamReader(2229): getInstance
+05-11 14:04:34.629: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:34.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:34.639: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:34.639: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:34.749: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:34.749: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:34.749: D/SocketDataReader(2229): reading stream...
+05-11 14:04:34.759: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:34.759: D/DataStreamReader(2229): parseBlock: 29
+05-11 14:04:34.759: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades29.txt
+05-11 14:04:34.759: D/SessionTimer(2229): getTime
+05-11 14:04:34.769: D/GUARDAT NUM DADES AL ARXIU:(2229): 38
+05-11 14:04:34.769: D/parseCarPacket(2229): 0:15:50
+05-11 14:04:34.769: D/CAR=17(2229):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:04:34.769: D/parseCarPacket(2229): 0:15:50
+05-11 14:04:34.769: D/CAR=17(2229):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 1
+05-11 14:04:34.769: D/DriverData(2229): DriverData-addLap
+05-11 14:04:34.779: D/parseSystemPacket(2229): 0:15:50
+05-11 14:04:34.779: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:34.779: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:34.859: D/SocketDataReader(2229): PingOK
+05-11 14:04:34.899: D/onNewDataObtained(2229): refreshView
+05-11 14:04:34.899: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:35.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:35.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:35.629: D/DataStreamReader(2229): getInstance
+05-11 14:04:35.629: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:35.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:35.639: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:35.639: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:35.769: D/SocketDataReader(2229): PingOK
+05-11 14:04:36.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:36.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:36.629: D/DataStreamReader(2229): getInstance
+05-11 14:04:36.629: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:36.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:36.639: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:36.639: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:36.699: D/SocketDataReader(2229): PingOK
+05-11 14:04:37.599: D/SocketDataReader(2229): PingOK
+05-11 14:04:37.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:37.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:37.629: D/DataStreamReader(2229): getInstance
+05-11 14:04:37.629: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:37.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:37.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:37.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:38.239: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:38.239: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:38.239: D/SocketDataReader(2229): reading stream...
+05-11 14:04:38.239: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:38.239: D/DataStreamReader(2229): parseBlock: 30
+05-11 14:04:38.239: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades30.txt
+05-11 14:04:38.239: D/SessionTimer(2229): getTime
+05-11 14:04:38.249: D/GUARDAT NUM DADES AL ARXIU:(2229): 12
+05-11 14:04:38.249: D/parseSystemPacket(2229): 0:15:47
+05-11 14:04:38.249: D/packet(2229): TIMESTAMP=551 2 39
+05-11 14:04:38.249: D/parseSystemPacket(2229): 0:15:47
+05-11 14:04:38.259: D/parseSystemPacket(2229): 0:15:47
+05-11 14:04:38.259: D/DataStreamReader(2229): resetDecryption
+05-11 14:04:38.259: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:38.259: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:38.369: D/onNewDataObtained(2229): refreshView
+05-11 14:04:38.369: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:38.499: D/SocketDataReader(2229): PingOK
+05-11 14:04:38.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:38.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:38.629: D/DataStreamReader(2229): getInstance
+05-11 14:04:38.629: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:38.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:38.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:38.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:39.399: D/SocketDataReader(2229): PingOK
+05-11 14:04:39.629: D/SessionTimer(2229): decrementTime
+05-11 14:04:39.629: D/SessionTimer(2229): timerUpdated
+05-11 14:04:39.629: D/DataStreamReader(2229): getInstance
+05-11 14:04:39.629: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:39.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:39.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:39.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:39.749: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:39.749: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:39.749: D/SocketDataReader(2229): reading stream...
+05-11 14:04:39.749: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:39.759: D/DataStreamReader(2229): parseBlock: 31
+05-11 14:04:39.759: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades31.txt
+05-11 14:04:39.759: D/SessionTimer(2229): getTime
+05-11 14:04:39.769: D/GUARDAT NUM DADES AL ARXIU:(2229): 43
+05-11 14:04:39.769: D/parseSystemPacket(2229): 0:15:45
+05-11 14:04:39.769: D/packet(2229): TIMESTAMP=552 2 40
+05-11 14:04:39.769: D/parseSystemPacket(2229): 0:15:45
+05-11 14:04:39.769: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:39.769: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:39.979: D/onNewDataObtained(2229): refreshView
+05-11 14:04:39.979: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:40.299: D/SocketDataReader(2229): PingOK
+05-11 14:04:40.639: D/SessionTimer(2229): decrementTime
+05-11 14:04:40.639: D/SessionTimer(2229): timerUpdated
+05-11 14:04:40.639: D/DataStreamReader(2229): getInstance
+05-11 14:04:40.639: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:40.639: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:40.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:40.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:40.679: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:40.679: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:40.679: D/SocketDataReader(2229): reading stream...
+05-11 14:04:40.699: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:40.699: D/DataStreamReader(2229): parseBlock: 32
+05-11 14:04:40.699: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades32.txt
+05-11 14:04:40.699: D/SessionTimer(2229): getTime
+05-11 14:04:40.719: D/GUARDAT NUM DADES AL ARXIU:(2229): 101
+05-11 14:04:40.719: D/parseSystemPacket(2229): 0:15:44
+05-11 14:04:40.719: D/parseSystemPacket(2229): 0:15:44
+05-11 14:04:40.719: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:40.719: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:40.799: D/onNewDataObtained(2229): refreshView
+05-11 14:04:40.799: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:41.199: D/SocketDataReader(2229): PingOK
+05-11 14:04:41.599: D/SocketDataReader(2229): sendDataBlock
+05-11 14:04:41.599: D/onKeyFrameObtained(2229): DINS WHILE CONNECTED
+05-11 14:04:41.599: D/SocketDataReader(2229): reading stream...
+05-11 14:04:41.599: D/DataStreamReader(2229): onDataBlockObtained
+05-11 14:04:41.599: D/DataStreamReader(2229): parseBlock: 33
+05-11 14:04:41.599: D/ARREL ARXIU:(2229): /mnt/sdcard/PROVA/F1/BAR/Q/Dades33.txt
+05-11 14:04:41.599: D/SessionTimer(2229): getTime
+05-11 14:04:41.629: D/GUARDAT NUM DADES AL ARXIU:(2229): 13
+05-11 14:04:41.629: D/parseSystemPacket(2229): 0:15:44
+05-11 14:04:41.629: D/packet(2229): TIMESTAMP=553 2 41
+05-11 14:04:41.629: D/parseSystemPacket(2229): 0:15:44
+05-11 14:04:41.629: D/parseSystemPacket(2229): 0:15:44
+05-11 14:04:41.629: D/DataStreamReader(2229): newDataObtained
+05-11 14:04:41.629: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:41.639: D/SessionTimer(2229): decrementTime
+05-11 14:04:41.639: D/SessionTimer(2229): timerUpdated
+05-11 14:04:41.769: D/onNewDataObtained(2229): refreshView
+05-11 14:04:41.769: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:41.989: D/DataStreamReader(2229): getInstance
+05-11 14:04:41.989: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:41.989: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:41.989: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:41.989: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:42.099: D/SocketDataReader(2229): PingOK
+05-11 14:04:42.639: D/SessionTimer(2229): decrementTime
+05-11 14:04:42.639: D/SessionTimer(2229): timerUpdated
+05-11 14:04:42.639: D/DataStreamReader(2229): getInstance
+05-11 14:04:42.639: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:42.639: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:42.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:42.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:42.999: D/SocketDataReader(2229): PingOK
+05-11 14:04:43.639: D/SessionTimer(2229): decrementTime
+05-11 14:04:43.639: D/SessionTimer(2229): timerUpdated
+05-11 14:04:43.639: D/DataStreamReader(2229): getInstance
+05-11 14:04:43.639: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:43.639: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:43.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:43.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:43.899: D/SocketDataReader(2229): PingOK
+05-11 14:04:44.639: D/SessionTimer(2229): decrementTime
+05-11 14:04:44.639: D/SessionTimer(2229): timerUpdated
+05-11 14:04:44.639: D/DataStreamReader(2229): getInstance
+05-11 14:04:44.639: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:44.639: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:44.649: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:44.649: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:44.799: D/SocketDataReader(2229): PingOK
+05-11 14:04:45.639: D/SessionTimer(2229): decrementTime
+05-11 14:04:45.639: D/SessionTimer(2229): timerUpdated
+05-11 14:04:45.639: D/DataStreamReader(2229): getInstance
+05-11 14:04:45.639: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:45.639: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:45.659: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:45.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:45.699: D/SocketDataReader(2229): PingOK
+05-11 14:04:46.609: D/SocketDataReader(2229): PingOK
+05-11 14:04:46.649: D/SessionTimer(2229): decrementTime
+05-11 14:04:46.649: D/SessionTimer(2229): timerUpdated
+05-11 14:04:46.649: D/DataStreamReader(2229): getInstance
+05-11 14:04:46.649: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:46.649: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:46.659: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:46.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:47.499: D/SocketDataReader(2229): PingOK
+05-11 14:04:47.649: D/SessionTimer(2229): decrementTime
+05-11 14:04:47.649: D/SessionTimer(2229): timerUpdated
+05-11 14:04:47.649: D/DataStreamReader(2229): getInstance
+05-11 14:04:47.649: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:47.649: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:47.659: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:47.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:48.409: D/SocketDataReader(2229): PingOK
+05-11 14:04:48.649: D/SessionTimer(2229): decrementTime
+05-11 14:04:48.649: D/SessionTimer(2229): timerUpdated
+05-11 14:04:48.649: D/DataStreamReader(2229): getInstance
+05-11 14:04:48.649: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:48.649: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:48.659: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:48.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:49.309: D/SocketDataReader(2229): PingOK
+05-11 14:04:49.649: D/SessionTimer(2229): decrementTime
+05-11 14:04:49.649: D/SessionTimer(2229): timerUpdated
+05-11 14:04:49.649: D/DataStreamReader(2229): getInstance
+05-11 14:04:49.649: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:49.649: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:49.659: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:49.659: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:50.209: D/SocketDataReader(2229): PingOK
+05-11 14:04:50.659: D/SessionTimer(2229): decrementTime
+05-11 14:04:50.659: D/SessionTimer(2229): timerUpdated
+05-11 14:04:50.659: D/DataStreamReader(2229): getInstance
+05-11 14:04:50.659: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:50.659: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:50.669: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:50.669: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:51.109: D/SocketDataReader(2229): PingOK
+05-11 14:04:51.659: D/SessionTimer(2229): decrementTime
+05-11 14:04:51.659: D/SessionTimer(2229): timerUpdated
+05-11 14:04:51.659: D/DataStreamReader(2229): getInstance
+05-11 14:04:51.659: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:51.659: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:51.679: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:51.679: D/F1LTActivity(2229): updateCommentaryLine
+05-11 14:04:52.009: D/SocketDataReader(2229): PingOK
+05-11 14:04:52.659: D/SessionTimer(2229): decrementTime
+05-11 14:04:52.659: D/SessionTimer(2229): timerUpdated
+05-11 14:04:52.659: D/DataStreamReader(2229): getInstance
+05-11 14:04:52.669: D/DataStreamReader(2229): onSessionTimerUpdated
+05-11 14:04:52.669: D/F1LTActivity(2229): onNewDataObtained
+05-11 14:04:52.679: D/onNewDataObtained(2229): updateStatus
+05-11 14:04:52.679: D/F1LTActivity(2229): updateCommentaryLine

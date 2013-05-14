@@ -1,0 +1,2008 @@
+05-11 14:46:51.869: I/ApplicationPackageManager(3431): cscCountry is not German : YOG
+05-11 14:46:51.889: D/F1LTActivity(3431): onCreate
+05-11 14:46:52.099: D/DataStreamReader(3431): getInstance
+05-11 14:46:52.099: D/DataStreamReader(3431): setDataStreamReceiver
+05-11 14:46:52.259: W/ApplicationContext(3431): getSharedPreferences
+05-11 14:46:52.259: D/DataStreamReader(3431): isConnected
+05-11 14:46:52.259: D/F1LTAct L139(3431): No conectat
+05-11 14:46:52.259: D/F1LTActivity(3431): login
+05-11 14:46:52.279: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:46:52.279: D/F1LTActivity(3431): onStart
+05-11 14:46:52.479: D/F1LTActivity(3431): onSaveInstanceState
+05-11 14:46:52.499: I/ApplicationPackageManager(3431): cscCountry is not German : YOG
+05-11 14:46:57.429: D/F1LTActivity(3431): onActivityResult
+05-11 14:46:57.429: D/ResultCode dins F1LT(3431): -1
+05-11 14:46:57.429: D/F1LTActivity(3431): onConnectedClicked
+05-11 14:46:57.429: D/DataStreamReader(3431): encodePasswd
+05-11 14:46:57.449: D/HttpReader(3431): attemptAuth
+05-11 14:46:57.449: D/F1LTActivity(3431): onRestart
+05-11 14:46:57.449: D/F1LTActivity(3431): onStart
+05-11 14:46:57.459: D/HttpReader(3431): authorize
+05-11 14:46:59.859: I/global(3431): Loaded time zone names for en_US in 1564ms.
+05-11 14:47:00.289: D/HttpReader(3431): sendAuthenticationCookie
+05-11 14:47:00.289: D/F1LTActivity(3431): onAuthorized
+05-11 14:47:00.359: D/DataStreamReader(3431): connectToStream
+05-11 14:47:00.359: D/HttpReader(3431): attemptObtainKeyFrame
+05-11 14:47:00.369: D/HttpReader(3431): obtainKeyFrame
+05-11 14:47:00.619: D/HttpReader(3431): sendKeyFrame
+05-11 14:47:00.619: D/DataStreamReader(3431): onKeyFrameObtained
+05-11 14:47:00.619: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:00.619: D/DataStreamReader(3431): parseBlock: 1
+05-11 14:47:00.679: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades1.txt
+05-11 14:47:00.679: D/SessionTimer(3431): getTime
+05-11 14:47:00.709: D/GUARDAT NUM DADES AL ARXIU:(3431): 8297
+05-11 14:47:00.709: D/HTTP ATTEMPT L752(3431): 0
+05-11 14:47:00.709: D/HttpReader(3431): attemptObtainDecryptionKey
+05-11 14:47:00.719: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:00.719: D/CAR=1(3431):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.729: D/HttpReader(3431): obtainDecryptionKey
+05-11 14:47:00.729: D/CAR=2(3431):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.729: D/CAR=3(3431):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.739: D/CAR=4(3431):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.739: D/CAR=5(3431):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.739: D/CAR=6(3431):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.749: D/CAR=7(3431):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.749: D/CAR=8(3431):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.749: D/CAR=9(3431):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.749: D/CAR=10(3431):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.749: D/CAR=11(3431):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.759: D/CAR=12(3431):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.759: D/CAR=13(3431):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.759: D/CAR=14(3431):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=15(3431):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=16(3431):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=17(3431):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=18(3431):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=19(3431):  CAR TYPE=0 CAR DATA= 22 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=20(3431):  CAR TYPE=0 CAR DATA= 19 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.769: D/CAR=21(3431):  CAR TYPE=0 CAR DATA= 20 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.779: D/CAR=22(3431):  CAR TYPE=0 CAR DATA= 21 CAR LEN= 0 LONG DATA= 
+05-11 14:47:00.869: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:00.869: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:00.869: D/SocketDataReader(3431): isConnected
+05-11 14:47:00.869: D/Nom fitxer KEY:(3431): DadesKEY.txt
+05-11 14:47:00.869: D/GUARDAT KEY.(3431): -1186878902
+05-11 14:47:00.879: D/GUARDAT KEY STRING(3431): -1186878902
+05-11 14:47:00.879: D/HttpReader(3431): sendDecryptionKey
+05-11 14:47:00.889: D/DataStreamReader(3431): onDecryptionKeyObtained
+05-11 14:47:00.889: D/KEY ES(3431): -1186878902
+05-11 14:47:00.889: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 1
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= S. VETTEL
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.158
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.602
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.6
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.2
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=1(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:00.889: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 2
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= M. WEBBER
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.342
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.718
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.6
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.2
+05-11 14:47:00.889: D/DriverData(3431): setTime-str
+05-11 14:47:00.889: D/CAR=2(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:00.889: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.889: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): setTime-lt
+05-11 14:47:00.889: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.899: D/SocketDataReader(3431): openStream
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 3
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= F. ALONSO
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.264
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.646
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.5
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.4
+05-11 14:47:00.909: D/DriverData(3431): setTime-str
+05-11 14:47:00.909: D/CAR=3(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:00.909: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.909: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.909: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.909: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): setTime-lt
+05-11 14:47:00.909: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.909: D/CAR=4(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+05-11 14:47:00.909: D/CAR=4(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 4
+05-11 14:47:00.909: D/CAR=4(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= F. MASSA
+05-11 14:47:00.909: D/CAR=4(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.492
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=4(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.978
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=4(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=4(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.6
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=4(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=4(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:00.929: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 14
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 5
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. BUTTON
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.166
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.355
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=5(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:00.929: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.929: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): setTime-lt
+05-11 14:47:00.929: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.929: D/CAR=6(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+05-11 14:47:00.929: D/CAR=6(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:00.929: D/CAR=6(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= S. PEREZ
+05-11 14:47:00.929: D/CAR=6(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.116
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/CAR=6(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.790
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.929: D/DriverData(3431): setTime-str
+05-11 14:47:00.949: D/CAR=6(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.7
+05-11 14:47:00.949: D/DriverData(3431): setTime-str
+05-11 14:47:00.949: D/CAR=6(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:47:00.949: D/DriverData(3431): setTime-str
+05-11 14:47:00.949: D/CAR=6(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.1
+05-11 14:47:00.949: D/DriverData(3431): setTime-str
+05-11 14:47:00.949: D/CAR=6(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 10
+05-11 14:47:00.949: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.949: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.949: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.949: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): setTime-lt
+05-11 14:47:00.949: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 7
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= K. RAIKKONEN
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.210
+05-11 14:47:00.959: D/DriverData(3431): setTime-str
+05-11 14:47:00.959: D/DriverData(3431): setTime-str
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.676
+05-11 14:47:00.959: D/DriverData(3431): setTime-str
+05-11 14:47:00.959: D/DriverData(3431): setTime-str
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:47:00.959: D/DriverData(3431): setTime-str
+05-11 14:47:00.959: D/CAR=7(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.4
+05-11 14:47:00.959: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:47:00.969: D/SocketDataReader(3431): reading stream...
+05-11 14:47:00.969: D/CAR=7(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.6
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/CAR=7(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 11
+05-11 14:47:00.969: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.969: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.969: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.969: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): setTime-lt
+05-11 14:47:00.969: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 8
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= R. GROSJEAN
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.613
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.998
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.969: D/CAR=8(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.7
+05-11 14:47:00.969: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=8(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.6
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=8(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 11
+05-11 14:47:00.979: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= N. ROSBERG
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.913
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.776
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.7
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.0
+05-11 14:47:00.979: D/DriverData(3431): setTime-str
+05-11 14:47:00.979: D/CAR=9(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:00.979: D/DriverData(3431): DriverData-addLap
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:00.979: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): setTime-lt
+05-11 14:47:00.979: D/DriverData(3431): LapTime-diff
+05-11 14:47:00.999: D/SocketDataReader(3431): sendDataBlock
+05-11 14:47:00.999: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:47:00.999: D/SocketDataReader(3431): reading stream...
+05-11 14:47:00.999: D/CAR=10(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+05-11 14:47:00.999: D/CAR=10(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 10
+05-11 14:47:00.999: D/CAR=10(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= L. HAMILTON
+05-11 14:47:00.999: D/CAR=10(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.728
+05-11 14:47:00.999: D/DriverData(3431): setTime-str
+05-11 14:47:00.999: D/DriverData(3431): setTime-str
+05-11 14:47:00.999: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.999: D/DriverData(3431): setTime-str
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): setTime-lt
+05-11 14:47:00.999: D/CAR=10(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.001
+05-11 14:47:00.999: D/DriverData(3431): setTime-str
+05-11 14:47:00.999: D/DriverData(3431): setTime-str
+05-11 14:47:00.999: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:00.999: D/DriverData(3431): setTime-lt
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:00.999: D/DriverData(3431): DriverData-updateGaps
+05-11 14:47:01.009: D/CAR=10(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.7
+05-11 14:47:01.009: D/DriverData(3431): setTime-str
+05-11 14:47:01.009: D/CAR=10(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.4
+05-11 14:47:01.009: D/DriverData(3431): setTime-str
+05-11 14:47:01.009: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 27.7
+05-11 14:47:01.009: D/DriverData(3431): setTime-str
+05-11 14:47:01.009: D/CAR=10(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:01.009: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.019: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.019: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.019: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): setTime-lt
+05-11 14:47:01.019: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.019: D/CAR=11(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 15
+05-11 14:47:01.019: D/CAR=11(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 11
+05-11 14:47:01.019: D/CAR=11(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 13 LONG DATA= N. HULKENBERG
+05-11 14:47:01.019: D/CAR=11(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.058
+05-11 14:47:01.019: D/DriverData(3431): setTime-str
+05-11 14:47:01.019: D/DriverData(3431): setTime-str
+05-11 14:47:01.029: D/CAR=11(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.389
+05-11 14:47:01.029: D/DriverData(3431): setTime-str
+05-11 14:47:01.029: D/DriverData(3431): setTime-str
+05-11 14:47:01.029: D/CAR=11(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 14:47:01.029: D/DriverData(3431): setTime-str
+05-11 14:47:01.029: D/CAR=11(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.8
+05-11 14:47:01.029: D/DriverData(3431): setTime-str
+05-11 14:47:01.029: D/CAR=11(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:47:01.029: D/DriverData(3431): setTime-str
+05-11 14:47:01.029: D/CAR=11(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 13
+05-11 14:47:01.029: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.029: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.029: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.029: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.029: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.029: D/DriverData(3431): setTime-lt
+05-11 14:47:01.049: D/DriverData(3431): setTime-lt
+05-11 14:47:01.049: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 16
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 12
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= E. GUTIERREZ
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.218
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.793
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.049: D/CAR=12(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:47:01.049: D/DriverData(3431): setTime-str
+05-11 14:47:01.059: D/CAR=12(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 15
+05-11 14:47:01.059: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.059: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.059: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.059: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): setTime-lt
+05-11 14:47:01.059: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.059: D/CAR=13(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 10
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 14
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= P. DI RESTA
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.663
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.019
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.7
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.3
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=13(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 13
+05-11 14:47:01.069: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.069: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.069: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.069: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 13
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 15
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= A. SUTIL
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.952
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.346
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.3
+05-11 14:47:01.069: D/DriverData(3431): setTime-str
+05-11 14:47:01.069: D/CAR=14(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 12
+05-11 14:47:01.069: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): setTime-lt
+05-11 14:47:01.069: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.079: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.079: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.079: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.079: D/DriverData(3431): setTime-lt
+05-11 14:47:01.079: D/DriverData(3431): setTime-lt
+05-11 14:47:01.079: D/DriverData(3431): setTime-lt
+05-11 14:47:01.079: D/DriverData(3431): setTime-lt
+05-11 14:47:01.079: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.079: D/CAR=15(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 18
+05-11 14:47:01.079: D/CAR=15(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 16
+05-11 14:47:01.079: D/CAR=15(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 12 LONG DATA= P. MALDONADO
+05-11 14:47:01.079: D/CAR=15(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.318
+05-11 14:47:01.079: D/DriverData(3431): setTime-str
+05-11 14:47:01.079: D/DriverData(3431): setTime-str
+05-11 14:47:01.079: D/CAR=15(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 14:47:01.079: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=15(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.3
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=15(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.9
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=15(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:01.089: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 17
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 17
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 9 LONG DATA= V. BOTTAS
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.260
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.0
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.8
+05-11 14:47:01.089: D/DriverData(3431): setTime-str
+05-11 14:47:01.089: D/CAR=16(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 9
+05-11 14:47:01.089: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.089: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): setTime-lt
+05-11 14:47:01.089: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.089: D/CAR=17(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 12
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 18
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. VERGNE
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.775
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.166
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.8
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.099: D/CAR=17(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.4
+05-11 14:47:01.099: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/CAR=17(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 12
+05-11 14:47:01.109: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 11
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 19
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= D. RICCIARDO
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.905
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.127
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.8
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.4
+05-11 14:47:01.109: D/DriverData(3431): setTime-str
+05-11 14:47:01.109: D/CAR=18(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 14
+05-11 14:47:01.109: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): setTime-lt
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.109: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.119: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.119: D/DriverData(3431): setTime-lt
+05-11 14:47:01.119: D/DriverData(3431): setTime-lt
+05-11 14:47:01.119: D/DriverData(3431): setTime-lt
+05-11 14:47:01.119: D/DriverData(3431): setTime-lt
+05-11 14:47:01.119: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.119: D/CAR=19(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 22
+05-11 14:47:01.119: D/CAR=19(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 20
+05-11 14:47:01.119: D/CAR=19(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 6 LONG DATA= C. PIC
+05-11 14:47:01.119: D/CAR=19(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.070
+05-11 14:47:01.119: D/DriverData(3431): setTime-str
+05-11 14:47:01.119: D/DriverData(3431): setTime-str
+05-11 14:47:01.119: D/CAR=19(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.3
+05-11 14:47:01.119: D/DriverData(3431): setTime-str
+05-11 14:47:01.129: D/CAR=19(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 14:47:01.129: D/DriverData(3431): setTime-str
+05-11 14:47:01.129: D/CAR=19(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.8
+05-11 14:47:01.129: D/DriverData(3431): setTime-str
+05-11 14:47:01.129: D/CAR=19(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:01.129: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.129: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.129: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.129: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): setTime-lt
+05-11 14:47:01.129: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.129: D/CAR=20(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 19
+05-11 14:47:01.129: D/CAR=20(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 21
+05-11 14:47:01.129: D/CAR=20(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 14 LONG DATA= G. VAN DER GAR
+05-11 14:47:01.129: D/CAR=20(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.661
+05-11 14:47:01.129: D/DriverData(3431): setTime-str
+05-11 14:47:01.129: D/DriverData(3431): setTime-str
+05-11 14:47:01.129: D/CAR=20(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.3
+05-11 14:47:01.129: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=20(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=20(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.5
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=20(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:01.139: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 20
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 22
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 10 LONG DATA= J. BIANCHI
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.713
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.4
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.4
+05-11 14:47:01.139: D/DriverData(3431): setTime-str
+05-11 14:47:01.139: D/CAR=21(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:01.139: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.139: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): setTime-lt
+05-11 14:47:01.139: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.139: D/CAR=22(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 21
+05-11 14:47:01.139: D/CAR=22(3431):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 23
+05-11 14:47:01.149: D/CAR=22(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 10 LONG DATA= M. CHILTON
+05-11 14:47:01.149: D/CAR=22(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.996
+05-11 14:47:01.149: D/DriverData(3431): setTime-str
+05-11 14:47:01.149: D/DriverData(3431): setTime-str
+05-11 14:47:01.149: D/CAR=22(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.5
+05-11 14:47:01.149: D/DriverData(3431): setTime-str
+05-11 14:47:01.149: D/CAR=22(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 14:47:01.149: D/DriverData(3431): setTime-str
+05-11 14:47:01.149: D/CAR=22(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.7
+05-11 14:47:01.149: D/DriverData(3431): setTime-str
+05-11 14:47:01.149: D/CAR=22(3431):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 6
+05-11 14:47:01.149: D/DriverData(3431): DriverData-addLap
+05-11 14:47:01.149: D/DriverData(3431): setTime-lt
+05-11 14:47:01.149: D/DriverData(3431): setTime-lt
+05-11 14:47:01.149: D/DriverData(3431): setTime-lt
+05-11 14:47:01.149: D/DriverData(3431): setTime-lt
+05-11 14:47:01.149: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.149: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.149: D/DriverData(3431): LapTime-lessEqual
+05-11 14:47:01.149: D/DriverData(3431): LapTime-lessThan
+05-11 14:47:01.159: D/DriverData(3431): setTime-lt
+05-11 14:47:01.159: D/DriverData(3431): setTime-lt
+05-11 14:47:01.159: D/DriverData(3431): setTime-lt
+05-11 14:47:01.159: D/DriverData(3431): setTime-lt
+05-11 14:47:01.159: D/DriverData(3431): LapTime-diff
+05-11 14:47:01.159: D/DriverData(3431): setTime-str
+05-11 14:47:01.159: D/packet(3431): TIMESTAMP=3 0 3
+05-11 14:47:01.159: D/packet(3431): TIMESTAMP=52 0 52
+05-11 14:47:01.169: D/packet(3431): TIMESTAMP=107 0 107
+05-11 14:47:01.179: D/packet(3431): TIMESTAMP=110 0 110
+05-11 14:47:01.179: D/packet(3431): TIMESTAMP=113 0 113
+05-11 14:47:01.179: D/packet(3431): TIMESTAMP=121 0 121
+05-11 14:47:01.179: D/packet(3431): TIMESTAMP=165 0 -91
+05-11 14:47:01.179: D/packet(3431): TIMESTAMP=168 0 -88
+05-11 14:47:01.179: D/packet(3431): TIMESTAMP=178 0 -78
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=192 0 -64
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=220 0 -36
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=223 0 -33
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=275 1 19
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=278 1 22
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=330 1 74
+05-11 14:47:01.189: D/packet(3431): TIMESTAMP=333 1 77
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=337 1 81
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=385 1 -127
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=388 1 -124
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=440 1 -72
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=443 1 -69
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=479 1 -33
+05-11 14:47:01.199: D/packet(3431): TIMESTAMP=495 1 -17
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=498 1 -14
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=525 2 13
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=551 2 39
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=552 2 40
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=553 2 41
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=576 2 64
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=587 2 75
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=606 2 94
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=608 2 96
+05-11 14:47:01.209: D/packet(3431): TIMESTAMP=636 2 124
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=660 2 -108
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=664 2 -104
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=738 2 -30
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=771 3 3
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=774 3 6
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=797 3 29
+05-11 14:47:01.219: D/packet(3431): TIMESTAMP=826 3 58
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=828 3 60
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=829 3 61
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=850 3 82
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=865 3 97
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=880 3 112
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=884 3 116
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=900 3 -124
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=923 3 -101
+05-11 14:47:01.229: D/packet(3431): TIMESTAMP=936 3 -88
+05-11 14:47:01.239: D/packet(3431): TIMESTAMP=939 3 -85
+05-11 14:47:01.239: D/packet(3431): TIMESTAMP=959 3 -65
+05-11 14:47:01.239: D/packet(3431): TIMESTAMP=986 3 -38
+05-11 14:47:01.239: D/packet(3431): TIMESTAMP=990 3 -34
+05-11 14:47:01.239: D/packet(3431): TIMESTAMP=994 3 -30
+05-11 14:47:01.239: D/packet(3431): TIMESTAMP=1028 4 4
+05-11 14:47:01.249: D/packet(3431): TIMESTAMP=1046 4 22
+05-11 14:47:01.249: D/packet(3431): TIMESTAMP=1049 4 25
+05-11 14:47:01.249: D/packet(3431): TIMESTAMP=1057 4 33
+05-11 14:47:01.249: D/packet(3431): TIMESTAMP=1100 4 76
+05-11 14:47:01.249: D/packet(3431): TIMESTAMP=1101 4 77
+05-11 14:47:01.269: D/packet(3431): TIMESTAMP=1104 4 80
+05-11 14:47:01.269: D/packet(3431): TIMESTAMP=1119 4 95
+05-11 14:47:01.269: D/packet(3431): TIMESTAMP=1135 4 111
+05-11 14:47:01.269: D/packet(3431): TIMESTAMP=1156 4 -124
+05-11 14:47:01.279: D/packet(3431): TIMESTAMP=1159 4 -121
+05-11 14:47:01.279: D/packet(3431): TIMESTAMP=1185 4 -95
+05-11 14:47:01.289: D/packet(3431): TIMESTAMP=1211 4 -69
+05-11 14:47:01.289: D/packet(3431): TIMESTAMP=1214 4 -66
+05-11 14:47:01.289: D/packet(3431): TIMESTAMP=1223 4 -57
+05-11 14:47:01.339: D/packet(3431): TIMESTAMP=1254 4 -26
+05-11 14:47:01.339: D/packet(3431): TIMESTAMP=1266 4 -14
+05-11 14:47:01.339: D/packet(3431): TIMESTAMP=1270 4 -10
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1277 4 -3
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1292 5 12
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1305 5 25
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1315 5 35
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1321 5 41
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1325 5 45
+05-11 14:47:01.349: D/packet(3431): TIMESTAMP=1357 5 77
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1412 5 -124
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1431 5 -105
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1435 5 -101
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1454 5 -82
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1475 5 -61
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1486 5 -50
+05-11 14:47:01.359: D/packet(3431): TIMESTAMP=1490 5 -46
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1510 5 -26
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1524 5 -12
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1533 5 -3
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1541 6 5
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1544 6 8
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1599 6 63
+05-11 14:47:01.369: D/packet(3431): TIMESTAMP=1650 6 114
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1651 6 115
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1655 6 119
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1666 6 -126
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1672 6 -120
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1706 6 -86
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1710 6 -82
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1761 6 -31
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1765 6 -27
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1871 7 79
+05-11 14:47:01.389: D/packet(3431): TIMESTAMP=1875 7 83
+05-11 14:47:01.399: D/packet(3431): TIMESTAMP=1925 7 -123
+05-11 14:47:01.409: D/packet(3431): TIMESTAMP=1931 7 -117
+05-11 14:47:01.409: D/packet(3431): TIMESTAMP=1962 7 -86
+05-11 14:47:01.409: D/packet(3431): TIMESTAMP=1981 7 -67
+05-11 14:47:01.419: D/packet(3431): TIMESTAMP=1985 7 -63
+05-11 14:47:01.419: D/packet(3431): TIMESTAMP=2097 8 49
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2131 8 83
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2146 8 98
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2151 8 103
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2202 8 -102
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2256 8 -48
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2261 8 -43
+05-11 14:47:01.469: D/packet(3431): TIMESTAMP=2293 8 -11
+05-11 14:47:01.479: D/packet(3431): TIMESTAMP=2319 9 15
+05-11 14:47:01.479: D/packet(3431): TIMESTAMP=2346 9 42
+05-11 14:47:01.479: D/packet(3431): TIMESTAMP=2366 9 62
+05-11 14:47:01.479: D/packet(3431): TIMESTAMP=2395 9 91
+05-11 14:47:01.479: D/packet(3431): TIMESTAMP=2415 9 111
+05-11 14:47:01.479: D/packet(3431): TIMESTAMP=2421 9 117
+05-11 14:47:01.489: D/packet(3431): TIMESTAMP=2440 9 -120
+05-11 14:47:01.489: D/packet(3431): TIMESTAMP=2473 9 -87
+05-11 14:47:01.489: D/packet(3431): TIMESTAMP=2476 9 -84
+05-11 14:47:01.489: D/packet(3431): TIMESTAMP=2586 10 26
+05-11 14:47:01.489: D/packet(3431): TIMESTAMP=2608 10 48
+05-11 14:47:01.509: D/packet(3431): TIMESTAMP=2678 10 118
+05-11 14:47:01.509: D/packet(3431): TIMESTAMP=2707 10 -109
+05-11 14:47:01.509: D/packet(3431): TIMESTAMP=2734 10 -82
+05-11 14:47:01.509: D/packet(3431): TIMESTAMP=2751 10 -65
+05-11 14:47:01.569: D/packet(3431): TIMESTAMP=2762 10 -54
+05-11 14:47:01.569: D/packet(3431): TIMESTAMP=2806 10 -10
+05-11 14:47:01.569: D/packet(3431): TIMESTAMP=2807 10 -9
+05-11 14:47:01.569: D/packet(3431): TIMESTAMP=2839 11 23
+05-11 14:47:01.569: D/packet(3431): TIMESTAMP=2861 11 45
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2862 11 46
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2865 11 49
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2877 11 61
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2895 11 79
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2916 11 100
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2938 11 122
+05-11 14:47:01.579: D/packet(3431): TIMESTAMP=2971 11 -101
+05-11 14:47:01.589: D/packet(3431): TIMESTAMP=2989 11 -83
+05-11 14:47:01.589: D/packet(3431): TIMESTAMP=2992 11 -80
+05-11 14:47:01.589: D/packet(3431): TIMESTAMP=3026 11 -46
+05-11 14:47:01.589: D/packet(3431): TIMESTAMP=3081 12 9
+05-11 14:47:01.599: D/DataStreamReader(3431): newDataObtained
+05-11 14:47:01.599: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:47:01.869: D/SocketDataReader(3431): PingOK
+05-11 14:47:01.959: D/onNewDataObtained(3431): refreshView
+05-11 14:47:01.959: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:47:01.989: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:47:01.989: D/DataStreamReader(3431): parseBlock: 2
+05-11 14:47:01.989: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades2.txt
+05-11 14:47:01.989: D/SessionTimer(3431): getTime
+05-11 14:47:01.999: D/GUARDAT NUM DADES AL ARXIU:(3431): 30
+05-11 14:47:01.999: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:01.999: D/packet(3431): TIMESTAMP=3081 12 9
+05-11 14:47:01.999: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:01.999: D/packet(3431): TIMESTAMP=3082 12 10
+05-11 14:47:01.999: D/DataStreamReader(3431): newDataObtained
+05-11 14:47:01.999: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:47:02.139: D/onNewDataObtained(3431): refreshView
+05-11 14:47:02.139: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:47:02.779: D/SocketDataReader(3431): PingOK
+05-11 14:47:03.679: D/SocketDataReader(3431): PingOK
+05-11 14:47:04.579: D/SocketDataReader(3431): PingOK
+05-11 14:47:05.479: D/SocketDataReader(3431): PingOK
+05-11 14:47:06.379: D/SocketDataReader(3431): PingOK
+05-11 14:47:07.279: D/SocketDataReader(3431): PingOK
+05-11 14:47:08.179: D/SocketDataReader(3431): PingOK
+05-11 14:47:09.079: D/SocketDataReader(3431): PingOK
+05-11 14:47:09.979: D/SocketDataReader(3431): PingOK
+05-11 14:47:10.879: D/SocketDataReader(3431): PingOK
+05-11 14:47:11.779: D/SocketDataReader(3431): PingOK
+05-11 14:47:12.679: D/SocketDataReader(3431): PingOK
+05-11 14:47:13.589: D/SocketDataReader(3431): PingOK
+05-11 14:47:14.489: D/SocketDataReader(3431): PingOK
+05-11 14:47:15.389: D/SocketDataReader(3431): PingOK
+05-11 14:47:16.289: D/SocketDataReader(3431): PingOK
+05-11 14:47:17.179: D/SocketDataReader(3431): PingOK
+05-11 14:47:17.439: D/SocketDataReader(3431): sendDataBlock
+05-11 14:47:17.439: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:47:17.439: D/SocketDataReader(3431): reading stream...
+05-11 14:47:17.439: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:47:17.439: D/DataStreamReader(3431): parseBlock: 3
+05-11 14:47:17.439: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades3.txt
+05-11 14:47:17.439: D/SessionTimer(3431): getTime
+05-11 14:47:17.459: D/GUARDAT NUM DADES AL ARXIU:(3431): 113
+05-11 14:47:17.459: D/packet(3431): TIMESTAMP=3110 12 38
+05-11 14:47:17.469: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:17.469: D/DataStreamReader(3431): newDataObtained
+05-11 14:47:17.469: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:47:17.609: D/onNewDataObtained(3431): refreshView
+05-11 14:47:17.609: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:47:18.079: D/SocketDataReader(3431): PingOK
+05-11 14:47:18.989: D/SocketDataReader(3431): PingOK
+05-11 14:47:19.889: D/SocketDataReader(3431): PingOK
+05-11 14:47:20.789: D/SocketDataReader(3431): PingOK
+05-11 14:47:21.689: D/SocketDataReader(3431): PingOK
+05-11 14:47:22.589: D/SocketDataReader(3431): PingOK
+05-11 14:47:23.489: D/SocketDataReader(3431): PingOK
+05-11 14:47:24.389: D/SocketDataReader(3431): PingOK
+05-11 14:47:25.289: D/SocketDataReader(3431): PingOK
+05-11 14:47:26.189: D/SocketDataReader(3431): PingOK
+05-11 14:47:27.089: D/SocketDataReader(3431): PingOK
+05-11 14:47:27.989: D/SocketDataReader(3431): PingOK
+05-11 14:47:28.889: D/SocketDataReader(3431): PingOK
+05-11 14:47:29.789: D/SocketDataReader(3431): PingOK
+05-11 14:47:30.699: D/SocketDataReader(3431): PingOK
+05-11 14:47:31.599: D/SocketDataReader(3431): PingOK
+05-11 14:47:32.499: D/SocketDataReader(3431): PingOK
+05-11 14:47:33.399: D/SocketDataReader(3431): PingOK
+05-11 14:47:34.299: D/SocketDataReader(3431): PingOK
+05-11 14:47:35.199: D/SocketDataReader(3431): PingOK
+05-11 14:47:36.099: D/SocketDataReader(3431): PingOK
+05-11 14:47:36.999: D/SocketDataReader(3431): PingOK
+05-11 14:47:37.899: D/SocketDataReader(3431): PingOK
+05-11 14:47:38.799: D/SocketDataReader(3431): PingOK
+05-11 14:47:38.859: D/F1LTActivity(3431): onSaveInstanceState
+05-11 14:47:39.699: D/SocketDataReader(3431): PingOK
+05-11 14:47:40.609: D/SocketDataReader(3431): PingOK
+05-11 14:47:41.509: D/SocketDataReader(3431): PingOK
+05-11 14:47:42.409: D/SocketDataReader(3431): PingOK
+05-11 14:47:43.309: D/SocketDataReader(3431): PingOK
+05-11 14:47:44.209: D/SocketDataReader(3431): PingOK
+05-11 14:47:44.479: D/SocketDataReader(3431): sendDataBlock
+05-11 14:47:44.479: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:47:44.479: D/SocketDataReader(3431): reading stream...
+05-11 14:47:44.479: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:47:44.479: D/DataStreamReader(3431): parseBlock: 4
+05-11 14:47:44.479: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades4.txt
+05-11 14:47:44.479: D/SessionTimer(3431): getTime
+05-11 14:47:44.489: D/GUARDAT NUM DADES AL ARXIU:(3431): 13
+05-11 14:47:44.489: D/packet(3431): TIMESTAMP=3136 12 64
+05-11 14:47:44.499: D/DataStreamReader(3431): resetDecryption
+05-11 14:47:44.499: D/DataStreamReader(3431): newDataObtained
+05-11 14:47:44.499: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:47:44.639: D/onNewDataObtained(3431): refreshView
+05-11 14:47:44.639: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:47:45.109: D/SocketDataReader(3431): PingOK
+05-11 14:47:45.189: D/SocketDataReader(3431): sendDataBlock
+05-11 14:47:45.189: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:47:45.189: D/SocketDataReader(3431): reading stream...
+05-11 14:47:45.189: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:47:45.189: D/DataStreamReader(3431): parseBlock: 5
+05-11 14:47:45.189: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades5.txt
+05-11 14:47:45.189: D/SessionTimer(3431): getTime
+05-11 14:47:45.199: D/GUARDAT NUM DADES AL ARXIU:(3431): 13
+05-11 14:47:45.199: D/packet(3431): TIMESTAMP=3137 12 65
+05-11 14:47:45.209: D/DataStreamReader(3431): newDataObtained
+05-11 14:47:45.209: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:47:45.349: D/onNewDataObtained(3431): refreshView
+05-11 14:47:45.359: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:47:46.009: D/SocketDataReader(3431): PingOK
+05-11 14:47:46.919: D/SocketDataReader(3431): PingOK
+05-11 14:47:47.819: D/SocketDataReader(3431): PingOK
+05-11 14:47:48.719: D/SocketDataReader(3431): PingOK
+05-11 14:47:49.619: D/SocketDataReader(3431): PingOK
+05-11 14:47:50.519: D/SocketDataReader(3431): PingOK
+05-11 14:47:51.419: D/SocketDataReader(3431): PingOK
+05-11 14:47:52.319: D/SocketDataReader(3431): PingOK
+05-11 14:47:53.219: D/SocketDataReader(3431): PingOK
+05-11 14:47:54.119: D/SocketDataReader(3431): PingOK
+05-11 14:47:55.019: D/SocketDataReader(3431): PingOK
+05-11 14:47:55.919: D/SocketDataReader(3431): PingOK
+05-11 14:47:56.819: D/SocketDataReader(3431): PingOK
+05-11 14:47:57.729: D/SocketDataReader(3431): PingOK
+05-11 14:47:58.629: D/SocketDataReader(3431): PingOK
+05-11 14:47:59.529: D/SocketDataReader(3431): PingOK
+05-11 14:48:00.429: D/SocketDataReader(3431): PingOK
+05-11 14:48:01.329: D/SocketDataReader(3431): PingOK
+05-11 14:48:02.229: D/SocketDataReader(3431): PingOK
+05-11 14:48:03.129: D/SocketDataReader(3431): PingOK
+05-11 14:48:04.029: D/SocketDataReader(3431): PingOK
+05-11 14:48:04.929: D/SocketDataReader(3431): PingOK
+05-11 14:48:05.829: D/SocketDataReader(3431): PingOK
+05-11 14:48:06.729: D/SocketDataReader(3431): PingOK
+05-11 14:48:07.639: D/SocketDataReader(3431): PingOK
+05-11 14:48:08.539: D/SocketDataReader(3431): PingOK
+05-11 14:48:09.439: D/SocketDataReader(3431): PingOK
+05-11 14:48:10.339: D/SocketDataReader(3431): PingOK
+05-11 14:48:11.239: D/SocketDataReader(3431): PingOK
+05-11 14:48:12.139: D/SocketDataReader(3431): PingOK
+05-11 14:48:13.039: D/SocketDataReader(3431): PingOK
+05-11 14:48:13.939: D/SocketDataReader(3431): PingOK
+05-11 14:48:14.069: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:14.069: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:14.069: D/SocketDataReader(3431): reading stream...
+05-11 14:48:14.069: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:14.069: D/DataStreamReader(3431): parseBlock: 6
+05-11 14:48:14.069: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades6.txt
+05-11 14:48:14.069: D/SessionTimer(3431): getTime
+05-11 14:48:14.089: D/GUARDAT NUM DADES AL ARXIU:(3431): 4
+05-11 14:48:14.089: D/DataStreamReader(3431): resetDecryption
+05-11 14:48:14.089: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:14.089: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:14.229: D/onNewDataObtained(3431): refreshView
+05-11 14:48:14.229: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:14.839: D/SocketDataReader(3431): PingOK
+05-11 14:48:15.749: D/SocketDataReader(3431): PingOK
+05-11 14:48:16.649: D/SocketDataReader(3431): PingOK
+05-11 14:48:17.549: D/SocketDataReader(3431): PingOK
+05-11 14:48:18.449: D/SocketDataReader(3431): PingOK
+05-11 14:48:19.349: D/SocketDataReader(3431): PingOK
+05-11 14:48:20.249: D/SocketDataReader(3431): PingOK
+05-11 14:48:21.149: D/SocketDataReader(3431): PingOK
+05-11 14:48:22.049: D/SocketDataReader(3431): PingOK
+05-11 14:48:22.259: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:22.259: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:22.259: D/SocketDataReader(3431): reading stream...
+05-11 14:48:22.259: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:22.259: D/DataStreamReader(3431): parseBlock: 7
+05-11 14:48:22.259: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades7.txt
+05-11 14:48:22.269: D/SessionTimer(3431): getTime
+05-11 14:48:22.279: D/GUARDAT NUM DADES AL ARXIU:(3431): 67
+05-11 14:48:22.279: D/packet(3431): TIMESTAMP=3175 12 103
+05-11 14:48:22.289: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:22.289: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:22.439: D/onNewDataObtained(3431): refreshView
+05-11 14:48:22.439: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:22.949: D/SocketDataReader(3431): PingOK
+05-11 14:48:23.179: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:23.179: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:23.179: D/SocketDataReader(3431): reading stream...
+05-11 14:48:23.179: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:23.189: D/DataStreamReader(3431): parseBlock: 8
+05-11 14:48:23.189: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades8.txt
+05-11 14:48:23.189: D/SessionTimer(3431): getTime
+05-11 14:48:23.199: D/GUARDAT NUM DADES AL ARXIU:(3431): 4
+05-11 14:48:23.199: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:23.199: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:23.349: D/onNewDataObtained(3431): refreshView
+05-11 14:48:23.349: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:23.849: D/SocketDataReader(3431): PingOK
+05-11 14:48:24.749: D/SocketDataReader(3431): PingOK
+05-11 14:48:25.029: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:25.029: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:25.029: D/SocketDataReader(3431): reading stream...
+05-11 14:48:25.029: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:25.029: D/DataStreamReader(3431): parseBlock: 9
+05-11 14:48:25.029: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades9.txt
+05-11 14:48:25.029: D/SessionTimer(3431): getTime
+05-11 14:48:25.039: D/GUARDAT NUM DADES AL ARXIU:(3431): 11
+05-11 14:48:25.039: D/packet(3431): TIMESTAMP=3177 12 105
+05-11 14:48:25.039: D/SessionTimer(3431): setTime
+05-11 14:48:25.049: D/SessionTimer(3431): getTime
+05-11 14:48:25.049: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:25.049: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:25.189: D/onNewDataObtained(3431): refreshView
+05-11 14:48:25.189: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:25.649: D/SocketDataReader(3431): PingOK
+05-11 14:48:25.739: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:25.739: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:25.739: D/SocketDataReader(3431): reading stream...
+05-11 14:48:25.749: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:25.749: D/DataStreamReader(3431): parseBlock: 10
+05-11 14:48:25.749: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades10.txt
+05-11 14:48:25.749: D/SessionTimer(3431): getTime
+05-11 14:48:25.759: D/GUARDAT NUM DADES AL ARXIU:(3431): 162
+05-11 14:48:25.759: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:25.759: D/packet(3431): TIMESTAMP=3178 12 106
+05-11 14:48:25.759: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:25.759: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:25.769: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:25.769: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:25.769: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:25.769: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:25.879: D/onNewDataObtained(3431): refreshView
+05-11 14:48:25.879: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:26.549: D/SocketDataReader(3431): PingOK
+05-11 14:48:26.659: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:26.659: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:26.659: D/SocketDataReader(3431): reading stream...
+05-11 14:48:26.659: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:26.659: D/DataStreamReader(3431): parseBlock: 11
+05-11 14:48:26.659: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades11.txt
+05-11 14:48:26.659: D/SessionTimer(3431): getTime
+05-11 14:48:26.669: D/GUARDAT NUM DADES AL ARXIU:(3431): 51
+05-11 14:48:26.669: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:26.679: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:26.679: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:26.819: D/onNewDataObtained(3431): refreshView
+05-11 14:48:26.819: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:27.459: D/SocketDataReader(3431): PingOK
+05-11 14:48:28.359: D/SocketDataReader(3431): PingOK
+05-11 14:48:29.259: D/SocketDataReader(3431): PingOK
+05-11 14:48:29.329: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:29.329: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:29.329: D/SocketDataReader(3431): reading stream...
+05-11 14:48:29.329: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:29.329: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:29.329: D/SocketDataReader(3431): reading stream...
+05-11 14:48:29.329: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:29.329: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:29.329: D/SocketDataReader(3431): reading stream...
+05-11 14:48:29.329: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:29.329: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:29.329: D/SocketDataReader(3431): reading stream...
+05-11 14:48:29.329: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:29.329: D/DataStreamReader(3431): parseBlock: 12
+05-11 14:48:29.329: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades12.txt
+05-11 14:48:29.329: D/SessionTimer(3431): getTime
+05-11 14:48:29.349: D/GUARDAT NUM DADES AL ARXIU:(3431): 246
+05-11 14:48:29.349: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.349: D/CAR=13(3431):  CAR TYPE=2 CAR DATA= 6 CAR LEN= 1 LONG DATA= `
+05-11 14:48:29.349: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.349: D/CAR=15(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 5 LONG DATA= QUÁ��ý
+05-11 14:48:29.349: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.349: D/CAR=1(3431):  CAR TYPE=5 CAR DATA= 3 CAR LEN= 1 LONG DATA= ú
+05-11 14:48:29.349: D/DriverData(3431): setTime-str
+05-11 14:48:29.349: D/DriverData(3431): setTime-str
+05-11 14:48:29.349: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.359: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.359: D/CAR=12(3431):  CAR TYPE=10 CAR DATA= 0 CAR LEN= 11 LONG DATA= 6f=ÚÎtï#
+05-11 14:48:29.359: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.359: D/CAR=18(3431):  CAR TYPE=15 CAR DATA= 0 CAR LEN= 108 LONG DATA= éã{WüöE��/v`WòrD\ÆÌM[Cn{îþFËkÈAEÇù¾-Iì]Óc'ÐÍ~þç¡g_ç1
+05-11 14:48:29.359: D/CAR=18(3431): ­ôÕøYÎÉ Û,P
+05-11 14:48:29.359: D/CAR=18(3431): mSH¢ûVtþïðt¡5xÀÎ��áj:
+05-11 14:48:29.359: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.359: D/CAR=16(3431):  CAR TYPE=4 CAR DATA= 5 CAR LEN= 8 LONG DATA= '±½¼"11
+05-11 14:48:29.359: D/DriverData(3431): setTime-str
+05-11 14:48:29.359: D/DriverData(3431): setTime-str
+05-11 14:48:29.359: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.369: D/CAR=22(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 2 LONG DATA= Ï
+05-11 14:48:29.369: D/DriverData(3431): setTime-str
+05-11 14:48:29.369: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.369: D/CAR=17(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 8 LONG DATA= u#p,;
+05-11 14:48:29.369: D/DriverData(3431): setTime-str
+05-11 14:48:29.369: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.369: D/CAR=11(3431):  CAR TYPE=0 CAR DATA= 25 CAR LEN= 0 LONG DATA= 
+05-11 14:48:29.369: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.369: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 10 LONG DATA= ¨RAÅüÐ
+05-11 14:48:29.369: D/DriverData(3431): setTime-str
+05-11 14:48:29.369: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.379: D/CAR=19(3431):  CAR TYPE=13 CAR DATA= 0 CAR LEN= 3 LONG DATA= sj
+05-11 14:48:29.379: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.379: D/CAR=17(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= ,9}Ã)º
+05-11 14:48:29.379: D/DriverData(3431): setTime-str
+05-11 14:48:29.379: D/DriverData(3431): setTime-str
+05-11 14:48:29.379: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.379: D/CAR=14(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ¼?
+05-11 14:48:29.379: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.389: D/CAR=14(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 79y]SMo
+05-11 14:48:29.389: D/DriverData(3431): setTime-str
+05-11 14:48:29.389: D/DriverData(3431): setTime-str
+05-11 14:48:29.389: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.389: D/CAR=5(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ÕÆ
+05-11 14:48:29.389: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.389: D/CAR=5(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= HÌÉÿ§´
+05-11 14:48:29.389: D/DriverData(3431): setTime-str
+05-11 14:48:29.389: D/DriverData(3431): setTime-str
+05-11 14:48:29.389: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.389: D/CAR=11(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= pß
+05-11 14:48:29.389: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.389: D/CAR=11(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= DJï@¤:
+05-11 14:48:29.399: D/DriverData(3431): setTime-str
+05-11 14:48:29.399: D/DriverData(3431): setTime-str
+05-11 14:48:29.399: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:29.399: D/DataStreamReader(3431): resetDecryption
+05-11 14:48:29.399: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:29.399: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:29.519: D/onNewDataObtained(3431): refreshView
+05-11 14:48:29.519: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:29.529: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:29.529: D/DataStreamReader(3431): parseBlock: 13
+05-11 14:48:29.529: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades13.txt
+05-11 14:48:29.529: D/SessionTimer(3431): getTime
+05-11 14:48:29.539: D/GUARDAT NUM DADES AL ARXIU:(3431): 246
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=13(3431):  CAR TYPE=2 CAR DATA= 6 CAR LEN= 1 LONG DATA= Î
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=15(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 5 LONG DATA= tm
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=1(3431):  CAR TYPE=5 CAR DATA= 3 CAR LEN= 1 LONG DATA= 
+05-11 14:48:29.539: D/DriverData(3431): setTime-str
+05-11 14:48:29.539: D/DriverData(3431): setTime-str
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=12(3431):  CAR TYPE=10 CAR DATA= 0 CAR LEN= 11 LONG DATA= §dwÿ©b 
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=18(3431):  CAR TYPE=15 CAR DATA= 0 CAR LEN= 108 LONG DATA= 5ÿÊÅ5XaÕøÚ
+05-11 14:48:29.539: D/CAR=18(3431): íÀëBS {@eÐÕaCr0¡òÖ@dk¯htýÜÁ}WÂj<»ÅéJÍ!'ÿVÏ¥[èr²3»¸wFkEæx·WÃÃé	oW��ßáªèáuÞåh;
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=16(3431):  CAR TYPE=4 CAR DATA= 5 CAR LEN= 8 LONG DATA= XBIAÂ¤1
+05-11 14:48:29.539: D/DriverData(3431): setTime-str
+05-11 14:48:29.539: D/DriverData(3431): setTime-str
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=22(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 2 LONG DATA= Ï
+05-11 14:48:29.539: D/DriverData(3431): setTime-str
+05-11 14:48:29.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.539: D/CAR=17(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 8 LONG DATA= ^hl«²
+05-11 14:48:29.539: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=11(3431):  CAR TYPE=0 CAR DATA= 25 CAR LEN= 0 LONG DATA= 
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 10 LONG DATA= /¦üÕï[
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=19(3431):  CAR TYPE=13 CAR DATA= 0 CAR LEN= 3 LONG DATA= ÓÄ
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=17(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= éÖÄÉ&õT
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=14(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ËN
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=14(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= E��¯¶ìXÏO
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=5(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ÅÎ
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=5(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= Ìè^ÒO£
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=11(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ±u
+05-11 14:48:29.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.549: D/CAR=11(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= êZôÝ	¦
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/DriverData(3431): setTime-str
+05-11 14:48:29.549: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:29.549: D/DataStreamReader(3431): resetDecryption
+05-11 14:48:29.559: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:29.559: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:29.659: D/onNewDataObtained(3431): refreshView
+05-11 14:48:29.659: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:29.659: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:29.659: D/DataStreamReader(3431): parseBlock: 14
+05-11 14:48:29.659: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades14.txt
+05-11 14:48:29.659: D/SessionTimer(3431): getTime
+05-11 14:48:29.669: D/GUARDAT NUM DADES AL ARXIU:(3431): 246
+05-11 14:48:29.669: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.669: D/CAR=13(3431):  CAR TYPE=2 CAR DATA= 6 CAR LEN= 1 LONG DATA= Î
+05-11 14:48:29.669: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.669: D/CAR=15(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 5 LONG DATA= tm
+05-11 14:48:29.669: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.669: D/CAR=1(3431):  CAR TYPE=5 CAR DATA= 3 CAR LEN= 1 LONG DATA= 
+05-11 14:48:29.669: D/DriverData(3431): setTime-str
+05-11 14:48:29.669: D/DriverData(3431): setTime-str
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=12(3431):  CAR TYPE=10 CAR DATA= 0 CAR LEN= 11 LONG DATA= §dwÿ©b 
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=18(3431):  CAR TYPE=15 CAR DATA= 0 CAR LEN= 108 LONG DATA= 5ÿÊÅ5XaÕøÚ
+05-11 14:48:29.679: D/CAR=18(3431): íÀëBS {@eÐÕaCr0¡òÖ@dk¯htýÜÁ}WÂj<»ÅéJÍ!'ÿVÏ¥[èr²3»¸wFkEæx·WÃÃé	oW��ßáªèáuÞåh;
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=16(3431):  CAR TYPE=4 CAR DATA= 5 CAR LEN= 8 LONG DATA= XBIAÂ¤1
+05-11 14:48:29.679: D/DriverData(3431): setTime-str
+05-11 14:48:29.679: D/DriverData(3431): setTime-str
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=22(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 2 LONG DATA= Ï
+05-11 14:48:29.679: D/DriverData(3431): setTime-str
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=17(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 8 LONG DATA= ^hl«²
+05-11 14:48:29.679: D/DriverData(3431): setTime-str
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=11(3431):  CAR TYPE=0 CAR DATA= 25 CAR LEN= 0 LONG DATA= 
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 10 LONG DATA= /¦üÕï[
+05-11 14:48:29.679: D/DriverData(3431): setTime-str
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.679: D/CAR=19(3431):  CAR TYPE=13 CAR DATA= 0 CAR LEN= 3 LONG DATA= ÓÄ
+05-11 14:48:29.679: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=17(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= éÖÄÉ&õT
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=14(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ËN
+05-11 14:48:29.689: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=14(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= E��¯¶ìXÏO
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=5(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ÅÎ
+05-11 14:48:29.689: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=5(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= Ìè^ÒO£
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=11(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ±u
+05-11 14:48:29.689: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.689: D/CAR=11(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= êZôÝ	¦
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/DriverData(3431): setTime-str
+05-11 14:48:29.689: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:29.689: D/DataStreamReader(3431): resetDecryption
+05-11 14:48:29.689: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:29.689: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:29.889: D/onNewDataObtained(3431): refreshView
+05-11 14:48:29.889: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:29.899: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:29.899: D/DataStreamReader(3431): parseBlock: 15
+05-11 14:48:29.899: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades15.txt
+05-11 14:48:29.899: D/SessionTimer(3431): getTime
+05-11 14:48:29.919: D/GUARDAT NUM DADES AL ARXIU:(3431): 246
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=13(3431):  CAR TYPE=2 CAR DATA= 6 CAR LEN= 1 LONG DATA= Î
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=15(3431):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 5 LONG DATA= tm
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=1(3431):  CAR TYPE=5 CAR DATA= 3 CAR LEN= 1 LONG DATA= 
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=12(3431):  CAR TYPE=10 CAR DATA= 0 CAR LEN= 11 LONG DATA= §dwÿ©b 
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=18(3431):  CAR TYPE=15 CAR DATA= 0 CAR LEN= 108 LONG DATA= 5ÿÊÅ5XaÕøÚ
+05-11 14:48:29.919: D/CAR=18(3431): íÀëBS {@eÐÕaCr0¡òÖ@dk¯htýÜÁ}WÂj<»ÅéJÍ!'ÿVÏ¥[èr²3»¸wFkEæx·WÃÃé	oW��ßáªèáuÞåh;
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=16(3431):  CAR TYPE=4 CAR DATA= 5 CAR LEN= 8 LONG DATA= XBIAÂ¤1
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=22(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 2 LONG DATA= Ï
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=17(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 8 LONG DATA= ^hl«²
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=11(3431):  CAR TYPE=0 CAR DATA= 25 CAR LEN= 0 LONG DATA= 
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 10 LONG DATA= /¦üÕï[
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=19(3431):  CAR TYPE=13 CAR DATA= 0 CAR LEN= 3 LONG DATA= ÓÄ
+05-11 14:48:29.919: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.919: D/CAR=17(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= éÖÄÉ&õT
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.919: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.939: D/CAR=14(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ËN
+05-11 14:48:29.939: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.939: D/CAR=14(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= E��¯¶ìXÏO
+05-11 14:48:29.939: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.939: D/CAR=5(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ÅÎ
+05-11 14:48:29.939: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.939: D/CAR=5(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= Ìè^ÒO£
+05-11 14:48:29.939: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.939: D/CAR=11(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= ±u
+05-11 14:48:29.939: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:29.939: D/CAR=11(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= êZôÝ	¦
+05-11 14:48:29.939: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/DriverData(3431): setTime-str
+05-11 14:48:29.939: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:29.939: D/DataStreamReader(3431): resetDecryption
+05-11 14:48:29.939: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:29.939: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:30.039: D/onNewDataObtained(3431): refreshView
+05-11 14:48:30.039: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:30.159: D/SocketDataReader(3431): PingOK
+05-11 14:48:30.249: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:30.249: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:30.249: D/SocketDataReader(3431): reading stream...
+05-11 14:48:30.429: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:30.429: D/DataStreamReader(3431): parseBlock: 16
+05-11 14:48:30.429: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades16.txt
+05-11 14:48:30.429: D/SessionTimer(3431): getTime
+05-11 14:48:30.449: D/GUARDAT NUM DADES AL ARXIU:(3431): 622
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=12(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 16
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=12(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.218
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=16(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 17
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=16(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.260
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=15(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 18
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=15(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.318
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=20(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 19
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=20(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.661
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=21(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 20
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=21(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.713
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=22(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 21
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=22(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.996
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/DriverData(3431): setTime-str
+05-11 14:48:30.449: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.449: D/CAR=19(3431):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 22
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=19(3431):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.070
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=1(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=1(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.6
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=1(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.2
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=2(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=2(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.6
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=2(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.2
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=3(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.459: D/CAR=3(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.5
+05-11 14:48:30.459: D/DriverData(3431): setTime-str
+05-11 14:48:30.459: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=3(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.4
+05-11 14:48:30.469: D/DriverData(3431): setTime-str
+05-11 14:48:30.469: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=4(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:48:30.469: D/DriverData(3431): setTime-str
+05-11 14:48:30.469: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=4(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.6
+05-11 14:48:30.469: D/DriverData(3431): setTime-str
+05-11 14:48:30.469: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=4(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:48:30.469: D/DriverData(3431): setTime-str
+05-11 14:48:30.469: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=6(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.7
+05-11 14:48:30.469: D/DriverData(3431): setTime-str
+05-11 14:48:30.469: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=6(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:48:30.469: D/DriverData(3431): setTime-str
+05-11 14:48:30.469: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.469: D/CAR=6(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.1
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.479: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.479: D/CAR=7(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.479: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.479: D/CAR=7(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.4
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.479: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.479: D/CAR=7(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.6
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.479: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.479: D/CAR=8(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.479: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.479: D/CAR=8(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.7
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.479: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.479: D/CAR=8(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.6
+05-11 14:48:30.479: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=9(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.0
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=10(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.7
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=10(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.4
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 27.7
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=13(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=13(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.7
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.489: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.489: D/CAR=13(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.3
+05-11 14:48:30.489: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=18(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:48:30.499: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=18(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.8
+05-11 14:48:30.499: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=18(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.4
+05-11 14:48:30.499: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=17(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:48:30.499: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=17(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.8
+05-11 14:48:30.499: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=17(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.4
+05-11 14:48:30.499: D/DriverData(3431): setTime-str
+05-11 14:48:30.499: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.499: D/CAR=14(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=14(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=14(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.3
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=5(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=5(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=5(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=11(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=11(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.8
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=11(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=12(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=12(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.509: D/CAR=1(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.602
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.509: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=2(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.718
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=3(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.646
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=4(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.978
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=6(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.790
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=7(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.676
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=8(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.998
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.519: D/CAR=9(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.776
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.519: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=10(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.001
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): LapTime-lessThan
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=13(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.019
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=18(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.127
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=17(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.166
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=14(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.346
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=5(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.355
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/DriverData(3431): setTime-str
+05-11 14:48:30.529: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.529: D/CAR=11(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.389
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=12(3431):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.793
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:30.539: D/DataStreamReader(3431): resetDecryption
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=1(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=1(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=1(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=1(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=2(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=2(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=2(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=2(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=3(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.539: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.539: D/CAR=3(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.539: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=3(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=3(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=4(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=4(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=4(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=4(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=6(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=6(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=6(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=6(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=7(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=7(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=7(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=7(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=8(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=8(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=8(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=8(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=9(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=9(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=9(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.549: D/CAR=9(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.549: D/DriverData(3431): setTime-str
+05-11 14:48:30.549: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=10(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.559: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=10(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.559: D/DriverData(3431): setTime-str
+05-11 14:48:30.559: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=10(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.559: D/DriverData(3431): setTime-str
+05-11 14:48:30.559: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=10(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.559: D/DriverData(3431): setTime-str
+05-11 14:48:30.559: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=13(3431):  CAR TYPE=3 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+05-11 14:48:30.559: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=13(3431):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.559: D/DriverData(3431): setTime-str
+05-11 14:48:30.559: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:30.559: D/CAR=13(3431):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:30.559: D/DriverData(3431): setTime-str
+05-11 14:48:30.559: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:30.559: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:30.669: D/onNewDataObtained(3431): refreshView
+05-11 14:48:30.669: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:31.059: D/SocketDataReader(3431): PingOK
+05-11 14:48:31.959: D/SocketDataReader(3431): PingOK
+05-11 14:48:32.859: D/SocketDataReader(3431): PingOK
+05-11 14:48:33.759: D/SocketDataReader(3431): PingOK
+05-11 14:48:34.659: D/SocketDataReader(3431): PingOK
+05-11 14:48:35.559: D/SocketDataReader(3431): PingOK
+05-11 14:48:36.459: D/SocketDataReader(3431): PingOK
+05-11 14:48:37.359: D/SocketDataReader(3431): PingOK
+05-11 14:48:38.269: D/SocketDataReader(3431): PingOK
+05-11 14:48:39.169: D/SocketDataReader(3431): PingOK
+05-11 14:48:39.349: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:39.349: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:39.349: D/SocketDataReader(3431): reading stream...
+05-11 14:48:39.349: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:39.349: D/DataStreamReader(3431): parseBlock: 17
+05-11 14:48:39.349: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades17.txt
+05-11 14:48:39.349: D/SessionTimer(3431): getTime
+05-11 14:48:39.519: D/GUARDAT NUM DADES AL ARXIU:(3431): 9
+05-11 14:48:39.519: D/parseCarPacket(3431): 0:10:00
+05-11 14:48:39.519: D/CAR=13(3431):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 14:48:39.519: D/DriverData(3431): setTime-str
+05-11 14:48:39.519: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:39.519: D/packet(3431): TIMESTAMP=3191 12 119
+05-11 14:48:39.519: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:39.519: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:39.519: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:39.619: D/onNewDataObtained(3431): refreshView
+05-11 14:48:39.619: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:40.069: D/SocketDataReader(3431): PingOK
+05-11 14:48:40.119: D/SocketDataReader(3431): sendDataBlock
+05-11 14:48:40.119: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:48:40.119: D/SocketDataReader(3431): reading stream...
+05-11 14:48:40.119: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:48:40.119: D/DataStreamReader(3431): parseBlock: 18
+05-11 14:48:40.129: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades18.txt
+05-11 14:48:40.129: D/SessionTimer(3431): getTime
+05-11 14:48:40.139: D/GUARDAT NUM DADES AL ARXIU:(3431): 13
+05-11 14:48:40.139: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:40.139: D/packet(3431): TIMESTAMP=3192 12 120
+05-11 14:48:40.139: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:40.139: D/parseSystemPacket(3431): 0:10:00
+05-11 14:48:40.139: D/DataStreamReader(3431): newDataObtained
+05-11 14:48:40.139: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:48:40.259: D/onNewDataObtained(3431): refreshView
+05-11 14:48:40.259: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:48:40.859: D/F1LTActivity(3431): onSaveInstanceState
+05-11 14:48:40.969: D/SocketDataReader(3431): PingOK
+05-11 14:48:41.869: D/SocketDataReader(3431): PingOK
+05-11 14:48:41.889: D/F1LTActivity(3431): onSaveInstanceState
+05-11 14:48:42.769: D/SocketDataReader(3431): PingOK
+05-11 14:48:43.669: D/SocketDataReader(3431): PingOK
+05-11 14:48:44.569: D/SocketDataReader(3431): PingOK
+05-11 14:48:45.469: D/SocketDataReader(3431): PingOK
+05-11 14:48:46.369: D/SocketDataReader(3431): PingOK
+05-11 14:48:47.269: D/SocketDataReader(3431): PingOK
+05-11 14:48:48.169: D/SocketDataReader(3431): PingOK
+05-11 14:48:49.069: D/SocketDataReader(3431): PingOK
+05-11 14:48:49.979: D/SocketDataReader(3431): PingOK
+05-11 14:48:50.879: D/SocketDataReader(3431): PingOK
+05-11 14:48:51.779: D/SocketDataReader(3431): PingOK
+05-11 14:48:52.679: D/SocketDataReader(3431): PingOK
+05-11 14:48:53.579: D/SocketDataReader(3431): PingOK
+05-11 14:48:54.479: D/SocketDataReader(3431): PingOK
+05-11 14:48:55.389: D/SocketDataReader(3431): PingOK
+05-11 14:48:56.289: D/SocketDataReader(3431): PingOK
+05-11 14:48:57.189: D/SocketDataReader(3431): PingOK
+05-11 14:48:58.089: D/SocketDataReader(3431): PingOK
+05-11 14:48:58.989: D/SocketDataReader(3431): PingOK
+05-11 14:48:59.889: D/SocketDataReader(3431): PingOK
+05-11 14:49:00.049: D/SocketDataReader(3431): sendDataBlock
+05-11 14:49:00.049: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:49:00.049: D/SocketDataReader(3431): reading stream...
+05-11 14:49:00.049: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:49:00.049: D/DataStreamReader(3431): parseBlock: 19
+05-11 14:49:00.049: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades19.txt
+05-11 14:49:00.049: D/SessionTimer(3431): getTime
+05-11 14:49:00.069: D/GUARDAT NUM DADES AL ARXIU:(3431): 4
+05-11 14:49:00.069: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:00.069: D/DataStreamReader(3431): resetDecryption
+05-11 14:49:00.069: D/DataStreamReader(3431): newDataObtained
+05-11 14:49:00.069: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:49:00.189: D/onNewDataObtained(3431): refreshView
+05-11 14:49:00.189: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:49:00.789: D/SocketDataReader(3431): PingOK
+05-11 14:49:01.699: D/SocketDataReader(3431): PingOK
+05-11 14:49:02.599: D/SocketDataReader(3431): PingOK
+05-11 14:49:03.499: D/SocketDataReader(3431): PingOK
+05-11 14:49:04.399: D/SocketDataReader(3431): PingOK
+05-11 14:49:05.299: D/SocketDataReader(3431): PingOK
+05-11 14:49:06.199: D/SocketDataReader(3431): PingOK
+05-11 14:49:07.099: D/SocketDataReader(3431): PingOK
+05-11 14:49:07.999: D/SocketDataReader(3431): PingOK
+05-11 14:49:08.909: D/SocketDataReader(3431): PingOK
+05-11 14:49:09.809: D/SocketDataReader(3431): PingOK
+05-11 14:49:10.699: D/SocketDataReader(3431): PingOK
+05-11 14:49:11.599: D/SocketDataReader(3431): PingOK
+05-11 14:49:12.509: D/SocketDataReader(3431): PingOK
+05-11 14:49:13.409: D/SocketDataReader(3431): PingOK
+05-11 14:49:14.309: D/SocketDataReader(3431): PingOK
+05-11 14:49:15.209: D/SocketDataReader(3431): PingOK
+05-11 14:49:16.109: D/SocketDataReader(3431): PingOK
+05-11 14:49:17.009: D/SocketDataReader(3431): PingOK
+05-11 14:49:17.909: D/SocketDataReader(3431): PingOK
+05-11 14:49:18.809: D/SocketDataReader(3431): PingOK
+05-11 14:49:19.709: D/SocketDataReader(3431): PingOK
+05-11 14:49:20.609: D/SocketDataReader(3431): PingOK
+05-11 14:49:21.509: D/SocketDataReader(3431): PingOK
+05-11 14:49:22.419: D/SocketDataReader(3431): PingOK
+05-11 14:49:23.319: D/SocketDataReader(3431): PingOK
+05-11 14:49:24.219: D/SocketDataReader(3431): PingOK
+05-11 14:49:25.129: D/SocketDataReader(3431): PingOK
+05-11 14:49:26.029: D/SocketDataReader(3431): PingOK
+05-11 14:49:26.929: D/SocketDataReader(3431): PingOK
+05-11 14:49:27.829: D/SocketDataReader(3431): PingOK
+05-11 14:49:28.729: D/SocketDataReader(3431): PingOK
+05-11 14:49:29.629: D/SocketDataReader(3431): PingOK
+05-11 14:49:30.529: D/SocketDataReader(3431): PingOK
+05-11 14:49:31.429: D/SocketDataReader(3431): PingOK
+05-11 14:49:32.329: D/SocketDataReader(3431): PingOK
+05-11 14:49:33.229: D/SocketDataReader(3431): PingOK
+05-11 14:49:34.129: D/SocketDataReader(3431): PingOK
+05-11 14:49:34.449: D/SocketDataReader(3431): sendDataBlock
+05-11 14:49:34.449: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:49:34.449: D/SocketDataReader(3431): reading stream...
+05-11 14:49:34.449: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:49:34.459: D/DataStreamReader(3431): parseBlock: 20
+05-11 14:49:34.459: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades20.txt
+05-11 14:49:34.459: D/SessionTimer(3431): getTime
+05-11 14:49:34.469: D/GUARDAT NUM DADES AL ARXIU:(3431): 13
+05-11 14:49:34.469: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:34.469: D/packet(3431): TIMESTAMP=3246 12 -82
+05-11 14:49:34.469: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:34.469: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:34.469: D/DataStreamReader(3431): resetDecryption
+05-11 14:49:34.469: D/DataStreamReader(3431): newDataObtained
+05-11 14:49:34.469: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:49:34.589: D/onNewDataObtained(3431): refreshView
+05-11 14:49:34.589: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:49:35.039: D/SocketDataReader(3431): PingOK
+05-11 14:49:35.159: D/SocketDataReader(3431): sendDataBlock
+05-11 14:49:35.159: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:49:35.159: D/SocketDataReader(3431): reading stream...
+05-11 14:49:35.179: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:49:35.179: D/DataStreamReader(3431): parseBlock: 21
+05-11 14:49:35.179: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades21.txt
+05-11 14:49:35.179: D/SessionTimer(3431): getTime
+05-11 14:49:35.189: D/GUARDAT NUM DADES AL ARXIU:(3431): 17
+05-11 14:49:35.189: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:35.189: D/packet(3431): TIMESTAMP=3248 12 -80
+05-11 14:49:35.189: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:35.189: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:35.189: D/parseSystemPacket(3431): 0:10:00
+05-11 14:49:35.199: D/DataStreamReader(3431): newDataObtained
+05-11 14:49:35.199: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:49:35.309: D/onNewDataObtained(3431): refreshView
+05-11 14:49:35.309: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:49:35.939: D/SocketDataReader(3431): PingOK
+05-11 14:49:36.839: D/SocketDataReader(3431): PingOK
+05-11 14:49:37.739: D/SocketDataReader(3431): PingOK
+05-11 14:49:38.639: D/SocketDataReader(3431): PingOK
+05-11 14:49:39.539: D/SocketDataReader(3431): PingOK
+05-11 14:49:40.439: D/SocketDataReader(3431): PingOK
+05-11 14:49:41.339: D/SocketDataReader(3431): PingOK
+05-11 14:49:42.239: D/SocketDataReader(3431): PingOK
+05-11 14:49:43.139: D/SocketDataReader(3431): PingOK
+05-11 14:49:44.039: D/SocketDataReader(3431): PingOK
+05-11 14:49:44.309: D/F1LTActivity(3431): onSaveInstanceState
+05-11 14:49:44.949: D/SocketDataReader(3431): PingOK
+05-11 14:49:45.839: D/SocketDataReader(3431): PingOK
+05-11 14:49:46.749: D/SocketDataReader(3431): PingOK
+05-11 14:49:47.649: D/SocketDataReader(3431): PingOK
+05-11 14:49:48.549: D/SocketDataReader(3431): PingOK
+05-11 14:49:49.449: D/SocketDataReader(3431): PingOK
+05-11 14:49:50.349: D/SocketDataReader(3431): PingOK
+05-11 14:49:51.249: D/SocketDataReader(3431): PingOK
+05-11 14:49:52.149: D/SocketDataReader(3431): PingOK
+05-11 14:49:53.049: D/SocketDataReader(3431): PingOK
+05-11 14:49:53.949: D/SocketDataReader(3431): PingOK
+05-11 14:49:54.849: D/SocketDataReader(3431): PingOK
+05-11 14:49:55.749: D/SocketDataReader(3431): PingOK
+05-11 14:49:56.659: D/SocketDataReader(3431): PingOK
+05-11 14:49:57.559: D/SocketDataReader(3431): PingOK
+05-11 14:49:58.459: D/SocketDataReader(3431): PingOK
+05-11 14:49:59.359: D/SocketDataReader(3431): PingOK
+05-11 14:50:00.259: D/SocketDataReader(3431): PingOK
+05-11 14:50:01.159: D/SocketDataReader(3431): PingOK
+05-11 14:50:02.059: D/SocketDataReader(3431): PingOK
+05-11 14:50:02.959: D/SocketDataReader(3431): PingOK
+05-11 14:50:03.859: D/SocketDataReader(3431): PingOK
+05-11 14:50:04.139: D/SocketDataReader(3431): sendDataBlock
+05-11 14:50:04.139: D/onKeyFrameObtained(3431): DINS WHILE CONNECTED
+05-11 14:50:04.139: D/SocketDataReader(3431): reading stream...
+05-11 14:50:04.139: D/DataStreamReader(3431): onDataBlockObtained
+05-11 14:50:04.139: D/DataStreamReader(3431): parseBlock: 22
+05-11 14:50:04.139: D/ARREL ARXIU:(3431): /mnt/sdcard/PROVA/F1/BAR/Q3/Dades22.txt
+05-11 14:50:04.139: D/SessionTimer(3431): getTime
+05-11 14:50:04.149: D/GUARDAT NUM DADES AL ARXIU:(3431): 4
+05-11 14:50:04.149: D/parseSystemPacket(3431): 0:10:00
+05-11 14:50:04.159: D/DataStreamReader(3431): resetDecryption
+05-11 14:50:04.159: D/DataStreamReader(3431): newDataObtained
+05-11 14:50:04.159: D/F1LTActivity(3431): onNewDataObtained
+05-11 14:50:04.269: D/onNewDataObtained(3431): refreshView
+05-11 14:50:04.269: D/F1LTActivity(3431): updateCommentaryLine
+05-11 14:50:04.759: D/SocketDataReader(3431): PingOK
+05-11 14:50:05.659: D/SocketDataReader(3431): PingOK
+05-11 14:50:06.569: D/SocketDataReader(3431): PingOK
+05-11 14:50:07.469: D/SocketDataReader(3431): PingOK
+05-11 14:50:08.369: D/SocketDataReader(3431): PingOK
+05-11 14:50:09.269: D/SocketDataReader(3431): PingOK
+05-11 14:50:10.169: D/SocketDataReader(3431): PingOK
+05-11 14:50:11.079: D/SocketDataReader(3431): PingOK
+05-11 14:50:11.979: D/SocketDataReader(3431): PingOK
+05-11 14:50:12.879: D/SocketDataReader(3431): PingOK
+05-11 14:50:13.769: D/SocketDataReader(3431): PingOK

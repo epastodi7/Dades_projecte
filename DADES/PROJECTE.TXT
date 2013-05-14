@@ -1,0 +1,3 @@
+onConnectedClicked de F1LTActivity. TREURE user i passwd HARDCODED.
+
+PROVA PERQUE NO PETI ALS 30 MINUTS. Canviat F1LTActivity L139 login(false); -> login(true);

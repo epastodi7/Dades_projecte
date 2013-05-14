@@ -1,0 +1,342 @@
+05-10 10:03:57.209: D/parseSystemPacket(3347): 1:26:43
+05-10 10:03:57.219: D/DataStreamReader(3347): newDataObtained
+05-10 10:03:57.219: D/F1LTActivity(3347): onNewDataObtained
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.239: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:57.349: D/onNewDataObtained(3347): refreshView
+05-10 10:03:57.349: D/F1LTActivity(3347): updateCommentaryLine
+05-10 10:03:57.949: D/SocketDataReader(3347): PingOK
+05-10 10:03:58.029: D/SessionTimer(3347): decrementTime
+05-10 10:03:58.029: D/SessionTimer(3347): timerUpdated
+05-10 10:03:58.029: D/DataStreamReader(3347): getInstance
+05-10 10:03:58.029: D/DataStreamReader(3347): onSessionTimerUpdated
+05-10 10:03:58.029: D/F1LTActivity(3347): onNewDataObtained
+05-10 10:03:58.029: D/onNewDataObtained(3347): updateStatus
+05-10 10:03:58.039: D/F1LTActivity(3347): updateCommentaryLine
+05-10 10:03:58.149: D/SocketDataReader(3347): sendDataBlock
+05-10 10:03:58.149: D/onKeyFrameObtained(3347): DINS WHILE CONNECTED
+05-10 10:03:58.149: D/SocketDataReader(3347): reading stream...
+05-10 10:03:58.149: D/DataStreamReader(3347): onDataBlockObtained
+05-10 10:03:58.149: D/DataStreamReader(3347): parseBlock: 34
+05-10 10:03:58.149: D/ARREL ARXIU:(3347): /mnt/sdcard/PROVA/F1/BAR/P1/Dades34.txt
+05-10 10:03:58.149: D/SessionTimer(3347): getTime
+05-10 10:03:58.159: D/GUARDAT NUM DADES AL ARXIU:(3347): 86
+05-10 10:03:58.159: D/parseSystemPacket(3347): 1:26:42
+05-10 10:03:58.159: D/packet(3347): TIMESTAMP=511 1 -1
+05-10 10:03:58.159: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.159: D/CAR=20(3347):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.159: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.159: D/CAR=20(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+05-10 10:03:58.159: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.159: D/CAR=1(3347):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.159: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.159: D/CAR=1(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 9
+05-10 10:03:58.169: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.169: D/CAR=3(3347):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.169: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.169: D/CAR=3(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 10
+05-10 10:03:58.169: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.169: D/CAR=5(3347):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.179: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.179: D/CAR=5(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 11
+05-10 10:03:58.179: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.179: D/CAR=6(3347):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.179: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.179: D/CAR=6(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 12
+05-10 10:03:58.179: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.179: D/CAR=7(3347):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.179: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.179: D/CAR=7(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 13
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=8(3347):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=8(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 14
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=9(3347):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=9(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 15
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=10(3347):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=10(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 16
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.189: D/CAR=13(3347):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.189: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=13(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 17
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=15(3347):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=15(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 18
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=16(3347):  CAR TYPE=0 CAR DATA= 19 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=16(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 19
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=18(3347):  CAR TYPE=0 CAR DATA= 20 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=18(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 20
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=19(3347):  CAR TYPE=0 CAR DATA= 21 CAR LEN= 0 LONG DATA= 
+05-10 10:03:58.199: D/parseCarPacket(3347): 1:26:42
+05-10 10:03:58.199: D/CAR=19(3347):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 21
+05-10 10:03:58.199: D/DataStreamReader(3347): newDataObtained
+05-10 10:03:58.199: D/F1LTActivity(3347): onNewDataObtained
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.209: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.219: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:58.389: D/onNewDataObtained(3347): refreshView
+05-10 10:03:58.389: D/F1LTActivity(3347): updateCommentaryLine
+05-10 10:03:58.849: D/SocketDataReader(3347): PingOK
+05-10 10:03:58.999: D/SocketDataReader(3347): sendDataBlock
+05-10 10:03:58.999: D/onKeyFrameObtained(3347): DINS WHILE CONNECTED
+05-10 10:03:58.999: D/SocketDataReader(3347): reading stream...
+05-10 10:03:58.999: D/DataStreamReader(3347): onDataBlockObtained
+05-10 10:03:58.999: D/DataStreamReader(3347): parseBlock: 35
+05-10 10:03:58.999: D/ARREL ARXIU:(3347): /mnt/sdcard/PROVA/F1/BAR/P1/Dades35.txt
+05-10 10:03:58.999: D/SessionTimer(3347): getTime
+05-10 10:03:59.009: D/GUARDAT NUM DADES AL ARXIU:(3347): 17
+05-10 10:03:59.009: D/parseSystemPacket(3347): 1:26:42
+05-10 10:03:59.009: D/parseSystemPacket(3347): 1:26:42
+05-10 10:03:59.009: D/parseSystemPacket(3347): 1:26:42
+05-10 10:03:59.009: D/parseSystemPacket(3347): 1:26:42
+05-10 10:03:59.009: D/DataStreamReader(3347): newDataObtained
+05-10 10:03:59.009: D/F1LTActivity(3347): onNewDataObtained
+05-10 10:03:59.019: D/SessionTimer(3347): decrementTime
+05-10 10:03:59.019: D/SessionTimer(3347): timerUpdated
+05-10 10:03:59.029: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.029: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.029: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.029: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.029: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.039: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.049: D/DriverData(3347): DriverData-compareTo
+05-10 10:03:59.129: D/onNewDataObtained(3347): refreshView
+05-10 10:03:59.129: D/F1LTActivity(3347): updateCommentaryLine
+05-10 10:03:59.469: D/DataStreamReader(3347): getInstance
+05-10 10:03:59.469: D/DataStreamReader(3347): onSessionTimerUpdated
+05-10 10:03:59.469: D/F1LTActivity(3347): onNewDataObtained
+05-10 10:03:59.479: D/onNewDataObtained(3347): updateStatus
+05-10 10:03:59.479: D/F1LTActivity(3347): updateCommentaryLine
+05-10 10:03:59.749: D/SocketDataReader(3347): PingOK
+05-10 10:04:00.019: D/SessionTimer(3347): decrementTime
+05-10 10:04:00.019: D/SessionTimer(3347): timerUpdated
+05-10 10:04:00.019: D/DataStreamReader(3347): getInstance
+05-10 10:04:00.019: D/DataStreamReader(3347): onSessionTimerUpdated
+05-10 10:04:00.019: D/F1LTActivity(3347): onNewDataObtained
+05-10 10:04:00.039: D/onNewDataObtained(3347): updateStatus
+05-10 10:04:00.059: D/F1LTActivity(3347): updateCommentaryLine

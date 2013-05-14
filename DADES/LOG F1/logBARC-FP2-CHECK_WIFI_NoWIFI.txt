@@ -1,0 +1,1990 @@
+05-11 10:07:43.519: I/ApplicationPackageManager(4502): cscCountry is not German : YOG
+05-11 10:07:43.519: D/F1LTActivity(4502): onCreate
+05-11 10:07:43.769: D/DataStreamReader(4502): getInstance
+05-11 10:07:43.779: D/DataStreamReader(4502): setDataStreamReceiver
+05-11 10:07:43.929: W/ApplicationContext(4502): getSharedPreferences
+05-11 10:07:43.929: W/ApplicationContext(4502): org.xmlpull.v1.XmlPullParserException: Error parsing document. (position:line -1, column -1) caused by: org.apache.harmony.xml.ExpatParser$ParseException: At line 4, column 27: not well-formed (invalid token)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at org.apache.harmony.xml.ExpatPullParser$ByteDocument.flush(ExpatPullParser.java:958)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at org.apache.harmony.xml.ExpatPullParser$Document.pump(ExpatPullParser.java:769)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at org.apache.harmony.xml.ExpatPullParser$Document.dequeue(ExpatPullParser.java:813)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at org.apache.harmony.xml.ExpatPullParser.next(ExpatPullParser.java:302)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at com.android.internal.util.XmlUtils.readValueXml(XmlUtils.java:675)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at com.android.internal.util.XmlUtils.readMapXml(XmlUtils.java:470)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.ContextImpl.getSharedPreferences(ContextImpl.java:385)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.content.ContextWrapper.getSharedPreferences(ContextWrapper.java:146)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at com.f1lt.F1LTActivity.onCreate(F1LTActivity.java:125)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1047)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:1615)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:1667)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.ActivityThread.access$1500(ActivityThread.java:117)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:935)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.os.Looper.loop(Looper.java:130)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at android.app.ActivityThread.main(ActivityThread.java:3687)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at java.lang.reflect.Method.invokeNative(Native Method)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at java.lang.reflect.Method.invoke(Method.java:507)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:867)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:625)
+05-11 10:07:43.929: W/ApplicationContext(4502): 	at dalvik.system.NativeStart.main(Native Method)
+05-11 10:07:43.929: D/DataStreamReader(4502): isConnected
+05-11 10:07:43.949: D/F1LTAct L139(4502): No conectat
+05-11 10:07:43.949: D/F1LTActivity(4502): login
+05-11 10:07:43.999: D/F1LTActivity(4502): updateCommentaryLine
+05-11 10:07:43.999: D/F1LTActivity(4502): onStart
+05-11 10:07:44.389: D/F1LTActivity(4502): onSaveInstanceState
+05-11 10:07:44.409: W/dalvikvm(4502): VFY: unable to resolve virtual method 3966: Lcom/f1lt/LoginActivity;.getActionBar ()Landroid/app/ActionBar;
+05-11 10:07:44.409: I/ApplicationPackageManager(4502): cscCountry is not German : YOG
+05-11 10:07:47.779: W/IInputConnectionWrapper(4502): commitText on inactive InputConnection
+05-11 10:07:47.849: W/IInputConnectionWrapper(4502): showStatusIcon on inactive InputConnection
+05-11 10:07:47.849: W/IInputConnectionWrapper(4502): reportIsSoftInputMethodShowing on inactive InputConnection
+05-11 10:07:47.849: W/IInputConnectionWrapper(4502): reportIsSoftInputMethodShowing on inactive InputConnection
+05-11 10:07:52.159: D/F1LTActivity(4502): onActivityResult
+05-11 10:07:52.159: D/ResultCode dins F1LT(4502): -1
+05-11 10:07:52.159: D/F1LTActivity(4502): onConnectedClicked
+05-11 10:07:52.159: D/DataStreamReader(4502): encodePasswd
+05-11 10:07:52.219: D/HttpReader(4502): attemptAuth
+05-11 10:07:52.229: D/F1LTActivity(4502): onRestart
+05-11 10:07:52.229: D/F1LTActivity(4502): onStart
+05-11 10:07:52.229: D/HttpReader(4502): authorize
+05-11 10:07:54.369: I/global(4502): Loaded time zone names for en_US in 1602ms.
+05-11 10:07:54.749: D/HttpReader(4502): sendAuthenticationCookie
+05-11 10:07:54.749: D/F1LTActivity(4502): onAuthorized
+05-11 10:07:54.869: D/DataStreamReader(4502): connectToStream
+05-11 10:07:54.869: D/HttpReader(4502): attemptObtainKeyFrame
+05-11 10:07:54.889: D/HttpReader(4502): obtainKeyFrame
+05-11 10:07:55.219: D/HttpReader(4502): sendKeyFrame
+05-11 10:07:55.219: D/DataStreamReader(4502): onKeyFrameObtained
+05-11 10:07:55.219: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:55.219: D/DataStreamReader(4502): parseBlock: 1
+05-11 10:07:55.439: D/ARREL ARXIU:(4502): /mnt/sdcard/PROVA/F1/BAR/P3/Dades1.txt
+05-11 10:07:55.439: D/SessionTimer(4502): getTime
+05-11 10:07:55.629: D/GUARDAT NUM DADES AL ARXIU:(4502): 12105
+05-11 10:07:55.629: D/HTTP ATTEMPT L752(4502): 0
+05-11 10:07:55.629: D/HttpReader(4502): attemptObtainDecryptionKey
+05-11 10:07:55.629: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:55.629: D/CAR=1(4502):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.639: D/CAR=2(4502):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.639: D/HttpReader(4502): obtainDecryptionKey
+05-11 10:07:55.649: D/CAR=3(4502):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.649: D/CAR=4(4502):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.649: D/CAR=5(4502):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.649: D/CAR=6(4502):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.649: D/CAR=7(4502):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.649: D/CAR=8(4502):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.649: D/CAR=9(4502):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.679: D/CAR=10(4502):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.679: D/CAR=11(4502):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.679: D/CAR=12(4502):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.679: D/CAR=13(4502):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.679: D/CAR=14(4502):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.689: D/CAR=15(4502):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.689: D/CAR=16(4502):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.689: D/CAR=17(4502):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.689: D/CAR=18(4502):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.689: D/CAR=19(4502):  CAR TYPE=0 CAR DATA= 21 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.699: D/CAR=20(4502):  CAR TYPE=0 CAR DATA= 19 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.699: D/CAR=21(4502):  CAR TYPE=0 CAR DATA= 20 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.699: D/CAR=22(4502):  CAR TYPE=0 CAR DATA= 22 CAR LEN= 0 LONG DATA= 
+05-11 10:07:55.799: D/Nom fitxer KEY:(4502): DadesKEY.txt
+05-11 10:07:55.799: D/GUARDAT KEY.(4502): -166413284
+05-11 10:07:55.829: D/GUARDAT KEY STRING(4502): -166413284
+05-11 10:07:55.829: D/HttpReader(4502): sendDecryptionKey
+05-11 10:07:55.939: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:55.939: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:55.939: D/SocketDataReader(4502): isConnected
+05-11 10:07:55.939: D/DataStreamReader(4502): onDecryptionKeyObtained
+05-11 10:07:55.939: D/KEY ES(4502): -166413284
+05-11 10:07:55.939: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:55.939: D/CAR=1(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 1
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= S. VETTEL
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.808
+05-11 10:07:55.949: D/SocketDataReader(4502): openStream
+05-11 10:07:55.949: D/DriverData(4502): setTime-str
+05-11 10:07:55.949: D/DriverData(4502): setTime-lt
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 10:07:55.949: D/DriverData(4502): setTime-str
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 10:07:55.949: D/DriverData(4502): setTime-str
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:07:55.949: D/DriverData(4502): setTime-str
+05-11 10:07:55.949: D/CAR=1(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 34
+05-11 10:07:55.959: D/DriverData(4502): DriverData-addLap
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:55.959: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:55.959: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:55.959: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): setTime-lt
+05-11 10:07:55.959: D/DriverData(4502): LapTime-diff
+05-11 10:07:55.959: D/CAR=2(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+05-11 10:07:55.959: D/CAR=2(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 2
+05-11 10:07:55.959: D/CAR=2(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= M. WEBBER
+05-11 10:07:55.959: D/CAR=2(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.891
+05-11 10:07:55.969: D/DriverData(4502): setTime-str
+05-11 10:07:55.969: D/CAR=2(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.083
+05-11 10:07:55.969: D/CAR=2(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:07:55.969: D/DriverData(4502): setTime-str
+05-11 10:07:55.969: D/CAR=2(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.0
+05-11 10:07:55.969: D/DriverData(4502): setTime-str
+05-11 10:07:55.969: D/CAR=2(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 10:07:55.969: D/DriverData(4502): setTime-str
+05-11 10:07:55.969: D/CAR=2(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 36
+05-11 10:07:55.969: D/DriverData(4502): DriverData-addLap
+05-11 10:07:55.969: D/DriverData(4502): setTime-lt
+05-11 10:07:55.969: D/DriverData(4502): setTime-lt
+05-11 10:07:55.969: D/DriverData(4502): setTime-lt
+05-11 10:07:55.969: D/DriverData(4502): setTime-lt
+05-11 10:07:55.969: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:55.979: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:55.979: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:55.979: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:55.979: D/DriverData(4502): setTime-lt
+05-11 10:07:55.979: D/DriverData(4502): setTime-lt
+05-11 10:07:55.979: D/DriverData(4502): setTime-lt
+05-11 10:07:55.979: D/DriverData(4502): setTime-lt
+05-11 10:07:55.979: D/DriverData(4502): LapTime-diff
+05-11 10:07:55.979: D/CAR=3(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+05-11 10:07:55.979: D/CAR=3(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 3
+05-11 10:07:55.979: D/CAR=3(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= F. ALONSO
+05-11 10:07:55.979: D/CAR=3(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.825
+05-11 10:07:55.989: D/DriverData(4502): setTime-str
+05-11 10:07:55.989: D/CAR=3(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.017
+05-11 10:07:55.989: D/CAR=3(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 10:07:55.989: D/DriverData(4502): setTime-str
+05-11 10:07:55.989: D/CAR=3(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.2
+05-11 10:07:55.989: D/DriverData(4502): setTime-str
+05-11 10:07:55.989: D/CAR=3(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.6
+05-11 10:07:55.989: D/DriverData(4502): setTime-str
+05-11 10:07:55.989: D/CAR=3(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:07:56.019: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 4
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= F. MASSA
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.110
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.302
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.1
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.9
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=4(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 37
+05-11 10:07:56.019: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.019: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): setTime-lt
+05-11 10:07:56.019: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 12
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 5
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. BUTTON
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.306
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.498
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.6
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:07:56.019: D/DriverData(4502): setTime-str
+05-11 10:07:56.019: D/CAR=5(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:07:56.019: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 13
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 6
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= S. PEREZ
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.854
+05-11 10:07:56.049: D/DriverData(4502): setTime-str
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.046
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:07:56.049: D/DriverData(4502): setTime-str
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 10:07:56.049: D/DriverData(4502): setTime-str
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.6
+05-11 10:07:56.049: D/DriverData(4502): setTime-str
+05-11 10:07:56.049: D/CAR=6(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 31
+05-11 10:07:56.049: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): setTime-lt
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.049: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.059: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 7
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= K. RAIKKONEN
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.030
+05-11 10:07:56.059: D/DriverData(4502): setTime-str
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.222
+05-11 10:07:56.059: D/onKeyFrameObtained(4502): DINS WHILE CONNECTED
+05-11 10:07:56.059: D/SocketDataReader(4502): reading stream...
+05-11 10:07:56.059: D/SocketDataReader(4502): sendDataBlock
+05-11 10:07:56.059: D/onKeyFrameObtained(4502): DINS WHILE CONNECTED
+05-11 10:07:56.059: D/SocketDataReader(4502): reading stream...
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 10:07:56.059: D/DriverData(4502): setTime-str
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.1
+05-11 10:07:56.059: D/DriverData(4502): setTime-str
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:07:56.059: D/DriverData(4502): setTime-str
+05-11 10:07:56.059: D/CAR=7(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 32
+05-11 10:07:56.059: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.059: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.059: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.059: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): setTime-lt
+05-11 10:07:56.059: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 18
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 8
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= R. GROSJEAN
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.851
+05-11 10:07:56.069: D/DriverData(4502): setTime-str
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 3.043
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.9
+05-11 10:07:56.069: D/DriverData(4502): setTime-str
+05-11 10:07:56.069: D/CAR=8(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.2
+05-11 10:07:56.069: D/DriverData(4502): setTime-str
+05-11 10:07:56.079: D/CAR=8(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.9
+05-11 10:07:56.079: D/DriverData(4502): setTime-str
+05-11 10:07:56.079: D/CAR=8(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 36
+05-11 10:07:56.079: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.079: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.079: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.079: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 9
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= N. ROSBERG
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.398
+05-11 10:07:56.079: D/DriverData(4502): setTime-str
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.590
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 10:07:56.079: D/DriverData(4502): setTime-str
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.3
+05-11 10:07:56.079: D/DriverData(4502): setTime-str
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:07:56.079: D/DriverData(4502): setTime-str
+05-11 10:07:56.079: D/CAR=9(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 45
+05-11 10:07:56.079: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): setTime-lt
+05-11 10:07:56.079: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.079: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.089: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.089: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.089: D/DriverData(4502): setTime-lt
+05-11 10:07:56.089: D/DriverData(4502): setTime-lt
+05-11 10:07:56.089: D/DriverData(4502): setTime-lt
+05-11 10:07:56.089: D/DriverData(4502): setTime-lt
+05-11 10:07:56.089: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 10
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= L. HAMILTON
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.140
+05-11 10:07:56.099: D/DriverData(4502): setTime-str
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.332
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 10:07:56.099: D/DriverData(4502): setTime-str
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.1
+05-11 10:07:56.099: D/DriverData(4502): setTime-str
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:07:56.099: D/DriverData(4502): setTime-str
+05-11 10:07:56.099: D/CAR=10(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:07:56.109: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 15
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 11
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 13 LONG DATA= N. HULKENBERG
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.167
+05-11 10:07:56.109: D/DriverData(4502): setTime-str
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.359
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+05-11 10:07:56.109: D/DriverData(4502): setTime-str
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.0
+05-11 10:07:56.109: D/DriverData(4502): setTime-str
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.2
+05-11 10:07:56.109: D/DriverData(4502): setTime-str
+05-11 10:07:56.109: D/CAR=11(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 38
+05-11 10:07:56.109: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.109: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): setTime-lt
+05-11 10:07:56.109: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 17
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 12
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= E. GUTIERREZ
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.441
+05-11 10:07:56.129: D/DriverData(4502): setTime-str
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.633
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+05-11 10:07:56.129: D/DriverData(4502): setTime-str
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.8
+05-11 10:07:56.129: D/DriverData(4502): setTime-str
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.5
+05-11 10:07:56.129: D/DriverData(4502): setTime-str
+05-11 10:07:56.129: D/CAR=12(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 37
+05-11 10:07:56.129: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.129: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.129: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.129: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): setTime-lt
+05-11 10:07:56.129: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 10
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 14
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= P. DI RESTA
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.104
+05-11 10:07:56.139: D/DriverData(4502): setTime-str
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.296
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.3
+05-11 10:07:56.139: D/DriverData(4502): setTime-str
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.4
+05-11 10:07:56.139: D/DriverData(4502): setTime-str
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:07:56.139: D/DriverData(4502): setTime-str
+05-11 10:07:56.139: D/CAR=13(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 25
+05-11 10:07:56.139: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.139: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.139: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.139: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): setTime-lt
+05-11 10:07:56.139: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 15
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= A. SUTIL
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.840
+05-11 10:07:56.149: D/DriverData(4502): setTime-str
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.032
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:07:56.149: D/DriverData(4502): setTime-str
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.2
+05-11 10:07:56.149: D/DriverData(4502): setTime-str
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:07:56.149: D/DriverData(4502): setTime-str
+05-11 10:07:56.149: D/CAR=14(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 37
+05-11 10:07:56.149: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.149: D/DriverData(4502): setTime-lt
+05-11 10:07:56.149: D/DriverData(4502): setTime-lt
+05-11 10:07:56.149: D/DriverData(4502): setTime-lt
+05-11 10:07:56.149: D/DriverData(4502): setTime-lt
+05-11 10:07:56.149: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.149: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.159: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.159: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 16
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 16
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= P. MALDONADO
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.321
+05-11 10:07:56.159: D/DriverData(4502): setTime-str
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.513
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.5
+05-11 10:07:56.159: D/DriverData(4502): setTime-str
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.0
+05-11 10:07:56.159: D/DriverData(4502): setTime-str
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.4
+05-11 10:07:56.159: D/DriverData(4502): setTime-str
+05-11 10:07:56.159: D/CAR=15(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 32
+05-11 10:07:56.159: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.159: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.159: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.159: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.159: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 14
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 17
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= V. BOTTAS
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.888
+05-11 10:07:56.179: D/DriverData(4502): setTime-str
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.080
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.7
+05-11 10:07:56.179: D/DriverData(4502): setTime-str
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.8
+05-11 10:07:56.179: D/DriverData(4502): setTime-str
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:07:56.179: D/DriverData(4502): setTime-str
+05-11 10:07:56.179: D/CAR=16(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 38
+05-11 10:07:56.179: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.179: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.179: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.179: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): setTime-lt
+05-11 10:07:56.179: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 9
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 18
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. VERGNE
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.058
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.250
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.9
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=17(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 31
+05-11 10:07:56.199: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.199: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.199: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.199: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): setTime-lt
+05-11 10:07:56.199: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 11
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 19
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= D. RICCIARDO
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.175
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.367
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.4
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.4
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.199: D/CAR=18(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.2
+05-11 10:07:56.199: D/DriverData(4502): setTime-str
+05-11 10:07:56.219: D/CAR=18(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 32
+05-11 10:07:56.219: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.219: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.219: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.219: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): setTime-lt
+05-11 10:07:56.219: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 21
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 20
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 6 LONG DATA= C. PIC
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.930
+05-11 10:07:56.219: D/DriverData(4502): setTime-str
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 4.122
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.7
+05-11 10:07:56.219: D/DriverData(4502): setTime-str
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.8
+05-11 10:07:56.219: D/DriverData(4502): setTime-str
+05-11 10:07:56.219: D/CAR=19(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.1
+05-11 10:07:56.219: D/DriverData(4502): setTime-str
+05-11 10:07:56.229: D/CAR=19(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:07:56.229: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.229: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.229: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.229: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): setTime-lt
+05-11 10:07:56.229: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 19
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 21
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 14 LONG DATA= G. VAN DER GAR
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.963
+05-11 10:07:56.229: D/DriverData(4502): setTime-str
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 3.155
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+05-11 10:07:56.229: D/DriverData(4502): setTime-str
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.4
+05-11 10:07:56.229: D/DriverData(4502): setTime-str
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.7
+05-11 10:07:56.229: D/DriverData(4502): setTime-str
+05-11 10:07:56.229: D/CAR=20(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 30
+05-11 10:07:56.229: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 20
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 22
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= J. BIANCHI
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.078
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 3.270
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.7
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.4
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.9
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=21(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 31
+05-11 10:07:56.239: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 22
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 23
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= M. CHILTON
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.970
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 4.162
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.8
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.7
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.1
+05-11 10:07:56.239: D/DriverData(4502): setTime-str
+05-11 10:07:56.239: D/CAR=22(4502):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 26
+05-11 10:07:56.239: D/DriverData(4502): DriverData-addLap
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessEqual
+05-11 10:07:56.239: D/DriverData(4502): LapTime-lessThan
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): setTime-lt
+05-11 10:07:56.239: D/DriverData(4502): LapTime-diff
+05-11 10:07:56.289: D/packet(4502): TIMESTAMP=30 0 30
+05-11 10:07:56.299: D/packet(4502): TIMESTAMP=35 0 35
+05-11 10:07:56.299: D/packet(4502): TIMESTAMP=40 0 40
+05-11 10:07:56.299: D/packet(4502): TIMESTAMP=85 0 85
+05-11 10:07:56.309: D/packet(4502): TIMESTAMP=90 0 90
+05-11 10:07:56.319: D/packet(4502): TIMESTAMP=100 0 100
+05-11 10:07:56.329: D/packet(4502): TIMESTAMP=136 0 -120
+05-11 10:07:56.329: D/packet(4502): TIMESTAMP=140 0 -116
+05-11 10:07:56.329: D/packet(4502): TIMESTAMP=145 0 -111
+05-11 10:07:56.329: D/packet(4502): TIMESTAMP=153 0 -103
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=176 0 -80
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=187 0 -69
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=195 0 -61
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=200 0 -56
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=212 0 -44
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=250 0 -6
+05-11 10:07:56.349: D/packet(4502): TIMESTAMP=255 0 -1
+05-11 10:07:56.359: D/packet(4502): TIMESTAMP=330 1 74
+05-11 10:07:56.359: D/packet(4502): TIMESTAMP=360 1 104
+05-11 10:07:56.359: D/packet(4502): TIMESTAMP=365 1 109
+05-11 10:07:56.359: D/packet(4502): TIMESTAMP=368 1 112
+05-11 10:07:56.359: D/packet(4502): TIMESTAMP=407 1 -105
+05-11 10:07:56.369: D/packet(4502): TIMESTAMP=416 1 -96
+05-11 10:07:56.369: D/packet(4502): TIMESTAMP=420 1 -92
+05-11 10:07:56.369: D/packet(4502): TIMESTAMP=470 1 -42
+05-11 10:07:56.369: D/packet(4502): TIMESTAMP=475 1 -37
+05-11 10:07:56.379: D/packet(4502): TIMESTAMP=483 1 -29
+05-11 10:07:56.379: D/packet(4502): TIMESTAMP=523 2 11
+05-11 10:07:56.379: D/packet(4502): TIMESTAMP=525 2 13
+05-11 10:07:56.379: D/packet(4502): TIMESTAMP=526 2 14
+05-11 10:07:56.379: D/packet(4502): TIMESTAMP=555 2 43
+05-11 10:07:56.379: D/packet(4502): TIMESTAMP=580 2 68
+05-11 10:07:56.389: D/packet(4502): TIMESTAMP=595 2 83
+05-11 10:07:56.389: D/packet(4502): TIMESTAMP=635 2 123
+05-11 10:07:56.419: D/packet(4502): TIMESTAMP=645 2 -123
+05-11 10:07:56.419: D/packet(4502): TIMESTAMP=682 2 -86
+05-11 10:07:56.419: D/packet(4502): TIMESTAMP=690 2 -78
+05-11 10:07:56.419: D/packet(4502): TIMESTAMP=695 2 -73
+05-11 10:07:56.419: D/packet(4502): TIMESTAMP=745 2 -23
+05-11 10:07:56.429: D/packet(4502): TIMESTAMP=793 3 25
+05-11 10:07:56.429: D/packet(4502): TIMESTAMP=800 3 32
+05-11 10:07:56.439: D/packet(4502): TIMESTAMP=856 3 88
+05-11 10:07:56.439: D/packet(4502): TIMESTAMP=860 3 92
+05-11 10:07:56.439: D/packet(4502): TIMESTAMP=903 3 -121
+05-11 10:07:56.559: D/packet(4502): TIMESTAMP=911 3 -113
+05-11 10:07:56.559: D/packet(4502): TIMESTAMP=966 3 -58
+05-11 10:07:56.559: D/packet(4502): TIMESTAMP=1005 3 -19
+05-11 10:07:56.559: D/packet(4502): TIMESTAMP=1046 4 22
+05-11 10:07:56.559: D/packet(4502): TIMESTAMP=1056 4 32
+05-11 10:07:56.569: D/packet(4502): TIMESTAMP=1071 4 47
+05-11 10:07:56.569: D/packet(4502): TIMESTAMP=1075 4 51
+05-11 10:07:56.569: D/packet(4502): TIMESTAMP=1076 4 52
+05-11 10:07:56.569: D/packet(4502): TIMESTAMP=1091 4 67
+05-11 10:07:56.579: D/packet(4502): TIMESTAMP=1131 4 107
+05-11 10:07:56.579: D/packet(4502): TIMESTAMP=1157 4 -123
+05-11 10:07:56.579: D/packet(4502): TIMESTAMP=1185 4 -95
+05-11 10:07:56.579: D/packet(4502): TIMESTAMP=1187 4 -93
+05-11 10:07:56.579: D/packet(4502): TIMESTAMP=1241 4 -39
+05-11 10:07:56.589: D/packet(4502): TIMESTAMP=1242 4 -38
+05-11 10:07:56.589: D/packet(4502): TIMESTAMP=1296 5 16
+05-11 10:07:56.589: D/packet(4502): TIMESTAMP=1303 5 23
+05-11 10:07:56.589: D/packet(4502): TIMESTAMP=1335 5 55
+05-11 10:07:56.589: D/packet(4502): TIMESTAMP=1351 5 71
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1352 5 72
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1405 5 125
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1406 5 126
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1460 5 -76
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1462 5 -74
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1471 5 -65
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1484 5 -52
+05-11 10:07:56.599: D/packet(4502): TIMESTAMP=1516 5 -20
+05-11 10:07:56.609: D/packet(4502): TIMESTAMP=1557 6 21
+05-11 10:07:56.609: D/packet(4502): TIMESTAMP=1570 6 34
+05-11 10:07:56.609: D/packet(4502): TIMESTAMP=1572 6 36
+05-11 10:07:56.609: D/packet(4502): TIMESTAMP=1625 6 89
+05-11 10:07:56.609: D/packet(4502): TIMESTAMP=1627 6 91
+05-11 10:07:56.609: D/packet(4502): TIMESTAMP=1641 6 105
+05-11 10:07:56.639: D/packet(4502): TIMESTAMP=1654 6 118
+05-11 10:07:56.639: D/packet(4502): TIMESTAMP=1682 6 -110
+05-11 10:07:56.639: D/packet(4502): TIMESTAMP=1706 6 -86
+05-11 10:07:56.639: D/packet(4502): TIMESTAMP=1735 6 -57
+05-11 10:07:56.639: D/packet(4502): TIMESTAMP=1737 6 -55
+05-11 10:07:56.639: D/packet(4502): TIMESTAMP=1770 6 -22
+05-11 10:07:56.699: D/packet(4502): TIMESTAMP=1791 6 -1
+05-11 10:07:56.699: D/packet(4502): TIMESTAMP=1793 7 1
+05-11 10:07:56.699: D/packet(4502): TIMESTAMP=1828 7 36
+05-11 10:07:56.699: D/packet(4502): TIMESTAMP=1846 7 54
+05-11 10:07:56.699: D/packet(4502): TIMESTAMP=1847 7 55
+05-11 10:07:56.699: D/packet(4502): TIMESTAMP=1864 7 72
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=1901 7 109
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=1902 7 110
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=1948 7 -100
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=1955 7 -93
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=1958 7 -90
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=1972 7 -76
+05-11 10:07:56.709: D/packet(4502): TIMESTAMP=2004 7 -44
+05-11 10:07:56.719: D/packet(4502): TIMESTAMP=2010 7 -38
+05-11 10:07:56.719: D/packet(4502): TIMESTAMP=2013 7 -35
+05-11 10:07:56.719: D/packet(4502): TIMESTAMP=2036 7 -12
+05-11 10:07:56.719: D/packet(4502): TIMESTAMP=2065 8 17
+05-11 10:07:56.719: D/packet(4502): TIMESTAMP=2067 8 19
+05-11 10:07:56.729: D/packet(4502): TIMESTAMP=2121 8 73
+05-11 10:07:56.729: D/packet(4502): TIMESTAMP=2122 8 74
+05-11 10:07:56.729: D/packet(4502): TIMESTAMP=2142 8 94
+05-11 10:07:56.729: D/packet(4502): TIMESTAMP=2175 8 127
+05-11 10:07:56.729: D/packet(4502): TIMESTAMP=2178 8 -126
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2231 8 -73
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2233 8 -71
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2265 8 -39
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2268 8 -36
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2285 8 -19
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2287 8 -17
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2288 8 -16
+05-11 10:07:56.739: D/packet(4502): TIMESTAMP=2393 9 89
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2396 9 92
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2398 9 94
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2445 9 -115
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2451 9 -109
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2454 9 -106
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2505 9 -55
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2509 9 -51
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2555 9 -5
+05-11 10:07:56.759: D/packet(4502): TIMESTAMP=2560 10 0
+05-11 10:07:56.769: D/packet(4502): TIMESTAMP=2564 10 4
+05-11 10:07:56.779: D/packet(4502): TIMESTAMP=2616 10 56
+05-11 10:07:56.779: D/packet(4502): TIMESTAMP=2618 10 58
+05-11 10:07:56.839: D/packet(4502): TIMESTAMP=2625 10 65
+05-11 10:07:56.839: D/packet(4502): TIMESTAMP=2671 10 111
+05-11 10:07:56.839: D/packet(4502): TIMESTAMP=2673 10 113
+05-11 10:07:56.839: D/packet(4502): TIMESTAMP=2726 10 -90
+05-11 10:07:56.839: D/packet(4502): TIMESTAMP=2728 10 -88
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2781 10 -35
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2784 10 -32
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2836 11 20
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2839 11 23
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2851 11 35
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2891 11 75
+05-11 10:07:56.849: D/packet(4502): TIMESTAMP=2894 11 78
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=2913 11 97
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=2946 11 -126
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=2949 11 -123
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=2955 11 -117
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=2977 11 -95
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=3051 11 -21
+05-11 10:07:56.859: D/packet(4502): TIMESTAMP=3056 11 -16
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3059 11 -13
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3088 12 16
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3111 12 39
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3114 12 42
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3166 12 94
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3169 12 97
+05-11 10:07:56.869: D/packet(4502): TIMESTAMP=3221 12 -107
+05-11 10:07:56.879: D/packet(4502): TIMESTAMP=3224 12 -104
+05-11 10:07:56.879: D/packet(4502): TIMESTAMP=3226 12 -102
+05-11 10:07:56.879: D/packet(4502): TIMESTAMP=3276 12 -52
+05-11 10:07:56.879: D/packet(4502): TIMESTAMP=3280 12 -48
+05-11 10:07:56.879: D/packet(4502): TIMESTAMP=3291 12 -37
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3332 13 4
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3334 13 6
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3386 13 58
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3390 13 62
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3428 13 100
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3441 13 113
+05-11 10:07:56.899: D/packet(4502): TIMESTAMP=3444 13 116
+05-11 10:07:56.909: D/packet(4502): TIMESTAMP=3496 13 -88
+05-11 10:07:56.909: D/packet(4502): TIMESTAMP=3500 13 -84
+05-11 10:07:56.919: D/packet(4502): TIMESTAMP=3506 13 -78
+05-11 10:07:56.959: D/SocketDataReader(4502): PingOK
+05-11 10:07:56.979: D/packet(4502): TIMESTAMP=3552 13 -32
+05-11 10:07:56.979: D/packet(4502): TIMESTAMP=3554 13 -30
+05-11 10:07:56.979: D/packet(4502): TIMESTAMP=3555 13 -29
+05-11 10:07:56.979: D/packet(4502): TIMESTAMP=3607 14 23
+05-11 10:07:56.979: D/packet(4502): TIMESTAMP=3610 14 26
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3666 14 82
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3716 14 -124
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3720 14 -120
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3772 14 -68
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3775 14 -65
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3826 14 -14
+05-11 10:07:56.989: D/packet(4502): TIMESTAMP=3830 14 -10
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3882 15 42
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3885 15 45
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3937 15 97
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3940 15 100
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3990 15 -106
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3992 15 -104
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=3995 15 -101
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4046 15 -50
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4050 15 -46
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4101 16 5
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4106 16 10
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4156 16 60
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4161 16 65
+05-11 10:07:56.999: D/packet(4502): TIMESTAMP=4200 16 104
+05-11 10:07:57.019: D/packet(4502): TIMESTAMP=4212 16 116
+05-11 10:07:57.019: D/packet(4502): TIMESTAMP=4216 16 120
+05-11 10:07:57.019: D/packet(4502): TIMESTAMP=4267 16 -85
+05-11 10:07:57.019: D/packet(4502): TIMESTAMP=4271 16 -81
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4362 17 10
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4376 17 24
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4381 17 29
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4432 17 80
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4477 17 125
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4487 17 -121
+05-11 10:07:57.029: D/packet(4502): TIMESTAMP=4491 17 -117
+05-11 10:07:57.039: D/packet(4502): TIMESTAMP=4499 17 -109
+05-11 10:07:57.039: D/packet(4502): TIMESTAMP=4541 17 -67
+05-11 10:07:57.039: D/packet(4502): TIMESTAMP=4547 17 -61
+05-11 10:07:57.039: D/packet(4502): TIMESTAMP=4556 17 -52
+05-11 10:07:57.069: D/packet(4502): TIMESTAMP=4577 17 -31
+05-11 10:07:57.079: D/packet(4502): TIMESTAMP=4596 17 -12
+05-11 10:07:57.079: D/packet(4502): TIMESTAMP=4601 17 -7
+05-11 10:07:57.079: D/packet(4502): TIMESTAMP=4614 18 6
+05-11 10:07:57.159: D/packet(4502): TIMESTAMP=4651 18 43
+05-11 10:07:57.159: D/packet(4502): TIMESTAMP=4657 18 49
+05-11 10:07:57.169: D/packet(4502): TIMESTAMP=4706 18 98
+05-11 10:07:57.169: D/packet(4502): TIMESTAMP=4711 18 103
+05-11 10:07:57.169: D/packet(4502): TIMESTAMP=4744 18 -120
+05-11 10:07:57.169: D/packet(4502): TIMESTAMP=4761 18 -103
+05-11 10:07:57.169: D/packet(4502): TIMESTAMP=4762 18 -102
+05-11 10:07:57.169: D/packet(4502): TIMESTAMP=4818 18 -46
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4822 18 -42
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4832 18 -32
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4873 19 9
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4877 19 13
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4903 19 39
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4928 19 64
+05-11 10:07:57.179: D/packet(4502): TIMESTAMP=4932 19 68
+05-11 10:07:57.189: D/packet(4502): TIMESTAMP=4983 19 119
+05-11 10:07:57.189: D/packet(4502): TIMESTAMP=4987 19 123
+05-11 10:07:57.189: D/packet(4502): TIMESTAMP=5009 19 -111
+05-11 10:07:57.189: D/packet(4502): TIMESTAMP=5069 19 -51
+05-11 10:07:57.209: D/packet(4502): TIMESTAMP=5093 19 -27
+05-11 10:07:57.209: D/packet(4502): TIMESTAMP=5097 19 -23
+05-11 10:07:57.209: D/packet(4502): TIMESTAMP=5114 19 -6
+05-11 10:07:57.209: D/packet(4502): TIMESTAMP=5148 20 28
+05-11 10:07:57.209: D/packet(4502): TIMESTAMP=5152 20 32
+05-11 10:07:57.219: D/packet(4502): TIMESTAMP=5203 20 83
+05-11 10:07:57.279: D/packet(4502): TIMESTAMP=5208 20 88
+05-11 10:07:57.279: D/packet(4502): TIMESTAMP=5258 20 -118
+05-11 10:07:57.279: D/packet(4502): TIMESTAMP=5262 20 -114
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5285 20 -91
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5296 20 -80
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5313 20 -63
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5317 20 -59
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5369 20 -7
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5373 20 -3
+05-11 10:07:57.289: D/packet(4502): TIMESTAMP=5423 21 47
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5428 21 52
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5479 21 103
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5483 21 107
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5502 21 126
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5534 21 -98
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5538 21 -94
+05-11 10:07:57.299: D/packet(4502): TIMESTAMP=5589 21 -43
+05-11 10:07:57.309: D/packet(4502): TIMESTAMP=5592 21 -40
+05-11 10:07:57.309: D/packet(4502): TIMESTAMP=5604 21 -28
+05-11 10:07:57.309: D/packet(4502): TIMESTAMP=5643 22 11
+05-11 10:07:57.309: D/packet(4502): TIMESTAMP=5698 22 66
+05-11 10:07:57.309: D/packet(4502): TIMESTAMP=5726 22 94
+05-11 10:07:57.329: D/packet(4502): TIMESTAMP=5754 22 122
+05-11 10:07:57.329: D/packet(4502): TIMESTAMP=5759 22 127
+05-11 10:07:57.329: D/packet(4502): TIMESTAMP=5779 22 -109
+05-11 10:07:57.329: D/packet(4502): TIMESTAMP=5809 22 -79
+05-11 10:07:57.329: D/packet(4502): TIMESTAMP=5814 22 -74
+05-11 10:07:57.329: D/packet(4502): TIMESTAMP=5822 22 -66
+05-11 10:07:57.409: D/packet(4502): TIMESTAMP=5864 22 -24
+05-11 10:07:57.409: D/packet(4502): TIMESTAMP=5869 22 -19
+05-11 10:07:57.409: D/packet(4502): TIMESTAMP=5924 23 36
+05-11 10:07:57.409: D/packet(4502): TIMESTAMP=5974 23 86
+05-11 10:07:57.409: D/packet(4502): TIMESTAMP=6029 23 -115
+05-11 10:07:57.419: D/DataStreamReader(4502): newDataObtained
+05-11 10:07:57.419: D/F1LTActivity(4502): onNewDataObtained
+05-11 10:07:57.809: D/onNewDataObtained(4502): refreshView
+05-11 10:07:57.809: D/F1LTActivity(4502): updateCommentaryLine
+05-11 10:07:57.829: D/DataStreamReader(4502): onDataBlockObtained
+05-11 10:07:57.829: D/DataStreamReader(4502): parseBlock: 2
+05-11 10:07:57.829: D/ARREL ARXIU:(4502): /mnt/sdcard/PROVA/F1/BAR/P3/Dades2.txt
+05-11 10:07:57.829: D/SessionTimer(4502): getTime
+05-11 10:07:57.839: D/GUARDAT NUM DADES AL ARXIU:(4502): 10
+05-11 10:07:57.839: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:57.839: D/DataStreamReader(4502): resetDecryption
+05-11 10:07:57.839: D/DataStreamReader(4502): newDataObtained
+05-11 10:07:57.839: D/F1LTActivity(4502): onNewDataObtained
+05-11 10:07:57.859: D/SocketDataReader(4502): PingOK
+05-11 10:07:57.909: D/onNewDataObtained(4502): refreshView
+05-11 10:07:57.909: D/F1LTActivity(4502): updateCommentaryLine
+05-11 10:07:58.759: D/SocketDataReader(4502): PingOK
+05-11 10:07:59.659: D/SocketDataReader(4502): PingOK
+05-11 10:07:59.989: D/F1LTActivity(4502): onSaveInstanceState
+05-11 10:08:00.559: D/SocketDataReader(4502): PingOK
+05-11 10:08:01.459: D/SocketDataReader(4502): PingOK
+05-11 10:08:02.359: D/SocketDataReader(4502): PingOK
+05-11 10:08:03.259: D/SocketDataReader(4502): PingOK
+05-11 10:08:04.159: D/SocketDataReader(4502): PingOK
+05-11 10:08:04.559: W/KeyCharacterMap(4502): No keyboard for id 0
+05-11 10:08:04.579: W/KeyCharacterMap(4502): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+05-11 10:08:04.739: D/F1LTActivity(4502): onBackPressed
+05-11 10:08:05.059: D/SocketDataReader(4502): PingOK
+05-11 10:08:05.919: D/F1LTActivity(4502): onSaveInstanceState
+05-11 10:08:05.969: D/SocketDataReader(4502): PingOK
+05-11 10:08:06.119: D/DataStreamReader(4502): disconnect
+05-11 10:08:06.119: D/SocketDataReader(4502): closeStream
+05-11 10:08:06.119: D/SocketDataReader(4502): reconnect
+05-11 10:08:06.119: D/SessionTimer(4502): stopTimer
+05-11 10:08:06.139: D/onKeyFrameObtained(4502): SURT WHILE CONNECTED
+05-11 10:08:06.449: W/IInputConnectionWrapper(4502): showStatusIcon on inactive InputConnection
+05-11 10:08:06.569: D/F1LTActivity(4502): onDestroy
+05-11 10:08:24.899: I/ApplicationPackageManager(4746): cscCountry is not German : YOG
+05-11 10:08:24.899: D/F1LTActivity(4746): onCreate
+05-11 10:08:25.059: D/DataStreamReader(4746): getInstance
+05-11 10:08:25.059: D/DataStreamReader(4746): setDataStreamReceiver
+05-11 10:08:25.159: W/ApplicationContext(4746): getSharedPreferences
+05-11 10:08:25.159: W/ApplicationContext(4746): org.xmlpull.v1.XmlPullParserException: Error parsing document. (position:line -1, column -1) caused by: org.apache.harmony.xml.ExpatParser$ParseException: At line 4, column 27: not well-formed (invalid token)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at org.apache.harmony.xml.ExpatPullParser$ByteDocument.flush(ExpatPullParser.java:958)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at org.apache.harmony.xml.ExpatPullParser$Document.pump(ExpatPullParser.java:769)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at org.apache.harmony.xml.ExpatPullParser$Document.dequeue(ExpatPullParser.java:813)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at org.apache.harmony.xml.ExpatPullParser.next(ExpatPullParser.java:302)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at com.android.internal.util.XmlUtils.readValueXml(XmlUtils.java:675)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at com.android.internal.util.XmlUtils.readMapXml(XmlUtils.java:470)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.ContextImpl.getSharedPreferences(ContextImpl.java:385)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.content.ContextWrapper.getSharedPreferences(ContextWrapper.java:146)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at com.f1lt.F1LTActivity.onCreate(F1LTActivity.java:125)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1047)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:1615)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:1667)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.ActivityThread.access$1500(ActivityThread.java:117)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:935)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.os.Looper.loop(Looper.java:130)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at android.app.ActivityThread.main(ActivityThread.java:3687)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at java.lang.reflect.Method.invokeNative(Native Method)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at java.lang.reflect.Method.invoke(Method.java:507)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:867)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:625)
+05-11 10:08:25.159: W/ApplicationContext(4746): 	at dalvik.system.NativeStart.main(Native Method)
+05-11 10:08:25.179: D/DataStreamReader(4746): isConnected
+05-11 10:08:25.179: D/F1LTAct L139(4746): No conectat
+05-11 10:08:25.179: D/F1LTActivity(4746): login
+05-11 10:08:25.209: D/F1LTActivity(4746): updateCommentaryLine
+05-11 10:08:25.209: D/F1LTActivity(4746): onStart
+05-11 10:08:25.419: D/F1LTActivity(4746): onSaveInstanceState
+05-11 10:08:25.439: W/dalvikvm(4746): VFY: unable to resolve virtual method 3966: Lcom/f1lt/LoginActivity;.getActionBar ()Landroid/app/ActionBar;
+05-11 10:08:25.439: I/ApplicationPackageManager(4746): cscCountry is not German : YOG
+05-11 10:08:30.659: D/F1LTActivity(4746): onActivityResult
+05-11 10:08:30.659: D/ResultCode dins F1LT(4746): -1
+05-11 10:08:30.659: D/F1LTActivity(4746): onConnectedClicked
+05-11 10:08:30.659: D/DataStreamReader(4746): encodePasswd
+05-11 10:08:30.719: D/F1LTActivity(4746): onRestart
+05-11 10:08:30.719: D/F1LTActivity(4746): onStart
+05-11 10:08:32.179: D/BOTO RESULTAT(4746): OK TIO
+05-11 10:08:32.179: D/ARREL ARXIU KEY:(4746): /mnt/sdcard/PROVA/F1/BAR/P3/DadesKEY.txt
+05-11 10:08:32.219: D/NUM KEY FRAME PRE VALUE OF:(4746): -166413284
+05-11 10:08:32.219: D/NUM KEY FRAME:(4746): -166413284
+05-11 10:08:32.229: D/delayed(4746): FUNCIO DIFERIT
+05-11 10:08:32.229: D/NUM FITXERS CARPETA:(4746): 3
+05-11 10:08:32.229: D/ARREL ARXIU:(4746): /mnt/sdcard/PROVA/F1/BAR/P3/Dades1.txt
+05-11 10:08:32.229: D/NUM DADES BYTES:(4746): 12105
+05-11 10:08:33.239: D/ARREL ARXIU:(4746): /mnt/sdcard/PROVA/F1/BAR/P3/Dades2.txt
+05-11 10:08:33.239: D/NUM DADES BYTES:(4746): 10
+05-11 10:08:33.239: D/Handle Message(4746): [B@405a0cb0
+05-11 10:08:33.239: D/Handle Message(4746): 12105
+05-11 10:08:33.239: D/DataStreamReader(4746): parseBlock: 1
+05-11 10:08:33.269: D/HTTP ATTEMPT L752(4746): 0
+05-11 10:08:33.269: D/DataStreamReader(4746): onDecryptionKeyObtained
+05-11 10:08:33.269: D/KEY ES(4746): -166413284
+05-11 10:08:33.269: D/DataStreamReader(4746): resetDecryption
+05-11 10:08:33.269: D/DataStreamReader(4746): newDataObtained
+05-11 10:08:33.269: D/F1LTActivity(4746): onNewDataObtained
+05-11 10:08:33.639: D/onNewDataObtained(4746): refreshView
+05-11 10:08:33.639: D/F1LTActivity(4746): updateCommentaryLine
+05-11 10:08:33.639: D/DataStreamReader(4746): resetDecryption
+05-11 10:08:33.639: D/CAR=1(4746):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.639: D/CAR=1(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+05-11 10:08:33.639: D/CAR=1(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 1
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= S. VETTEL
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.808
+05-11 10:08:33.649: D/DriverData(4746): setTime-str
+05-11 10:08:33.649: D/DriverData(4746): setTime-lt
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 10:08:33.649: D/DriverData(4746): setTime-str
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.9
+05-11 10:08:33.649: D/DriverData(4746): setTime-str
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:08:33.649: D/DriverData(4746): setTime-str
+05-11 10:08:33.649: D/CAR=1(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 34
+05-11 10:08:33.649: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.649: D/DriverData(4746): setTime-lt
+05-11 10:08:33.649: D/DriverData(4746): setTime-lt
+05-11 10:08:33.649: D/DriverData(4746): setTime-lt
+05-11 10:08:33.649: D/DriverData(4746): setTime-lt
+05-11 10:08:33.649: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.649: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.649: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.649: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.659: D/DriverData(4746): setTime-lt
+05-11 10:08:33.659: D/DriverData(4746): setTime-lt
+05-11 10:08:33.659: D/DriverData(4746): setTime-lt
+05-11 10:08:33.659: D/DriverData(4746): setTime-lt
+05-11 10:08:33.659: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.659: D/CAR=1(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 2
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= M. WEBBER
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.891
+05-11 10:08:33.659: D/DriverData(4746): setTime-str
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.083
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:08:33.659: D/DriverData(4746): setTime-str
+05-11 10:08:33.659: D/CAR=2(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.0
+05-11 10:08:33.669: D/DriverData(4746): setTime-str
+05-11 10:08:33.669: D/CAR=2(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.5
+05-11 10:08:33.669: D/DriverData(4746): setTime-str
+05-11 10:08:33.669: D/CAR=2(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 36
+05-11 10:08:33.669: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.669: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.669: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.669: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): setTime-lt
+05-11 10:08:33.669: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.669: D/CAR=2(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.669: D/CAR=3(4746):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.669: D/CAR=3(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 3
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= F. ALONSO
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:22.825
+05-11 10:08:33.679: D/DriverData(4746): setTime-str
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.017
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.8
+05-11 10:08:33.679: D/DriverData(4746): setTime-str
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.2
+05-11 10:08:33.679: D/DriverData(4746): setTime-str
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.6
+05-11 10:08:33.679: D/DriverData(4746): setTime-str
+05-11 10:08:33.679: D/CAR=3(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:08:33.679: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.679: D/DriverData(4746): setTime-lt
+05-11 10:08:33.679: D/DriverData(4746): setTime-lt
+05-11 10:08:33.679: D/DriverData(4746): setTime-lt
+05-11 10:08:33.679: D/DriverData(4746): setTime-lt
+05-11 10:08:33.679: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.679: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.679: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.679: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.689: D/DriverData(4746): setTime-lt
+05-11 10:08:33.689: D/DriverData(4746): setTime-lt
+05-11 10:08:33.689: D/DriverData(4746): setTime-lt
+05-11 10:08:33.689: D/DriverData(4746): setTime-lt
+05-11 10:08:33.689: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.689: D/CAR=3(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 4
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= F. MASSA
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.110
+05-11 10:08:33.689: D/DriverData(4746): setTime-str
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.302
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 10:08:33.689: D/DriverData(4746): setTime-str
+05-11 10:08:33.689: D/CAR=4(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.1
+05-11 10:08:33.689: D/DriverData(4746): setTime-str
+05-11 10:08:33.699: D/CAR=4(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.9
+05-11 10:08:33.699: D/DriverData(4746): setTime-str
+05-11 10:08:33.699: D/CAR=4(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 37
+05-11 10:08:33.699: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.699: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.699: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.699: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): setTime-lt
+05-11 10:08:33.699: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.699: D/CAR=4(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.699: D/CAR=5(4746):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.699: D/CAR=5(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 12
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 5
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. BUTTON
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.306
+05-11 10:08:33.709: D/DriverData(4746): setTime-str
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.498
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 10:08:33.709: D/DriverData(4746): setTime-str
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.6
+05-11 10:08:33.709: D/DriverData(4746): setTime-str
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:08:33.709: D/DriverData(4746): setTime-str
+05-11 10:08:33.709: D/CAR=5(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:08:33.709: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.709: D/DriverData(4746): setTime-lt
+05-11 10:08:33.709: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.719: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.719: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.719: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.719: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): setTime-lt
+05-11 10:08:33.719: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.719: D/CAR=5(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 13
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 6
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= S. PEREZ
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.854
+05-11 10:08:33.719: D/DriverData(4746): setTime-str
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.046
+05-11 10:08:33.719: D/CAR=6(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:08:33.719: D/DriverData(4746): setTime-str
+05-11 10:08:33.729: D/CAR=6(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 10:08:33.729: D/DriverData(4746): setTime-str
+05-11 10:08:33.729: D/CAR=6(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.6
+05-11 10:08:33.729: D/DriverData(4746): setTime-str
+05-11 10:08:33.729: D/CAR=6(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 31
+05-11 10:08:33.729: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.729: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.729: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.729: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): setTime-lt
+05-11 10:08:33.729: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.739: D/CAR=6(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 7
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= K. RAIKKONEN
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.030
+05-11 10:08:33.739: D/DriverData(4746): setTime-str
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.222
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 10:08:33.739: D/DriverData(4746): setTime-str
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.1
+05-11 10:08:33.739: D/DriverData(4746): setTime-str
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:08:33.739: D/DriverData(4746): setTime-str
+05-11 10:08:33.739: D/CAR=7(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 32
+05-11 10:08:33.739: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.739: D/DriverData(4746): setTime-lt
+05-11 10:08:33.739: D/DriverData(4746): setTime-lt
+05-11 10:08:33.739: D/DriverData(4746): setTime-lt
+05-11 10:08:33.739: D/DriverData(4746): setTime-lt
+05-11 10:08:33.739: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.749: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.749: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.749: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.749: D/DriverData(4746): setTime-lt
+05-11 10:08:33.749: D/DriverData(4746): setTime-lt
+05-11 10:08:33.749: D/DriverData(4746): setTime-lt
+05-11 10:08:33.749: D/DriverData(4746): setTime-lt
+05-11 10:08:33.749: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.749: D/CAR=7(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.749: D/CAR=8(4746):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.749: D/CAR=8(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 18
+05-11 10:08:33.749: D/CAR=8(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 8
+05-11 10:08:33.749: D/CAR=8(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= R. GROSJEAN
+05-11 10:08:33.749: D/CAR=8(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.851
+05-11 10:08:33.749: D/DriverData(4746): setTime-str
+05-11 10:08:33.749: D/CAR=8(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 3.043
+05-11 10:08:33.759: D/CAR=8(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.9
+05-11 10:08:33.759: D/DriverData(4746): setTime-str
+05-11 10:08:33.759: D/CAR=8(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.2
+05-11 10:08:33.759: D/DriverData(4746): setTime-str
+05-11 10:08:33.759: D/CAR=8(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.9
+05-11 10:08:33.759: D/DriverData(4746): setTime-str
+05-11 10:08:33.759: D/CAR=8(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 36
+05-11 10:08:33.759: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.759: D/DriverData(4746): setTime-lt
+05-11 10:08:33.759: D/DriverData(4746): setTime-lt
+05-11 10:08:33.759: D/DriverData(4746): setTime-lt
+05-11 10:08:33.759: D/DriverData(4746): setTime-lt
+05-11 10:08:33.759: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.759: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.759: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.769: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.769: D/DriverData(4746): setTime-lt
+05-11 10:08:33.769: D/DriverData(4746): setTime-lt
+05-11 10:08:33.769: D/DriverData(4746): setTime-lt
+05-11 10:08:33.769: D/DriverData(4746): setTime-lt
+05-11 10:08:33.769: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.769: D/CAR=8(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 9
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= N. ROSBERG
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.398
+05-11 10:08:33.769: D/DriverData(4746): setTime-str
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.590
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.1
+05-11 10:08:33.769: D/DriverData(4746): setTime-str
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.3
+05-11 10:08:33.769: D/DriverData(4746): setTime-str
+05-11 10:08:33.769: D/CAR=9(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:08:33.769: D/DriverData(4746): setTime-str
+05-11 10:08:33.779: D/CAR=9(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 45
+05-11 10:08:33.779: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.779: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.779: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.779: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): setTime-lt
+05-11 10:08:33.779: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.779: D/CAR=9(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.779: D/CAR=10(4746):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.779: D/CAR=10(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+05-11 10:08:33.779: D/CAR=10(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 10
+05-11 10:08:33.779: D/CAR=10(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= L. HAMILTON
+05-11 10:08:33.789: D/CAR=10(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.140
+05-11 10:08:33.789: D/DriverData(4746): setTime-str
+05-11 10:08:33.789: D/CAR=10(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 0.332
+05-11 10:08:33.789: D/CAR=10(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+05-11 10:08:33.789: D/DriverData(4746): setTime-str
+05-11 10:08:33.789: D/CAR=10(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.1
+05-11 10:08:33.789: D/DriverData(4746): setTime-str
+05-11 10:08:33.789: D/CAR=10(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.7
+05-11 10:08:33.789: D/DriverData(4746): setTime-str
+05-11 10:08:33.789: D/CAR=10(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:08:33.789: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.789: D/DriverData(4746): setTime-lt
+05-11 10:08:33.789: D/DriverData(4746): setTime-lt
+05-11 10:08:33.789: D/DriverData(4746): setTime-lt
+05-11 10:08:33.799: D/DriverData(4746): setTime-lt
+05-11 10:08:33.799: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.799: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.799: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.799: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.799: D/DriverData(4746): setTime-lt
+05-11 10:08:33.799: D/DriverData(4746): setTime-lt
+05-11 10:08:33.799: D/DriverData(4746): setTime-lt
+05-11 10:08:33.799: D/DriverData(4746): setTime-lt
+05-11 10:08:33.799: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.799: D/CAR=10(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.799: D/CAR=11(4746):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.799: D/CAR=11(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 15
+05-11 10:08:33.799: D/CAR=11(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 11
+05-11 10:08:33.799: D/CAR=11(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 13 LONG DATA= N. HULKENBERG
+05-11 10:08:33.799: D/CAR=11(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.167
+05-11 10:08:33.799: D/DriverData(4746): setTime-str
+05-11 10:08:33.809: D/CAR=11(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.359
+05-11 10:08:33.809: D/CAR=11(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+05-11 10:08:33.809: D/DriverData(4746): setTime-str
+05-11 10:08:33.809: D/CAR=11(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.0
+05-11 10:08:33.809: D/DriverData(4746): setTime-str
+05-11 10:08:33.809: D/CAR=11(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.2
+05-11 10:08:33.809: D/DriverData(4746): setTime-str
+05-11 10:08:33.809: D/CAR=11(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 38
+05-11 10:08:33.809: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.809: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.809: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.809: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): setTime-lt
+05-11 10:08:33.809: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.819: D/CAR=11(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 17
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 12
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= E. GUTIERREZ
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.441
+05-11 10:08:33.819: D/DriverData(4746): setTime-str
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.633
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+05-11 10:08:33.819: D/DriverData(4746): setTime-str
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.8
+05-11 10:08:33.819: D/DriverData(4746): setTime-str
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.5
+05-11 10:08:33.819: D/DriverData(4746): setTime-str
+05-11 10:08:33.819: D/CAR=12(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 37
+05-11 10:08:33.829: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.829: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.829: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.829: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): setTime-lt
+05-11 10:08:33.829: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.829: D/CAR=12(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.829: D/CAR=13(4746):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.829: D/CAR=13(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 10
+05-11 10:08:33.829: D/CAR=13(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 14
+05-11 10:08:33.829: D/CAR=13(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= P. DI RESTA
+05-11 10:08:33.829: D/CAR=13(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.104
+05-11 10:08:33.829: D/DriverData(4746): setTime-str
+05-11 10:08:33.829: D/CAR=13(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.296
+05-11 10:08:33.839: D/CAR=13(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.3
+05-11 10:08:33.839: D/DriverData(4746): setTime-str
+05-11 10:08:33.839: D/CAR=13(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.4
+05-11 10:08:33.839: D/DriverData(4746): setTime-str
+05-11 10:08:33.839: D/CAR=13(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:08:33.839: D/DriverData(4746): setTime-str
+05-11 10:08:33.839: D/CAR=13(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 25
+05-11 10:08:33.839: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.839: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.839: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.839: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): setTime-lt
+05-11 10:08:33.839: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.839: D/CAR=13(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.839: D/CAR=14(4746):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.839: D/CAR=14(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+05-11 10:08:33.839: D/CAR=14(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 15
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= A. SUTIL
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.840
+05-11 10:08:33.849: D/DriverData(4746): setTime-str
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.032
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:08:33.849: D/DriverData(4746): setTime-str
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.2
+05-11 10:08:33.849: D/DriverData(4746): setTime-str
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:08:33.849: D/DriverData(4746): setTime-str
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 37
+05-11 10:08:33.849: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.849: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.849: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.849: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): setTime-lt
+05-11 10:08:33.849: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.849: D/CAR=14(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 16
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 16
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= P. MALDONADO
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.321
+05-11 10:08:33.859: D/DriverData(4746): setTime-str
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.513
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.5
+05-11 10:08:33.859: D/DriverData(4746): setTime-str
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.0
+05-11 10:08:33.859: D/DriverData(4746): setTime-str
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.4
+05-11 10:08:33.859: D/DriverData(4746): setTime-str
+05-11 10:08:33.859: D/CAR=15(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 32
+05-11 10:08:33.859: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.859: D/DriverData(4746): setTime-lt
+05-11 10:08:33.859: D/DriverData(4746): setTime-lt
+05-11 10:08:33.859: D/DriverData(4746): setTime-lt
+05-11 10:08:33.859: D/DriverData(4746): setTime-lt
+05-11 10:08:33.859: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.859: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.869: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.869: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.869: D/DriverData(4746): setTime-lt
+05-11 10:08:33.869: D/DriverData(4746): setTime-lt
+05-11 10:08:33.869: D/DriverData(4746): setTime-lt
+05-11 10:08:33.869: D/DriverData(4746): setTime-lt
+05-11 10:08:33.869: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.869: D/CAR=15(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.869: D/CAR=16(4746):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.869: D/CAR=16(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 14
+05-11 10:08:33.869: D/CAR=16(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 17
+05-11 10:08:33.869: D/CAR=16(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= V. BOTTAS
+05-11 10:08:33.879: D/CAR=16(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.888
+05-11 10:08:33.879: D/DriverData(4746): setTime-str
+05-11 10:08:33.879: D/CAR=16(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 2.080
+05-11 10:08:33.879: D/CAR=16(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.7
+05-11 10:08:33.879: D/DriverData(4746): setTime-str
+05-11 10:08:33.879: D/CAR=16(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.8
+05-11 10:08:33.879: D/DriverData(4746): setTime-str
+05-11 10:08:33.879: D/CAR=16(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.3
+05-11 10:08:33.879: D/DriverData(4746): setTime-str
+05-11 10:08:33.879: D/CAR=16(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 38
+05-11 10:08:33.879: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.879: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.879: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.879: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): setTime-lt
+05-11 10:08:33.879: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.889: D/CAR=16(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.889: D/CAR=17(4746):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.889: D/CAR=17(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 9
+05-11 10:08:33.889: D/CAR=17(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 18
+05-11 10:08:33.889: D/CAR=17(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. VERGNE
+05-11 10:08:33.889: D/CAR=17(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.058
+05-11 10:08:33.889: D/DriverData(4746): setTime-str
+05-11 10:08:33.899: D/CAR=17(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.250
+05-11 10:08:33.899: D/CAR=17(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.2
+05-11 10:08:33.899: D/DriverData(4746): setTime-str
+05-11 10:08:33.899: D/CAR=17(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.7
+05-11 10:08:33.899: D/DriverData(4746): setTime-str
+05-11 10:08:33.909: D/CAR=17(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 28.9
+05-11 10:08:33.909: D/DriverData(4746): setTime-str
+05-11 10:08:33.909: D/CAR=17(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 31
+05-11 10:08:33.909: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.909: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.909: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.909: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): setTime-lt
+05-11 10:08:33.909: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.909: D/CAR=17(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 11
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 19
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= D. RICCIARDO
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.175
+05-11 10:08:33.919: D/DriverData(4746): setTime-str
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 1.367
+05-11 10:08:33.919: D/CAR=18(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.4
+05-11 10:08:33.919: D/DriverData(4746): setTime-str
+05-11 10:08:33.929: D/CAR=18(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 31.4
+05-11 10:08:33.929: D/DriverData(4746): setTime-str
+05-11 10:08:33.939: D/CAR=18(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.2
+05-11 10:08:33.939: D/DriverData(4746): setTime-str
+05-11 10:08:33.939: D/CAR=18(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 32
+05-11 10:08:33.939: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.939: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.939: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.939: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): setTime-lt
+05-11 10:08:33.939: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.939: D/CAR=18(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.939: D/CAR=19(4746):  CAR TYPE=0 CAR DATA= 21 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.949: D/CAR=19(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 21
+05-11 10:08:33.949: D/CAR=19(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 20
+05-11 10:08:33.949: D/CAR=19(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 6 LONG DATA= C. PIC
+05-11 10:08:33.949: D/CAR=19(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.930
+05-11 10:08:33.949: D/DriverData(4746): setTime-str
+05-11 10:08:33.949: D/CAR=19(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 4.122
+05-11 10:08:33.959: D/CAR=19(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.7
+05-11 10:08:33.959: D/DriverData(4746): setTime-str
+05-11 10:08:33.959: D/CAR=19(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.8
+05-11 10:08:33.959: D/DriverData(4746): setTime-str
+05-11 10:08:33.959: D/CAR=19(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.1
+05-11 10:08:33.959: D/DriverData(4746): setTime-str
+05-11 10:08:33.959: D/CAR=19(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 35
+05-11 10:08:33.959: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.959: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.959: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.959: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): setTime-lt
+05-11 10:08:33.959: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.959: D/CAR=19(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.959: D/CAR=20(4746):  CAR TYPE=0 CAR DATA= 19 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.959: D/CAR=20(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 19
+05-11 10:08:33.959: D/CAR=20(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 21
+05-11 10:08:33.959: D/CAR=20(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 14 LONG DATA= G. VAN DER GAR
+05-11 10:08:33.969: D/CAR=20(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.963
+05-11 10:08:33.969: D/DriverData(4746): setTime-str
+05-11 10:08:33.969: D/CAR=20(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 3.155
+05-11 10:08:33.969: D/CAR=20(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+05-11 10:08:33.969: D/DriverData(4746): setTime-str
+05-11 10:08:33.969: D/CAR=20(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.4
+05-11 10:08:33.969: D/DriverData(4746): setTime-str
+05-11 10:08:33.969: D/CAR=20(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.7
+05-11 10:08:33.969: D/DriverData(4746): setTime-str
+05-11 10:08:33.969: D/CAR=20(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 30
+05-11 10:08:33.969: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.969: D/DriverData(4746): setTime-lt
+05-11 10:08:33.969: D/DriverData(4746): setTime-lt
+05-11 10:08:33.969: D/DriverData(4746): setTime-lt
+05-11 10:08:33.969: D/DriverData(4746): setTime-lt
+05-11 10:08:33.969: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.969: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.969: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.969: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.969: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.979: D/CAR=20(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=0 CAR DATA= 20 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 20
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 22
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= J. BIANCHI
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.078
+05-11 10:08:33.979: D/DriverData(4746): setTime-str
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 3.270
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.7
+05-11 10:08:33.979: D/DriverData(4746): setTime-str
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.4
+05-11 10:08:33.979: D/DriverData(4746): setTime-str
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 29.9
+05-11 10:08:33.979: D/DriverData(4746): setTime-str
+05-11 10:08:33.979: D/CAR=21(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 31
+05-11 10:08:33.979: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): setTime-lt
+05-11 10:08:33.979: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.989: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.989: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.989: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.989: D/DriverData(4746): setTime-lt
+05-11 10:08:33.989: D/DriverData(4746): setTime-lt
+05-11 10:08:33.989: D/DriverData(4746): setTime-lt
+05-11 10:08:33.989: D/DriverData(4746): setTime-lt
+05-11 10:08:33.989: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.989: D/CAR=21(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.989: D/CAR=22(4746):  CAR TYPE=0 CAR DATA= 22 CAR LEN= 0 LONG DATA= 
+05-11 10:08:33.989: D/CAR=22(4746):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 22
+05-11 10:08:33.989: D/CAR=22(4746):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 23
+05-11 10:08:33.989: D/CAR=22(4746):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= M. CHILTON
+05-11 10:08:33.989: D/CAR=22(4746):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.970
+05-11 10:08:33.989: D/DriverData(4746): setTime-str
+05-11 10:08:33.989: D/CAR=22(4746):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 5 LONG DATA= 4.162
+05-11 10:08:33.999: D/CAR=22(4746):  CAR TYPE=6 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.8
+05-11 10:08:33.999: D/DriverData(4746): setTime-str
+05-11 10:08:33.999: D/CAR=22(4746):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 32.7
+05-11 10:08:33.999: D/DriverData(4746): setTime-str
+05-11 10:08:33.999: D/CAR=22(4746):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 30.1
+05-11 10:08:33.999: D/DriverData(4746): setTime-str
+05-11 10:08:33.999: D/CAR=22(4746):  CAR TYPE=9 CAR DATA= 1 CAR LEN= 2 LONG DATA= 26
+05-11 10:08:33.999: D/DriverData(4746): DriverData-addLap
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.999: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.999: D/DriverData(4746): LapTime-lessEqual
+05-11 10:08:33.999: D/DriverData(4746): LapTime-lessThan
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): setTime-lt
+05-11 10:08:33.999: D/DriverData(4746): LapTime-diff
+05-11 10:08:33.999: D/CAR=22(4746):  CAR TYPE=10 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+05-11 10:08:34.019: D/packet(4746): TIMESTAMP=30 0 30
+05-11 10:08:34.019: D/packet(4746): TIMESTAMP=35 0 35
+05-11 10:08:34.019: D/packet(4746): TIMESTAMP=40 0 40
+05-11 10:08:34.019: D/packet(4746): TIMESTAMP=85 0 85
+05-11 10:08:34.029: D/packet(4746): TIMESTAMP=90 0 90
+05-11 10:08:34.029: D/packet(4746): TIMESTAMP=100 0 100
+05-11 10:08:34.029: D/packet(4746): TIMESTAMP=136 0 -120
+05-11 10:08:34.039: D/packet(4746): TIMESTAMP=140 0 -116
+05-11 10:08:34.039: D/packet(4746): TIMESTAMP=145 0 -111
+05-11 10:08:34.039: D/packet(4746): TIMESTAMP=153 0 -103
+05-11 10:08:34.039: D/packet(4746): TIMESTAMP=176 0 -80
+05-11 10:08:34.049: D/packet(4746): TIMESTAMP=187 0 -69
+05-11 10:08:34.049: D/packet(4746): TIMESTAMP=195 0 -61
+05-11 10:08:34.049: D/packet(4746): TIMESTAMP=200 0 -56
+05-11 10:08:34.059: D/packet(4746): TIMESTAMP=212 0 -44
+05-11 10:08:34.069: D/packet(4746): TIMESTAMP=250 0 -6
+05-11 10:08:34.069: D/packet(4746): TIMESTAMP=255 0 -1
+05-11 10:08:34.079: D/packet(4746): TIMESTAMP=330 1 74
+05-11 10:08:34.079: D/packet(4746): TIMESTAMP=360 1 104
+05-11 10:08:34.079: D/packet(4746): TIMESTAMP=365 1 109
+05-11 10:08:34.089: D/packet(4746): TIMESTAMP=368 1 112
+05-11 10:08:34.089: D/packet(4746): TIMESTAMP=407 1 -105
+05-11 10:08:34.089: D/packet(4746): TIMESTAMP=416 1 -96
+05-11 10:08:34.089: D/packet(4746): TIMESTAMP=420 1 -92
+05-11 10:08:34.099: D/packet(4746): TIMESTAMP=470 1 -42
+05-11 10:08:34.099: D/packet(4746): TIMESTAMP=475 1 -37
+05-11 10:08:34.109: D/packet(4746): TIMESTAMP=483 1 -29
+05-11 10:08:34.109: D/packet(4746): TIMESTAMP=523 2 11
+05-11 10:08:34.109: D/packet(4746): TIMESTAMP=525 2 13
+05-11 10:08:34.109: D/packet(4746): TIMESTAMP=526 2 14
+05-11 10:08:34.109: D/packet(4746): TIMESTAMP=555 2 43
+05-11 10:08:34.159: D/packet(4746): TIMESTAMP=580 2 68
+05-11 10:08:34.159: D/packet(4746): TIMESTAMP=595 2 83
+05-11 10:08:34.169: D/packet(4746): TIMESTAMP=635 2 123
+05-11 10:08:34.169: D/packet(4746): TIMESTAMP=645 2 -123
+05-11 10:08:34.169: D/packet(4746): TIMESTAMP=682 2 -86
+05-11 10:08:34.169: D/packet(4746): TIMESTAMP=690 2 -78
+05-11 10:08:34.179: D/packet(4746): TIMESTAMP=695 2 -73
+05-11 10:08:34.179: D/packet(4746): TIMESTAMP=745 2 -23
+05-11 10:08:34.179: D/packet(4746): TIMESTAMP=793 3 25
+05-11 10:08:34.179: D/packet(4746): TIMESTAMP=800 3 32
+05-11 10:08:34.189: D/packet(4746): TIMESTAMP=856 3 88
+05-11 10:08:34.189: D/packet(4746): TIMESTAMP=860 3 92
+05-11 10:08:34.189: D/packet(4746): TIMESTAMP=903 3 -121
+05-11 10:08:34.189: D/packet(4746): TIMESTAMP=911 3 -113
+05-11 10:08:34.199: D/packet(4746): TIMESTAMP=966 3 -58
+05-11 10:08:34.199: D/packet(4746): TIMESTAMP=1005 3 -19
+05-11 10:08:34.199: D/packet(4746): TIMESTAMP=1046 4 22
+05-11 10:08:34.199: D/packet(4746): TIMESTAMP=1056 4 32
+05-11 10:08:34.199: D/packet(4746): TIMESTAMP=1071 4 47
+05-11 10:08:34.209: D/packet(4746): TIMESTAMP=1075 4 51
+05-11 10:08:34.209: D/packet(4746): TIMESTAMP=1076 4 52
+05-11 10:08:34.209: D/packet(4746): TIMESTAMP=1091 4 67
+05-11 10:08:34.249: D/packet(4746): TIMESTAMP=1131 4 107
+05-11 10:08:34.259: D/packet(4746): TIMESTAMP=1157 4 -123
+05-11 10:08:34.259: D/packet(4746): TIMESTAMP=1185 4 -95
+05-11 10:08:34.259: D/packet(4746): TIMESTAMP=1187 4 -93
+05-11 10:08:34.259: D/packet(4746): TIMESTAMP=1241 4 -39
+05-11 10:08:34.259: D/packet(4746): TIMESTAMP=1242 4 -38
+05-11 10:08:34.259: D/packet(4746): TIMESTAMP=1296 5 16
+05-11 10:08:34.269: D/packet(4746): TIMESTAMP=1303 5 23
+05-11 10:08:34.269: D/packet(4746): TIMESTAMP=1335 5 55
+05-11 10:08:34.269: D/packet(4746): TIMESTAMP=1351 5 71
+05-11 10:08:34.269: D/packet(4746): TIMESTAMP=1352 5 72
+05-11 10:08:34.269: D/packet(4746): TIMESTAMP=1405 5 125
+05-11 10:08:34.279: D/packet(4746): TIMESTAMP=1406 5 126
+05-11 10:08:34.279: D/packet(4746): TIMESTAMP=1460 5 -76
+05-11 10:08:34.279: D/packet(4746): TIMESTAMP=1462 5 -74
+05-11 10:08:34.279: D/packet(4746): TIMESTAMP=1471 5 -65
+05-11 10:08:34.279: D/packet(4746): TIMESTAMP=1484 5 -52
+05-11 10:08:34.289: D/packet(4746): TIMESTAMP=1516 5 -20
+05-11 10:08:34.289: D/packet(4746): TIMESTAMP=1557 6 21
+05-11 10:08:34.289: D/packet(4746): TIMESTAMP=1570 6 34
+05-11 10:08:34.289: D/packet(4746): TIMESTAMP=1572 6 36
+05-11 10:08:34.289: D/packet(4746): TIMESTAMP=1625 6 89
+05-11 10:08:34.299: D/packet(4746): TIMESTAMP=1627 6 91
+05-11 10:08:34.299: D/packet(4746): TIMESTAMP=1641 6 105
+05-11 10:08:34.299: D/packet(4746): TIMESTAMP=1654 6 118
+05-11 10:08:34.339: D/packet(4746): TIMESTAMP=1682 6 -110
+05-11 10:08:34.339: D/packet(4746): TIMESTAMP=1706 6 -86
+05-11 10:08:34.349: D/packet(4746): TIMESTAMP=1735 6 -57
+05-11 10:08:34.349: D/packet(4746): TIMESTAMP=1737 6 -55
+05-11 10:08:34.349: D/packet(4746): TIMESTAMP=1770 6 -22
+05-11 10:08:34.349: D/packet(4746): TIMESTAMP=1791 6 -1
+05-11 10:08:34.349: D/packet(4746): TIMESTAMP=1793 7 1
+05-11 10:08:34.349: D/packet(4746): TIMESTAMP=1828 7 36
+05-11 10:08:34.359: D/packet(4746): TIMESTAMP=1846 7 54
+05-11 10:08:34.359: D/packet(4746): TIMESTAMP=1847 7 55
+05-11 10:08:34.359: D/packet(4746): TIMESTAMP=1864 7 72
+05-11 10:08:34.359: D/packet(4746): TIMESTAMP=1901 7 109
+05-11 10:08:34.359: D/packet(4746): TIMESTAMP=1902 7 110
+05-11 10:08:34.359: D/packet(4746): TIMESTAMP=1948 7 -100
+05-11 10:08:34.369: D/packet(4746): TIMESTAMP=1955 7 -93
+05-11 10:08:34.369: D/packet(4746): TIMESTAMP=1958 7 -90
+05-11 10:08:34.369: D/packet(4746): TIMESTAMP=1972 7 -76
+05-11 10:08:34.369: D/packet(4746): TIMESTAMP=2004 7 -44
+05-11 10:08:34.369: D/packet(4746): TIMESTAMP=2010 7 -38
+05-11 10:08:34.369: D/packet(4746): TIMESTAMP=2013 7 -35
+05-11 10:08:34.379: D/packet(4746): TIMESTAMP=2036 7 -12
+05-11 10:08:34.419: D/packet(4746): TIMESTAMP=2065 8 17
+05-11 10:08:34.419: D/packet(4746): TIMESTAMP=2067 8 19
+05-11 10:08:34.419: D/packet(4746): TIMESTAMP=2121 8 73
+05-11 10:08:34.419: D/packet(4746): TIMESTAMP=2122 8 74
+05-11 10:08:34.429: D/packet(4746): TIMESTAMP=2142 8 94
+05-11 10:08:34.429: D/packet(4746): TIMESTAMP=2175 8 127
+05-11 10:08:34.429: D/packet(4746): TIMESTAMP=2178 8 -126
+05-11 10:08:34.429: D/packet(4746): TIMESTAMP=2231 8 -73
+05-11 10:08:34.429: D/packet(4746): TIMESTAMP=2233 8 -71
+05-11 10:08:34.429: D/packet(4746): TIMESTAMP=2265 8 -39
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2268 8 -36
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2285 8 -19
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2287 8 -17
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2288 8 -16
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2393 9 89
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2396 9 92
+05-11 10:08:34.439: D/packet(4746): TIMESTAMP=2398 9 94
+05-11 10:08:34.449: D/packet(4746): TIMESTAMP=2445 9 -115
+05-11 10:08:34.449: D/packet(4746): TIMESTAMP=2451 9 -109
+05-11 10:08:34.449: D/packet(4746): TIMESTAMP=2454 9 -106
+05-11 10:08:34.449: D/packet(4746): TIMESTAMP=2505 9 -55
+05-11 10:08:34.449: D/packet(4746): TIMESTAMP=2509 9 -51
+05-11 10:08:34.449: D/packet(4746): TIMESTAMP=2555 9 -5
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2560 10 0
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2564 10 4
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2616 10 56
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2618 10 58
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2625 10 65
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2671 10 111
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2673 10 113
+05-11 10:08:34.459: D/packet(4746): TIMESTAMP=2726 10 -90
+05-11 10:08:34.469: D/packet(4746): TIMESTAMP=2728 10 -88
+05-11 10:08:34.469: D/packet(4746): TIMESTAMP=2781 10 -35
+05-11 10:08:34.469: D/packet(4746): TIMESTAMP=2784 10 -32
+05-11 10:08:34.469: D/packet(4746): TIMESTAMP=2836 11 20
+05-11 10:08:34.469: D/packet(4746): TIMESTAMP=2839 11 23
+05-11 10:08:34.479: D/packet(4746): TIMESTAMP=2851 11 35
+05-11 10:08:34.519: D/packet(4746): TIMESTAMP=2891 11 75
+05-11 10:08:34.519: D/packet(4746): TIMESTAMP=2894 11 78
+05-11 10:08:34.519: D/packet(4746): TIMESTAMP=2913 11 97
+05-11 10:08:34.519: D/packet(4746): TIMESTAMP=2946 11 -126
+05-11 10:08:34.529: D/packet(4746): TIMESTAMP=2949 11 -123
+05-11 10:08:34.529: D/packet(4746): TIMESTAMP=2955 11 -117
+05-11 10:08:34.529: D/packet(4746): TIMESTAMP=2977 11 -95
+05-11 10:08:34.529: D/packet(4746): TIMESTAMP=3051 11 -21
+05-11 10:08:34.529: D/packet(4746): TIMESTAMP=3056 11 -16
+05-11 10:08:34.529: D/packet(4746): TIMESTAMP=3059 11 -13
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3088 12 16
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3111 12 39
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3114 12 42
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3166 12 94
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3169 12 97
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3221 12 -107
+05-11 10:08:34.539: D/packet(4746): TIMESTAMP=3224 12 -104
+05-11 10:08:34.549: D/packet(4746): TIMESTAMP=3226 12 -102
+05-11 10:08:34.549: D/packet(4746): TIMESTAMP=3276 12 -52
+05-11 10:08:34.549: D/packet(4746): TIMESTAMP=3280 12 -48
+05-11 10:08:34.549: D/packet(4746): TIMESTAMP=3291 12 -37
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3332 13 4
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3334 13 6
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3386 13 58
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3390 13 62
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3428 13 100
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3441 13 113
+05-11 10:08:34.599: D/packet(4746): TIMESTAMP=3444 13 116
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3496 13 -88
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3500 13 -84
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3506 13 -78
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3552 13 -32
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3554 13 -30
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3555 13 -29
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3607 14 23
+05-11 10:08:34.609: D/packet(4746): TIMESTAMP=3610 14 26
+05-11 10:08:34.619: D/packet(4746): TIMESTAMP=3666 14 82
+05-11 10:08:34.619: D/packet(4746): TIMESTAMP=3716 14 -124
+05-11 10:08:34.619: D/packet(4746): TIMESTAMP=3720 14 -120
+05-11 10:08:34.619: D/packet(4746): TIMESTAMP=3772 14 -68
+05-11 10:08:34.619: D/packet(4746): TIMESTAMP=3775 14 -65
+05-11 10:08:34.629: D/packet(4746): TIMESTAMP=3826 14 -14
+05-11 10:08:34.629: D/packet(4746): TIMESTAMP=3830 14 -10
+05-11 10:08:34.629: D/packet(4746): TIMESTAMP=3882 15 42
+05-11 10:08:34.629: D/packet(4746): TIMESTAMP=3885 15 45
+05-11 10:08:34.629: D/packet(4746): TIMESTAMP=3937 15 97
+05-11 10:08:34.629: D/packet(4746): TIMESTAMP=3940 15 100
+05-11 10:08:34.639: D/packet(4746): TIMESTAMP=3990 15 -106
+05-11 10:08:34.639: D/packet(4746): TIMESTAMP=3992 15 -104
+05-11 10:08:34.639: D/packet(4746): TIMESTAMP=3995 15 -101
+05-11 10:08:34.639: D/packet(4746): TIMESTAMP=4046 15 -50
+05-11 10:08:34.639: D/packet(4746): TIMESTAMP=4050 15 -46
+05-11 10:08:34.639: D/packet(4746): TIMESTAMP=4101 16 5
+05-11 10:08:34.649: D/packet(4746): TIMESTAMP=4106 16 10
+05-11 10:08:34.649: D/packet(4746): TIMESTAMP=4156 16 60
+05-11 10:08:34.649: D/packet(4746): TIMESTAMP=4161 16 65
+05-11 10:08:34.649: D/packet(4746): TIMESTAMP=4200 16 104
+05-11 10:08:34.649: D/packet(4746): TIMESTAMP=4212 16 116
+05-11 10:08:34.659: D/packet(4746): TIMESTAMP=4216 16 120
+05-11 10:08:34.659: D/packet(4746): TIMESTAMP=4267 16 -85
+05-11 10:08:34.659: D/packet(4746): TIMESTAMP=4271 16 -81
+05-11 10:08:34.659: D/packet(4746): TIMESTAMP=4362 17 10
+05-11 10:08:34.699: D/packet(4746): TIMESTAMP=4376 17 24
+05-11 10:08:34.709: D/packet(4746): TIMESTAMP=4381 17 29
+05-11 10:08:34.709: D/packet(4746): TIMESTAMP=4432 17 80
+05-11 10:08:34.709: D/packet(4746): TIMESTAMP=4477 17 125
+05-11 10:08:34.709: D/packet(4746): TIMESTAMP=4487 17 -121
+05-11 10:08:34.709: D/packet(4746): TIMESTAMP=4491 17 -117
+05-11 10:08:34.719: D/packet(4746): TIMESTAMP=4499 17 -109
+05-11 10:08:34.719: D/packet(4746): TIMESTAMP=4541 17 -67
+05-11 10:08:34.719: D/packet(4746): TIMESTAMP=4547 17 -61
+05-11 10:08:34.719: D/packet(4746): TIMESTAMP=4556 17 -52
+05-11 10:08:34.719: D/packet(4746): TIMESTAMP=4577 17 -31
+05-11 10:08:34.729: D/packet(4746): TIMESTAMP=4596 17 -12
+05-11 10:08:34.729: D/packet(4746): TIMESTAMP=4601 17 -7
+05-11 10:08:34.729: D/packet(4746): TIMESTAMP=4614 18 6
+05-11 10:08:34.769: D/packet(4746): TIMESTAMP=4651 18 43
+05-11 10:08:34.779: D/packet(4746): TIMESTAMP=4657 18 49
+05-11 10:08:34.779: D/packet(4746): TIMESTAMP=4706 18 98
+05-11 10:08:34.779: D/packet(4746): TIMESTAMP=4711 18 103
+05-11 10:08:34.779: D/packet(4746): TIMESTAMP=4744 18 -120
+05-11 10:08:34.779: D/packet(4746): TIMESTAMP=4761 18 -103
+05-11 10:08:34.789: D/packet(4746): TIMESTAMP=4762 18 -102
+05-11 10:08:34.789: D/packet(4746): TIMESTAMP=4818 18 -46
+05-11 10:08:34.789: D/packet(4746): TIMESTAMP=4822 18 -42
+05-11 10:08:34.789: D/packet(4746): TIMESTAMP=4832 18 -32
+05-11 10:08:34.839: D/packet(4746): TIMESTAMP=4873 19 9
+05-11 10:08:34.839: D/packet(4746): TIMESTAMP=4877 19 13
+05-11 10:08:34.839: D/packet(4746): TIMESTAMP=4903 19 39
+05-11 10:08:34.839: D/packet(4746): TIMESTAMP=4928 19 64
+05-11 10:08:34.839: D/packet(4746): TIMESTAMP=4932 19 68
+05-11 10:08:34.839: D/packet(4746): TIMESTAMP=4983 19 119
+05-11 10:08:34.849: D/packet(4746): TIMESTAMP=4987 19 123
+05-11 10:08:34.849: D/packet(4746): TIMESTAMP=5009 19 -111
+05-11 10:08:34.849: D/packet(4746): TIMESTAMP=5069 19 -51
+05-11 10:08:34.849: D/packet(4746): TIMESTAMP=5093 19 -27
+05-11 10:08:34.849: D/packet(4746): TIMESTAMP=5097 19 -23
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5114 19 -6
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5148 20 28
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5152 20 32
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5203 20 83
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5208 20 88
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5258 20 -118
+05-11 10:08:34.859: D/packet(4746): TIMESTAMP=5262 20 -114
+05-11 10:08:34.869: D/packet(4746): TIMESTAMP=5285 20 -91
+05-11 10:08:34.909: D/packet(4746): TIMESTAMP=5296 20 -80
+05-11 10:08:34.909: D/packet(4746): TIMESTAMP=5313 20 -63
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5317 20 -59
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5369 20 -7
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5373 20 -3
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5423 21 47
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5428 21 52
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5479 21 103
+05-11 10:08:34.919: D/packet(4746): TIMESTAMP=5483 21 107
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5502 21 126
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5534 21 -98
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5538 21 -94
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5589 21 -43
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5592 21 -40
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5604 21 -28
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5643 22 11
+05-11 10:08:34.939: D/packet(4746): TIMESTAMP=5698 22 66
+05-11 10:08:34.989: D/packet(4746): TIMESTAMP=5726 22 94
+05-11 10:08:34.989: D/packet(4746): TIMESTAMP=5754 22 122
+05-11 10:08:34.989: D/packet(4746): TIMESTAMP=5759 22 127
+05-11 10:08:34.989: D/packet(4746): TIMESTAMP=5779 22 -109
+05-11 10:08:34.989: D/packet(4746): TIMESTAMP=5809 22 -79
+05-11 10:08:34.999: D/packet(4746): TIMESTAMP=5814 22 -74
+05-11 10:08:34.999: D/packet(4746): TIMESTAMP=5822 22 -66
+05-11 10:08:35.039: D/packet(4746): TIMESTAMP=5864 22 -24
+05-11 10:08:35.039: D/packet(4746): TIMESTAMP=5869 22 -19
+05-11 10:08:35.049: D/packet(4746): TIMESTAMP=5924 23 36
+05-11 10:08:35.049: D/packet(4746): TIMESTAMP=5974 23 86
+05-11 10:08:35.049: D/packet(4746): TIMESTAMP=6029 23 -115
+05-11 10:08:35.049: D/DataStreamReader(4746): resetDecryption
+05-11 10:08:35.049: D/F1LTActivity(4746): onNewDataObtained
+05-11 10:08:35.129: D/onNewDataObtained(4746): refreshView
+05-11 10:08:35.129: D/F1LTActivity(4746): updateCommentaryLine
+05-11 10:08:35.569: D/Handle Message(4746): [B@40512ed8
+05-11 10:08:35.569: D/Handle Message(4746): 10
+05-11 10:08:35.569: D/DataStreamReader(4746): parseBlock: 2
+05-11 10:08:35.579: D/DataStreamReader(4746): resetDecryption
+05-11 10:08:35.579: D/DataStreamReader(4746): resetDecryption
+05-11 10:08:35.579: D/F1LTActivity(4746): onNewDataObtained
+05-11 10:08:35.709: D/onNewDataObtained(4746): refreshView
+05-11 10:08:35.709: D/F1LTActivity(4746): updateCommentaryLine
