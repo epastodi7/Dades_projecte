@@ -1,15 +1,3 @@
-05-11 14:46:51.869: I/ApplicationPackageManager(3431): cscCountry is not German : YOG
-05-11 14:46:51.889: D/F1LTActivity(3431): onCreate
-05-11 14:46:52.099: D/DataStreamReader(3431): getInstance
-05-11 14:46:52.099: D/DataStreamReader(3431): setDataStreamReceiver
-05-11 14:46:52.259: W/ApplicationContext(3431): getSharedPreferences
-05-11 14:46:52.259: D/DataStreamReader(3431): isConnected
-05-11 14:46:52.259: D/F1LTAct L139(3431): No conectat
-05-11 14:46:52.259: D/F1LTActivity(3431): login
-05-11 14:46:52.279: D/F1LTActivity(3431): updateCommentaryLine
-05-11 14:46:52.279: D/F1LTActivity(3431): onStart
-05-11 14:46:52.479: D/F1LTActivity(3431): onSaveInstanceState
-05-11 14:46:52.499: I/ApplicationPackageManager(3431): cscCountry is not German : YOG
 05-11 14:46:57.429: D/F1LTActivity(3431): onActivityResult
 05-11 14:46:57.429: D/ResultCode dins F1LT(3431): -1
 05-11 14:46:57.429: D/F1LTActivity(3431): onConnectedClicked

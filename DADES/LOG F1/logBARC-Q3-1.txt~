@@ -9,7 +9,6 @@
 05-11 14:46:52.279: D/F1LTActivity(3431): updateCommentaryLine
 05-11 14:46:52.279: D/F1LTActivity(3431): onStart
 05-11 14:46:52.479: D/F1LTActivity(3431): onSaveInstanceState
-05-11 14:46:52.499: W/dalvikvm(3431): VFY: unable to resolve virtual method 3966: Lcom/f1lt/LoginActivity;.getActionBar ()Landroid/app/ActionBar;
 05-11 14:46:52.499: I/ApplicationPackageManager(3431): cscCountry is not German : YOG
 05-11 14:46:57.429: D/F1LTActivity(3431): onActivityResult
 05-11 14:46:57.429: D/ResultCode dins F1LT(3431): -1

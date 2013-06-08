@@ -1,22 +1,3 @@
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at org.apache.harmony.xml.ExpatPullParser.next(ExpatPullParser.java:302)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at com.android.internal.util.XmlUtils.readValueXml(XmlUtils.java:675)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at com.android.internal.util.XmlUtils.readMapXml(XmlUtils.java:470)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.ContextImpl.getSharedPreferences(ContextImpl.java:385)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.content.ContextWrapper.getSharedPreferences(ContextWrapper.java:146)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at com.f1lt.F1LTActivity.onCreate(F1LTActivity.java:130)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1047)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:1615)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:1667)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.ActivityThread.access$1500(ActivityThread.java:117)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:935)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.os.Handler.dispatchMessage(Handler.java:99)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.os.Looper.loop(Looper.java:130)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at android.app.ActivityThread.main(ActivityThread.java:3687)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at java.lang.reflect.Method.invokeNative(Native Method)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at java.lang.reflect.Method.invoke(Method.java:507)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:867)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:625)
-05-25 14:48:46.799: W/ApplicationContext(10478): 	at dalvik.system.NativeStart.main(Native Method)
 05-25 14:48:46.809: D/DataStreamReader(10478): isConnected
 05-25 14:48:46.809: D/F1LTAct L139(10478): No conectat
 05-25 14:48:46.809: D/F1LTActivity(10478): login
