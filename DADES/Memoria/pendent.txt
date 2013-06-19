@@ -1,0 +1,24 @@
+Et responc a mesura que vaig llegint:
+
+OK- Pàgina 2 del PDF. Veig que hi ha un índex amb diferents colors. Suposo que ho arreglaràs, no ?
+
+OK- Pàgina 3 del PDF, el Resum. Això no és pas realment  un resum. Aquí expliques més aviat què ha suposat personalment per tu la realització del projecte. El resum ha de ser breu, concís, indicant de forma clara i resumida 1/ la motivació, 2/ els objectius, 3/ la metodologia emprada, 4/ hem arribat als objectius. Així per exemple, objectius "L'objectiu d'aquest projecte és el desenvolupament d'una aplicació mòbil per poder seguir les curses de F1 en directe i en diferit. (i t'enrolles una mica més amb el tema de gràfics)". La metodologia "Per assolir els objectius s'ha partit d'una aplicació ja existent que permet seguir la cursa en directe i que serà ampliada i millorada per cobrir les funcionalitats demanades". No sé si veus el que vull dir. El resum és el més important de tot el document. Jo, quan em miri els documents d'altres alumnes, començaré pel resum. Amb el resum espero tenir una idea clara del que l'estudiant ha fet. És per això que insisteixo que cal explicar-ho sense entrar en temes personals. Els temes personals els pots deixar per les conclusions si vols.
+
+OK- El que fas a la pàgina 7 del PDF (introducció i motivació) és correcte. Em sembla bé. Aquí sí que pots parlar de coses personals. Però millor no ho facis a la introducció.
+
+OK- A la pàgina 7 i 8 del PDF parles del "Live Timing". Algú que no segueixi el F1 no sabrà què és. Pots posar-ho a l'índex de paraules ?
+
+- Punt 2, "Definició i objectius". La primera frase és important. Crec que és necessari que la desenvolupis més. Una cosa com: "L'objectiu d'aquest projecte és desenvolupar una aplicació o eina Android capaç de treballar amb les dades que genera el Live Timing, amb les següents característiques: 1/ L'aplicació  ha de poder treballar tant amb les dades en directe (capturades directament del web) com en diferit. 2/  L'aplicació ha de permetre visualitzar la informació de diverses formes (taules, gràfiques, ...) perquè l'usuari pugui analitzar amb detall el decurs d'una cursa". M'explico ? Les següents dues frases de la secció 2 ja se centren en la metodologia, és a dir, com solucionaràs els objectius. Per això crec que la secció 2 s'hauria de dir "Objectius i metodologia".
+
+- Ves amb compte amb els errors d'ortografia i gramàtica! Per exemple, dius "En aquest Capítol explicarem, el més acuradament possible, el funcionament de l'aplicació inicial F1LT v0.8 amb què es va partir per introduir-hi les noves implementacions suplementàries.". És millor "En aquest capítol explicarem, el més acuradament possible, el funcionament de l'aplicació inicial F1LT v0.8 *del qual* es va partir per introduir-hi les funcionalitats addicionals". O dius "En aquesta aplicació que partim no hi ha documentació que expliqui el seu funcionament, ens hem
+hagut de buscar la vida per tal d'aprendre per nosaltres mateixos tot el funcionament intern, per tant aquesta és una part molt important del projecte degut al grau de dificultat d'entendre un codi aliè i a la quantitat de temps que hi hem invertit.". No crec que la frase "buscar la vida" sigui gaire adequada en una memòria. Pots dir-ho en parlar, però escrit ja no és el mateix. Així, la frase l'escriuria com "En l'aplicació de la qual partim no hi ha documentació que expliqui el seu funcionament i per tant hem hagut de dedicar una gran quantitat de temps a entendre el funcionament intern d'aquesta. Aquest capítol es concentra doncs en explicar els detalls de funcionament de l'aplicació F1LT 0.8.".
+
+- Respecte el punt anterior, entenc que no tens temps a revisar-ho tot. Però com a punts importants que el tribunal és llegirà amb detall són: resum, introducció i capítol de conclusions (dificultats, línies futures, ...).
+
+OK-  Respecte el formatat: pots posar els capítols amb lletra més gran, perquè quedi ben diferenciat de les seccions ?
+
+- La imatge del PDF de la pàgina 43 (i la de la 14) té un tipus de lletra difícil de llegir. Pots canviar el tipus de lletra ?
+
+OK- A les conclusions m'agraeixes a mi (en negreta) l'ajut que t'he oferit. T'ho agraeixo molt però no cal que ho posis en negreta (que sinó em posaré vermell, je je).
+
+Per la resta (amb el cop d'ull que li he pogut donar) el document sembla que està força bé.
