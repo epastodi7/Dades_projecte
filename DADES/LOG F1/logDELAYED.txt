@@ -1,0 +1,1388 @@
+06-17 23:00:52.529: I/ApplicationPackageManager(4019): cscCountry is not German : YOG
+06-17 23:00:52.539: D/F1LTActivity(4019): onCreate
+06-17 23:00:52.709: D/DataStreamReader(4019): setDataStreamReceiver
+06-17 23:00:52.799: D/DataStreamReader(4019): isConnected
+06-17 23:00:52.799: D/F1LTAct L139(4019): No conectat
+06-17 23:00:52.799: D/F1LTActivity(4019): login
+06-17 23:00:52.829: D/F1LTActivity(4019): onStart
+06-17 23:00:53.099: D/F1LTActivity(4019): onSaveInstanceState
+06-17 23:00:53.109: W/dalvikvm(4019): VFY: unable to resolve virtual method 4041: Lcom/f1lt/LoginActivity;.getActionBar ()Landroid/app/ActionBar;
+06-17 23:00:53.109: I/ApplicationPackageManager(4019): cscCountry is not German : YOG
+06-17 23:01:03.139: D/F1LTActivity(4019): onActivityResult
+06-17 23:01:03.139: D/ResultCode dins F1LT(4019): -1
+06-17 23:01:03.139: D/F1LTActivity(4019): onConnectedClicked
+06-17 23:01:03.149: D/DataStreamReader(4019): encodePasswd
+06-17 23:01:03.219: D/F1LTActivity(4019): onRestart
+06-17 23:01:03.219: D/F1LTActivity(4019): onStart
+06-17 23:01:09.149: D/F1LTActivity(4019): decompress
+06-17 23:01:09.179: D/ARXIUS A LA CARPETA ABANS DE BORRAR, SIZE:(4019): 530
+06-17 23:01:16.019: D/BORRATS TOTS ARXIUS A LA CARPETA, SIZE:(4019): 0
+06-17 23:01:16.019: V/Decompress(4019): Unzipping Dades1.txt
+06-17 23:01:16.659: V/Decompress(4019): Unzipping Dades2.txt
+06-17 23:01:16.699: V/Decompress(4019): Unzipping Dades3.txt
+06-17 23:01:16.719: V/Decompress(4019): Unzipping Dades4.txt
+06-17 23:01:16.749: V/Decompress(4019): Unzipping Dades5.txt
+06-17 23:01:16.779: V/Decompress(4019): Unzipping Dades6.txt
+06-17 23:01:16.809: V/Decompress(4019): Unzipping Dades7.txt
+06-17 23:01:16.839: V/Decompress(4019): Unzipping Dades8.txt
+06-17 23:01:16.869: V/Decompress(4019): Unzipping Dades9.txt
+06-17 23:01:16.899: V/Decompress(4019): Unzipping Dades10.txt
+06-17 23:01:16.929: V/Decompress(4019): Unzipping Dades11.txt
+06-17 23:01:16.949: V/Decompress(4019): Unzipping Dades12.txt
+06-17 23:01:16.979: V/Decompress(4019): Unzipping Dades13.txt
+06-17 23:01:17.009: V/Decompress(4019): Unzipping Dades14.txt
+06-17 23:01:17.029: V/Decompress(4019): Unzipping Dades15.txt
+06-17 23:01:17.069: V/Decompress(4019): Unzipping Dades16.txt
+06-17 23:01:17.099: V/Decompress(4019): Unzipping Dades17.txt
+06-17 23:01:17.119: V/Decompress(4019): Unzipping Dades18.txt
+06-17 23:01:17.149: V/Decompress(4019): Unzipping Dades19.txt
+06-17 23:01:17.179: V/Decompress(4019): Unzipping Dades20.txt
+06-17 23:01:17.199: V/Decompress(4019): Unzipping Dades21.txt
+06-17 23:01:17.229: V/Decompress(4019): Unzipping Dades22.txt
+06-17 23:01:17.259: V/Decompress(4019): Unzipping Dades23.txt
+06-17 23:01:17.299: V/Decompress(4019): Unzipping Dades24.txt
+06-17 23:01:17.319: V/Decompress(4019): Unzipping Dades25.txt
+06-17 23:01:17.349: V/Decompress(4019): Unzipping Dades26.txt
+06-17 23:01:17.369: V/Decompress(4019): Unzipping Dades27.txt
+06-17 23:01:17.409: V/Decompress(4019): Unzipping Dades28.txt
+06-17 23:01:17.429: V/Decompress(4019): Unzipping Dades29.txt
+06-17 23:01:17.459: V/Decompress(4019): Unzipping Dades30.txt
+06-17 23:01:17.479: V/Decompress(4019): Unzipping Dades31.txt
+06-17 23:01:17.509: V/Decompress(4019): Unzipping Dades32.txt
+06-17 23:01:17.539: V/Decompress(4019): Unzipping Dades33.txt
+06-17 23:01:17.569: V/Decompress(4019): Unzipping Dades34.txt
+06-17 23:01:17.589: V/Decompress(4019): Unzipping Dades35.txt
+06-17 23:01:17.619: V/Decompress(4019): Unzipping Dades36.txt
+06-17 23:01:17.649: V/Decompress(4019): Unzipping Dades37.txt
+06-17 23:01:17.669: V/Decompress(4019): Unzipping Dades38.txt
+06-17 23:01:17.699: V/Decompress(4019): Unzipping Dades39.txt
+06-17 23:01:17.719: V/Decompress(4019): Unzipping Dades40.txt
+06-17 23:01:17.749: V/Decompress(4019): Unzipping Dades41.txt
+06-17 23:01:17.789: V/Decompress(4019): Unzipping Dades42.txt
+06-17 23:01:17.809: V/Decompress(4019): Unzipping Dades43.txt
+06-17 23:01:17.839: V/Decompress(4019): Unzipping Dades44.txt
+06-17 23:01:17.859: V/Decompress(4019): Unzipping Dades45.txt
+06-17 23:01:17.889: V/Decompress(4019): Unzipping Dades46.txt
+06-17 23:01:17.919: V/Decompress(4019): Unzipping Dades47.txt
+06-17 23:01:17.949: V/Decompress(4019): Unzipping Dades48.txt
+06-17 23:01:17.969: V/Decompress(4019): Unzipping Dades49.txt
+06-17 23:01:17.999: V/Decompress(4019): Unzipping Dades50.txt
+06-17 23:01:18.029: V/Decompress(4019): Unzipping Dades51.txt
+06-17 23:01:18.049: V/Decompress(4019): Unzipping Dades52.txt
+06-17 23:01:18.089: V/Decompress(4019): Unzipping Dades53.txt
+06-17 23:01:18.119: V/Decompress(4019): Unzipping Dades54.txt
+06-17 23:01:18.139: V/Decompress(4019): Unzipping Dades55.txt
+06-17 23:01:18.169: V/Decompress(4019): Unzipping Dades56.txt
+06-17 23:01:18.189: V/Decompress(4019): Unzipping Dades57.txt
+06-17 23:01:18.219: V/Decompress(4019): Unzipping Dades58.txt
+06-17 23:01:18.249: V/Decompress(4019): Unzipping Dades59.txt
+06-17 23:01:18.289: V/Decompress(4019): Unzipping Dades60.txt
+06-17 23:01:18.309: V/Decompress(4019): Unzipping Dades61.txt
+06-17 23:01:18.339: V/Decompress(4019): Unzipping Dades62.txt
+06-17 23:01:18.369: V/Decompress(4019): Unzipping Dades63.txt
+06-17 23:01:18.389: V/Decompress(4019): Unzipping Dades64.txt
+06-17 23:01:18.429: V/Decompress(4019): Unzipping Dades65.txt
+06-17 23:01:18.449: V/Decompress(4019): Unzipping Dades66.txt
+06-17 23:01:18.479: V/Decompress(4019): Unzipping Dades67.txt
+06-17 23:01:18.499: V/Decompress(4019): Unzipping Dades68.txt
+06-17 23:01:18.529: V/Decompress(4019): Unzipping Dades69.txt
+06-17 23:01:18.559: V/Decompress(4019): Unzipping Dades70.txt
+06-17 23:01:18.579: V/Decompress(4019): Unzipping Dades71.txt
+06-17 23:01:18.609: V/Decompress(4019): Unzipping Dades72.txt
+06-17 23:01:18.639: V/Decompress(4019): Unzipping Dades73.txt
+06-17 23:01:18.669: V/Decompress(4019): Unzipping Dades74.txt
+06-17 23:01:18.689: V/Decompress(4019): Unzipping Dades75.txt
+06-17 23:01:18.719: V/Decompress(4019): Unzipping Dades76.txt
+06-17 23:01:18.749: V/Decompress(4019): Unzipping Dades77.txt
+06-17 23:01:18.789: V/Decompress(4019): Unzipping Dades78.txt
+06-17 23:01:18.809: V/Decompress(4019): Unzipping Dades79.txt
+06-17 23:01:18.839: V/Decompress(4019): Unzipping Dades80.txt
+06-17 23:01:18.869: V/Decompress(4019): Unzipping Dades81.txt
+06-17 23:01:18.899: V/Decompress(4019): Unzipping Dades82.txt
+06-17 23:01:18.929: V/Decompress(4019): Unzipping Dades83.txt
+06-17 23:01:18.949: V/Decompress(4019): Unzipping Dades84.txt
+06-17 23:01:18.979: V/Decompress(4019): Unzipping Dades85.txt
+06-17 23:01:19.009: V/Decompress(4019): Unzipping Dades86.txt
+06-17 23:01:19.029: V/Decompress(4019): Unzipping Dades87.txt
+06-17 23:01:19.079: V/Decompress(4019): Unzipping Dades88.txt
+06-17 23:01:19.129: V/Decompress(4019): Unzipping Dades89.txt
+06-17 23:01:19.169: V/Decompress(4019): Unzipping Dades90.txt
+06-17 23:01:19.219: V/Decompress(4019): Unzipping Dades91.txt
+06-17 23:01:19.249: V/Decompress(4019): Unzipping Dades92.txt
+06-17 23:01:19.279: V/Decompress(4019): Unzipping Dades93.txt
+06-17 23:01:19.299: V/Decompress(4019): Unzipping Dades94.txt
+06-17 23:01:19.329: V/Decompress(4019): Unzipping Dades95.txt
+06-17 23:01:19.379: V/Decompress(4019): Unzipping Dades96.txt
+06-17 23:01:19.399: V/Decompress(4019): Unzipping Dades97.txt
+06-17 23:01:19.429: V/Decompress(4019): Unzipping Dades98.txt
+06-17 23:01:19.459: V/Decompress(4019): Unzipping Dades99.txt
+06-17 23:01:19.479: V/Decompress(4019): Unzipping Dades100.txt
+06-17 23:01:19.509: V/Decompress(4019): Unzipping Dades101.txt
+06-17 23:01:19.539: V/Decompress(4019): Unzipping Dades102.txt
+06-17 23:01:19.569: V/Decompress(4019): Unzipping Dades103.txt
+06-17 23:01:19.599: V/Decompress(4019): Unzipping Dades104.txt
+06-17 23:01:19.619: V/Decompress(4019): Unzipping Dades105.txt
+06-17 23:01:19.649: V/Decompress(4019): Unzipping Dades106.txt
+06-17 23:01:19.679: V/Decompress(4019): Unzipping Dades107.txt
+06-17 23:01:19.709: V/Decompress(4019): Unzipping Dades108.txt
+06-17 23:01:19.739: V/Decompress(4019): Unzipping Dades109.txt
+06-17 23:01:19.759: V/Decompress(4019): Unzipping Dades110.txt
+06-17 23:01:19.789: V/Decompress(4019): Unzipping Dades111.txt
+06-17 23:01:19.819: V/Decompress(4019): Unzipping Dades112.txt
+06-17 23:01:19.849: V/Decompress(4019): Unzipping Dades113.txt
+06-17 23:01:19.879: V/Decompress(4019): Unzipping Dades114.txt
+06-17 23:01:19.919: V/Decompress(4019): Unzipping Dades115.txt
+06-17 23:01:19.939: V/Decompress(4019): Unzipping Dades116.txt
+06-17 23:01:19.969: V/Decompress(4019): Unzipping Dades117.txt
+06-17 23:01:19.999: V/Decompress(4019): Unzipping Dades118.txt
+06-17 23:01:20.019: V/Decompress(4019): Unzipping Dades119.txt
+06-17 23:01:20.069: V/Decompress(4019): Unzipping Dades120.txt
+06-17 23:01:20.109: V/Decompress(4019): Unzipping Dades121.txt
+06-17 23:01:20.129: V/Decompress(4019): Unzipping Dades122.txt
+06-17 23:01:20.159: V/Decompress(4019): Unzipping Dades123.txt
+06-17 23:01:20.189: V/Decompress(4019): Unzipping Dades124.txt
+06-17 23:01:20.219: V/Decompress(4019): Unzipping Dades125.txt
+06-17 23:01:20.249: V/Decompress(4019): Unzipping Dades126.txt
+06-17 23:01:20.269: V/Decompress(4019): Unzipping Dades127.txt
+06-17 23:01:20.299: V/Decompress(4019): Unzipping Dades128.txt
+06-17 23:01:20.329: V/Decompress(4019): Unzipping Dades129.txt
+06-17 23:01:20.359: V/Decompress(4019): Unzipping Dades130.txt
+06-17 23:01:20.379: V/Decompress(4019): Unzipping Dades131.txt
+06-17 23:01:20.409: V/Decompress(4019): Unzipping Dades132.txt
+06-17 23:01:21.559: V/Decompress(4019): Unzipping Dades133.txt
+06-17 23:01:21.739: V/Decompress(4019): Unzipping Dades134.txt
+06-17 23:01:21.759: V/Decompress(4019): Unzipping Dades135.txt
+06-17 23:01:21.789: V/Decompress(4019): Unzipping Dades136.txt
+06-17 23:01:21.969: V/Decompress(4019): Unzipping Dades137.txt
+06-17 23:01:21.989: V/Decompress(4019): Unzipping Dades138.txt
+06-17 23:01:22.019: V/Decompress(4019): Unzipping Dades139.txt
+06-17 23:01:22.049: V/Decompress(4019): Unzipping Dades140.txt
+06-17 23:01:22.069: V/Decompress(4019): Unzipping Dades141.txt
+06-17 23:01:22.099: V/Decompress(4019): Unzipping Dades142.txt
+06-17 23:01:22.119: V/Decompress(4019): Unzipping Dades143.txt
+06-17 23:01:22.159: V/Decompress(4019): Unzipping Dades144.txt
+06-17 23:01:22.329: V/Decompress(4019): Unzipping Dades145.txt
+06-17 23:01:22.359: V/Decompress(4019): Unzipping Dades146.txt
+06-17 23:01:22.389: V/Decompress(4019): Unzipping Dades147.txt
+06-17 23:01:22.419: V/Decompress(4019): Unzipping Dades148.txt
+06-17 23:01:22.449: V/Decompress(4019): Unzipping Dades149.txt
+06-17 23:01:22.479: V/Decompress(4019): Unzipping Dades150.txt
+06-17 23:01:22.519: V/Decompress(4019): Unzipping Dades151.txt
+06-17 23:01:22.539: V/Decompress(4019): Unzipping Dades152.txt
+06-17 23:01:22.699: V/Decompress(4019): Unzipping Dades153.txt
+06-17 23:01:22.739: V/Decompress(4019): Unzipping Dades154.txt
+06-17 23:01:22.769: V/Decompress(4019): Unzipping Dades155.txt
+06-17 23:01:22.789: V/Decompress(4019): Unzipping Dades156.txt
+06-17 23:01:22.819: V/Decompress(4019): Unzipping Dades157.txt
+06-17 23:01:22.849: V/Decompress(4019): Unzipping Dades158.txt
+06-17 23:01:22.869: V/Decompress(4019): Unzipping Dades159.txt
+06-17 23:01:22.899: V/Decompress(4019): Unzipping Dades160.txt
+06-17 23:01:22.929: V/Decompress(4019): Unzipping Dades161.txt
+06-17 23:01:22.959: V/Decompress(4019): Unzipping Dades162.txt
+06-17 23:01:22.979: V/Decompress(4019): Unzipping Dades163.txt
+06-17 23:01:23.009: V/Decompress(4019): Unzipping Dades164.txt
+06-17 23:01:23.039: V/Decompress(4019): Unzipping Dades165.txt
+06-17 23:01:23.069: V/Decompress(4019): Unzipping Dades166.txt
+06-17 23:01:23.089: V/Decompress(4019): Unzipping Dades167.txt
+06-17 23:01:23.129: V/Decompress(4019): Unzipping Dades168.txt
+06-17 23:01:23.169: V/Decompress(4019): Unzipping Dades169.txt
+06-17 23:01:23.189: V/Decompress(4019): Unzipping Dades170.txt
+06-17 23:01:23.219: V/Decompress(4019): Unzipping Dades171.txt
+06-17 23:01:23.259: V/Decompress(4019): Unzipping Dades172.txt
+06-17 23:01:23.289: V/Decompress(4019): Unzipping Dades173.txt
+06-17 23:01:23.309: V/Decompress(4019): Unzipping Dades174.txt
+06-17 23:01:23.339: V/Decompress(4019): Unzipping Dades175.txt
+06-17 23:01:23.359: V/Decompress(4019): Unzipping Dades176.txt
+06-17 23:01:23.389: V/Decompress(4019): Unzipping Dades177.txt
+06-17 23:01:23.419: V/Decompress(4019): Unzipping Dades178.txt
+06-17 23:01:23.439: V/Decompress(4019): Unzipping Dades179.txt
+06-17 23:01:23.469: V/Decompress(4019): Unzipping Dades180.txt
+06-17 23:01:23.499: V/Decompress(4019): Unzipping Dades181.txt
+06-17 23:01:23.519: V/Decompress(4019): Unzipping Dades182.txt
+06-17 23:01:23.549: V/Decompress(4019): Unzipping Dades183.txt
+06-17 23:01:23.579: V/Decompress(4019): Unzipping Dades184.txt
+06-17 23:01:23.599: V/Decompress(4019): Unzipping Dades185.txt
+06-17 23:01:23.639: V/Decompress(4019): Unzipping Dades186.txt
+06-17 23:01:23.669: V/Decompress(4019): Unzipping Dades187.txt
+06-17 23:01:23.699: V/Decompress(4019): Unzipping Dades188.txt
+06-17 23:01:23.719: V/Decompress(4019): Unzipping Dades189.txt
+06-17 23:01:23.749: V/Decompress(4019): Unzipping Dades190.txt
+06-17 23:01:23.779: V/Decompress(4019): Unzipping Dades191.txt
+06-17 23:01:23.799: V/Decompress(4019): Unzipping Dades192.txt
+06-17 23:01:23.829: V/Decompress(4019): Unzipping Dades193.txt
+06-17 23:01:23.859: V/Decompress(4019): Unzipping Dades194.txt
+06-17 23:01:23.879: V/Decompress(4019): Unzipping Dades195.txt
+06-17 23:01:23.909: V/Decompress(4019): Unzipping Dades196.txt
+06-17 23:01:23.939: V/Decompress(4019): Unzipping Dades197.txt
+06-17 23:01:23.959: V/Decompress(4019): Unzipping Dades198.txt
+06-17 23:01:23.989: V/Decompress(4019): Unzipping Dades199.txt
+06-17 23:01:24.019: V/Decompress(4019): Unzipping Dades200.txt
+06-17 23:01:24.039: V/Decompress(4019): Unzipping Dades201.txt
+06-17 23:01:24.069: V/Decompress(4019): Unzipping Dades202.txt
+06-17 23:01:24.099: V/Decompress(4019): Unzipping Dades203.txt
+06-17 23:01:24.139: V/Decompress(4019): Unzipping Dades204.txt
+06-17 23:01:24.159: V/Decompress(4019): Unzipping Dades205.txt
+06-17 23:01:24.199: V/Decompress(4019): Unzipping Dades206.txt
+06-17 23:01:24.239: V/Decompress(4019): Unzipping Dades207.txt
+06-17 23:01:24.269: V/Decompress(4019): Unzipping Dades208.txt
+06-17 23:01:24.289: V/Decompress(4019): Unzipping Dades209.txt
+06-17 23:01:24.319: V/Decompress(4019): Unzipping Dades210.txt
+06-17 23:01:24.349: V/Decompress(4019): Unzipping Dades211.txt
+06-17 23:01:24.369: V/Decompress(4019): Unzipping Dades212.txt
+06-17 23:01:24.399: V/Decompress(4019): Unzipping Dades213.txt
+06-17 23:01:24.439: V/Decompress(4019): Unzipping Dades214.txt
+06-17 23:01:24.489: V/Decompress(4019): Unzipping Dades215.txt
+06-17 23:01:24.539: V/Decompress(4019): Unzipping Dades216.txt
+06-17 23:01:24.589: V/Decompress(4019): Unzipping Dades217.txt
+06-17 23:01:24.609: V/Decompress(4019): Unzipping Dades218.txt
+06-17 23:01:24.639: V/Decompress(4019): Unzipping Dades219.txt
+06-17 23:01:24.669: V/Decompress(4019): Unzipping Dades220.txt
+06-17 23:01:24.699: V/Decompress(4019): Unzipping Dades221.txt
+06-17 23:01:24.739: V/Decompress(4019): Unzipping Dades222.txt
+06-17 23:01:24.759: V/Decompress(4019): Unzipping Dades223.txt
+06-17 23:01:24.789: V/Decompress(4019): Unzipping Dades224.txt
+06-17 23:01:24.819: V/Decompress(4019): Unzipping Dades225.txt
+06-17 23:01:24.849: V/Decompress(4019): Unzipping Dades226.txt
+06-17 23:01:24.879: V/Decompress(4019): Unzipping Dades227.txt
+06-17 23:01:24.899: V/Decompress(4019): Unzipping Dades228.txt
+06-17 23:01:24.929: V/Decompress(4019): Unzipping Dades229.txt
+06-17 23:01:24.959: V/Decompress(4019): Unzipping Dades230.txt
+06-17 23:01:24.979: V/Decompress(4019): Unzipping Dades231.txt
+06-17 23:01:25.009: V/Decompress(4019): Unzipping Dades232.txt
+06-17 23:01:25.039: V/Decompress(4019): Unzipping Dades233.txt
+06-17 23:01:25.069: V/Decompress(4019): Unzipping Dades234.txt
+06-17 23:01:25.099: V/Decompress(4019): Unzipping Dades235.txt
+06-17 23:01:25.119: V/Decompress(4019): Unzipping Dades236.txt
+06-17 23:01:25.149: V/Decompress(4019): Unzipping Dades237.txt
+06-17 23:01:25.179: V/Decompress(4019): Unzipping Dades238.txt
+06-17 23:01:25.209: V/Decompress(4019): Unzipping Dades239.txt
+06-17 23:01:25.239: V/Decompress(4019): Unzipping Dades240.txt
+06-17 23:01:25.269: V/Decompress(4019): Unzipping Dades241.txt
+06-17 23:01:25.299: V/Decompress(4019): Unzipping Dades242.txt
+06-17 23:01:25.339: V/Decompress(4019): Unzipping Dades243.txt
+06-17 23:01:25.369: V/Decompress(4019): Unzipping Dades244.txt
+06-17 23:01:25.389: V/Decompress(4019): Unzipping Dades245.txt
+06-17 23:01:25.419: V/Decompress(4019): Unzipping Dades246.txt
+06-17 23:01:26.079: V/Decompress(4019): Unzipping Dades247.txt
+06-17 23:01:28.899: V/Decompress(4019): Unzipping Dades248.txt
+06-17 23:01:29.079: V/Decompress(4019): Unzipping Dades249.txt
+06-17 23:01:29.109: V/Decompress(4019): Unzipping Dades250.txt
+06-17 23:01:29.129: V/Decompress(4019): Unzipping Dades251.txt
+06-17 23:01:29.159: V/Decompress(4019): Unzipping Dades252.txt
+06-17 23:01:29.189: V/Decompress(4019): Unzipping Dades253.txt
+06-17 23:01:29.219: V/Decompress(4019): Unzipping Dades254.txt
+06-17 23:01:29.239: V/Decompress(4019): Unzipping Dades255.txt
+06-17 23:01:29.269: V/Decompress(4019): Unzipping Dades256.txt
+06-17 23:01:29.439: V/Decompress(4019): Unzipping Dades257.txt
+06-17 23:01:29.479: V/Decompress(4019): Unzipping Dades258.txt
+06-17 23:01:29.509: V/Decompress(4019): Unzipping Dades259.txt
+06-17 23:01:29.539: V/Decompress(4019): Unzipping Dades260.txt
+06-17 23:01:29.569: V/Decompress(4019): Unzipping Dades261.txt
+06-17 23:01:29.609: V/Decompress(4019): Unzipping Dades262.txt
+06-17 23:01:29.639: V/Decompress(4019): Unzipping Dades263.txt
+06-17 23:01:30.309: V/Decompress(4019): Unzipping Dades264.txt
+06-17 23:01:33.119: V/Decompress(4019): Unzipping DadesDATE.txt
+06-17 23:01:33.149: V/Decompress(4019): Unzipping DadesKEY.txt
+06-17 23:01:33.169: V/Decompress(4019): Unzipping Milis1.txt
+06-17 23:01:33.199: V/Decompress(4019): Unzipping Milis2.txt
+06-17 23:01:33.219: V/Decompress(4019): Unzipping Milis3.txt
+06-17 23:01:33.249: V/Decompress(4019): Unzipping Milis4.txt
+06-17 23:01:33.289: V/Decompress(4019): Unzipping Milis5.txt
+06-17 23:01:33.309: V/Decompress(4019): Unzipping Milis6.txt
+06-17 23:01:33.339: V/Decompress(4019): Unzipping Milis7.txt
+06-17 23:01:33.369: V/Decompress(4019): Unzipping Milis8.txt
+06-17 23:01:33.399: V/Decompress(4019): Unzipping Milis9.txt
+06-17 23:01:33.439: V/Decompress(4019): Unzipping Milis10.txt
+06-17 23:01:33.459: V/Decompress(4019): Unzipping Milis11.txt
+06-17 23:01:33.489: V/Decompress(4019): Unzipping Milis12.txt
+06-17 23:01:33.519: V/Decompress(4019): Unzipping Milis13.txt
+06-17 23:01:33.539: V/Decompress(4019): Unzipping Milis14.txt
+06-17 23:01:33.569: V/Decompress(4019): Unzipping Milis15.txt
+06-17 23:01:33.599: V/Decompress(4019): Unzipping Milis16.txt
+06-17 23:01:33.629: V/Decompress(4019): Unzipping Milis17.txt
+06-17 23:01:33.649: V/Decompress(4019): Unzipping Milis18.txt
+06-17 23:01:33.679: V/Decompress(4019): Unzipping Milis19.txt
+06-17 23:01:33.699: V/Decompress(4019): Unzipping Milis20.txt
+06-17 23:01:33.729: V/Decompress(4019): Unzipping Milis21.txt
+06-17 23:01:33.759: V/Decompress(4019): Unzipping Milis22.txt
+06-17 23:01:33.789: V/Decompress(4019): Unzipping Milis23.txt
+06-17 23:01:33.809: V/Decompress(4019): Unzipping Milis24.txt
+06-17 23:01:33.839: V/Decompress(4019): Unzipping Milis25.txt
+06-17 23:01:33.869: V/Decompress(4019): Unzipping Milis26.txt
+06-17 23:01:33.899: V/Decompress(4019): Unzipping Milis27.txt
+06-17 23:01:33.939: V/Decompress(4019): Unzipping Milis28.txt
+06-17 23:01:33.969: V/Decompress(4019): Unzipping Milis29.txt
+06-17 23:01:33.989: V/Decompress(4019): Unzipping Milis30.txt
+06-17 23:01:34.019: V/Decompress(4019): Unzipping Milis31.txt
+06-17 23:01:34.049: V/Decompress(4019): Unzipping Milis32.txt
+06-17 23:01:34.069: V/Decompress(4019): Unzipping Milis33.txt
+06-17 23:01:34.099: V/Decompress(4019): Unzipping Milis34.txt
+06-17 23:01:34.129: V/Decompress(4019): Unzipping Milis35.txt
+06-17 23:01:34.149: V/Decompress(4019): Unzipping Milis36.txt
+06-17 23:01:34.179: V/Decompress(4019): Unzipping Milis37.txt
+06-17 23:01:34.209: V/Decompress(4019): Unzipping Milis38.txt
+06-17 23:01:34.229: V/Decompress(4019): Unzipping Milis39.txt
+06-17 23:01:34.259: V/Decompress(4019): Unzipping Milis40.txt
+06-17 23:01:34.289: V/Decompress(4019): Unzipping Milis41.txt
+06-17 23:01:34.309: V/Decompress(4019): Unzipping Milis42.txt
+06-17 23:01:34.339: V/Decompress(4019): Unzipping Milis43.txt
+06-17 23:01:34.369: V/Decompress(4019): Unzipping Milis44.txt
+06-17 23:01:34.399: V/Decompress(4019): Unzipping Milis45.txt
+06-17 23:01:34.439: V/Decompress(4019): Unzipping Milis46.txt
+06-17 23:01:34.469: V/Decompress(4019): Unzipping Milis47.txt
+06-17 23:01:34.499: V/Decompress(4019): Unzipping Milis48.txt
+06-17 23:01:34.529: V/Decompress(4019): Unzipping Milis49.txt
+06-17 23:01:34.549: V/Decompress(4019): Unzipping Milis50.txt
+06-17 23:01:34.579: V/Decompress(4019): Unzipping Milis51.txt
+06-17 23:01:34.599: V/Decompress(4019): Unzipping Milis52.txt
+06-17 23:01:34.629: V/Decompress(4019): Unzipping Milis53.txt
+06-17 23:01:34.659: V/Decompress(4019): Unzipping Milis54.txt
+06-17 23:01:34.689: V/Decompress(4019): Unzipping Milis55.txt
+06-17 23:01:34.719: V/Decompress(4019): Unzipping Milis56.txt
+06-17 23:01:34.749: V/Decompress(4019): Unzipping Milis57.txt
+06-17 23:01:34.769: V/Decompress(4019): Unzipping Milis58.txt
+06-17 23:01:34.799: V/Decompress(4019): Unzipping Milis59.txt
+06-17 23:01:34.829: V/Decompress(4019): Unzipping Milis60.txt
+06-17 23:01:34.849: V/Decompress(4019): Unzipping Milis61.txt
+06-17 23:01:34.879: V/Decompress(4019): Unzipping Milis62.txt
+06-17 23:01:34.909: V/Decompress(4019): Unzipping Milis63.txt
+06-17 23:01:34.939: V/Decompress(4019): Unzipping Milis64.txt
+06-17 23:01:34.979: V/Decompress(4019): Unzipping Milis65.txt
+06-17 23:01:34.999: V/Decompress(4019): Unzipping Milis66.txt
+06-17 23:01:35.029: V/Decompress(4019): Unzipping Milis67.txt
+06-17 23:01:35.059: V/Decompress(4019): Unzipping Milis68.txt
+06-17 23:01:35.089: V/Decompress(4019): Unzipping Milis69.txt
+06-17 23:01:35.119: V/Decompress(4019): Unzipping Milis70.txt
+06-17 23:01:35.149: V/Decompress(4019): Unzipping Milis71.txt
+06-17 23:01:35.179: V/Decompress(4019): Unzipping Milis72.txt
+06-17 23:01:35.199: V/Decompress(4019): Unzipping Milis73.txt
+06-17 23:01:35.229: V/Decompress(4019): Unzipping Milis74.txt
+06-17 23:01:35.259: V/Decompress(4019): Unzipping Milis75.txt
+06-17 23:01:35.289: V/Decompress(4019): Unzipping Milis76.txt
+06-17 23:01:35.309: V/Decompress(4019): Unzipping Milis77.txt
+06-17 23:01:35.339: V/Decompress(4019): Unzipping Milis78.txt
+06-17 23:01:35.369: V/Decompress(4019): Unzipping Milis79.txt
+06-17 23:01:35.389: V/Decompress(4019): Unzipping Milis80.txt
+06-17 23:01:35.419: V/Decompress(4019): Unzipping Milis81.txt
+06-17 23:01:35.449: V/Decompress(4019): Unzipping Milis82.txt
+06-17 23:01:36.519: V/Decompress(4019): Unzipping Milis83.txt
+06-17 23:01:37.139: V/Decompress(4019): Unzipping Milis84.txt
+06-17 23:01:37.189: V/Decompress(4019): Unzipping Milis85.txt
+06-17 23:01:37.209: V/Decompress(4019): Unzipping Milis86.txt
+06-17 23:01:37.239: V/Decompress(4019): Unzipping Milis87.txt
+06-17 23:01:37.269: V/Decompress(4019): Unzipping Milis88.txt
+06-17 23:01:37.299: V/Decompress(4019): Unzipping Milis89.txt
+06-17 23:01:37.319: V/Decompress(4019): Unzipping Milis90.txt
+06-17 23:01:37.349: V/Decompress(4019): Unzipping Milis91.txt
+06-17 23:01:37.379: V/Decompress(4019): Unzipping Milis92.txt
+06-17 23:01:37.409: V/Decompress(4019): Unzipping Milis93.txt
+06-17 23:01:37.429: V/Decompress(4019): Unzipping Milis94.txt
+06-17 23:01:37.459: V/Decompress(4019): Unzipping Milis95.txt
+06-17 23:01:37.489: V/Decompress(4019): Unzipping Milis96.txt
+06-17 23:01:37.509: V/Decompress(4019): Unzipping Milis97.txt
+06-17 23:01:37.549: V/Decompress(4019): Unzipping Milis98.txt
+06-17 23:01:37.569: V/Decompress(4019): Unzipping Milis99.txt
+06-17 23:01:37.599: V/Decompress(4019): Unzipping Milis100.txt
+06-17 23:01:37.639: V/Decompress(4019): Unzipping Milis101.txt
+06-17 23:01:37.669: V/Decompress(4019): Unzipping Milis102.txt
+06-17 23:01:37.699: V/Decompress(4019): Unzipping Milis103.txt
+06-17 23:01:37.729: V/Decompress(4019): Unzipping Milis104.txt
+06-17 23:01:37.749: V/Decompress(4019): Unzipping Milis105.txt
+06-17 23:01:37.799: V/Decompress(4019): Unzipping Milis106.txt
+06-17 23:01:37.839: V/Decompress(4019): Unzipping Milis107.txt
+06-17 23:01:37.889: V/Decompress(4019): Unzipping Milis108.txt
+06-17 23:01:37.939: V/Decompress(4019): Unzipping Milis109.txt
+06-17 23:01:37.969: V/Decompress(4019): Unzipping Milis110.txt
+06-17 23:01:37.989: V/Decompress(4019): Unzipping Milis111.txt
+06-17 23:01:38.019: V/Decompress(4019): Unzipping Milis112.txt
+06-17 23:01:38.049: V/Decompress(4019): Unzipping Milis113.txt
+06-17 23:01:38.079: V/Decompress(4019): Unzipping Milis114.txt
+06-17 23:01:38.109: V/Decompress(4019): Unzipping Milis115.txt
+06-17 23:01:38.139: V/Decompress(4019): Unzipping Milis116.txt
+06-17 23:01:38.169: V/Decompress(4019): Unzipping Milis117.txt
+06-17 23:01:38.199: V/Decompress(4019): Unzipping Milis118.txt
+06-17 23:01:38.229: V/Decompress(4019): Unzipping Milis119.txt
+06-17 23:01:38.269: V/Decompress(4019): Unzipping Milis120.txt
+06-17 23:01:38.299: V/Decompress(4019): Unzipping Milis121.txt
+06-17 23:01:38.329: V/Decompress(4019): Unzipping Milis122.txt
+06-17 23:01:38.349: V/Decompress(4019): Unzipping Milis123.txt
+06-17 23:01:38.379: V/Decompress(4019): Unzipping Milis124.txt
+06-17 23:01:38.409: V/Decompress(4019): Unzipping Milis125.txt
+06-17 23:01:38.439: V/Decompress(4019): Unzipping Milis126.txt
+06-17 23:01:38.459: V/Decompress(4019): Unzipping Milis127.txt
+06-17 23:01:38.489: V/Decompress(4019): Unzipping Milis128.txt
+06-17 23:01:38.519: V/Decompress(4019): Unzipping Milis129.txt
+06-17 23:01:38.549: V/Decompress(4019): Unzipping Milis130.txt
+06-17 23:01:38.569: V/Decompress(4019): Unzipping Milis131.txt
+06-17 23:01:38.599: V/Decompress(4019): Unzipping Milis132.txt
+06-17 23:01:38.629: V/Decompress(4019): Unzipping Milis133.txt
+06-17 23:01:38.649: V/Decompress(4019): Unzipping Milis134.txt
+06-17 23:01:38.679: V/Decompress(4019): Unzipping Milis135.txt
+06-17 23:01:38.719: V/Decompress(4019): Unzipping Milis136.txt
+06-17 23:01:38.739: V/Decompress(4019): Unzipping Milis137.txt
+06-17 23:01:38.779: V/Decompress(4019): Unzipping Milis138.txt
+06-17 23:01:38.809: V/Decompress(4019): Unzipping Milis139.txt
+06-17 23:01:38.839: V/Decompress(4019): Unzipping Milis140.txt
+06-17 23:01:38.859: V/Decompress(4019): Unzipping Milis141.txt
+06-17 23:01:38.889: V/Decompress(4019): Unzipping Milis142.txt
+06-17 23:01:38.919: V/Decompress(4019): Unzipping Milis143.txt
+06-17 23:01:38.949: V/Decompress(4019): Unzipping Milis144.txt
+06-17 23:01:38.969: V/Decompress(4019): Unzipping Milis145.txt
+06-17 23:01:38.999: V/Decompress(4019): Unzipping Milis146.txt
+06-17 23:01:39.029: V/Decompress(4019): Unzipping Milis147.txt
+06-17 23:01:39.059: V/Decompress(4019): Unzipping Milis148.txt
+06-17 23:01:39.099: V/Decompress(4019): Unzipping Milis149.txt
+06-17 23:01:39.129: V/Decompress(4019): Unzipping Milis150.txt
+06-17 23:01:39.149: V/Decompress(4019): Unzipping Milis151.txt
+06-17 23:01:39.179: V/Decompress(4019): Unzipping Milis152.txt
+06-17 23:01:39.209: V/Decompress(4019): Unzipping Milis153.txt
+06-17 23:01:39.239: V/Decompress(4019): Unzipping Milis154.txt
+06-17 23:01:39.269: V/Decompress(4019): Unzipping Milis155.txt
+06-17 23:01:39.309: V/Decompress(4019): Unzipping Milis156.txt
+06-17 23:01:39.329: V/Decompress(4019): Unzipping Milis157.txt
+06-17 23:01:39.359: V/Decompress(4019): Unzipping Milis158.txt
+06-17 23:01:39.389: V/Decompress(4019): Unzipping Milis159.txt
+06-17 23:01:39.419: V/Decompress(4019): Unzipping Milis160.txt
+06-17 23:01:39.439: V/Decompress(4019): Unzipping Milis161.txt
+06-17 23:01:39.469: V/Decompress(4019): Unzipping Milis162.txt
+06-17 23:01:39.499: V/Decompress(4019): Unzipping Milis163.txt
+06-17 23:01:39.519: V/Decompress(4019): Unzipping Milis164.txt
+06-17 23:01:39.549: V/Decompress(4019): Unzipping Milis165.txt
+06-17 23:01:39.579: V/Decompress(4019): Unzipping Milis166.txt
+06-17 23:01:39.609: V/Decompress(4019): Unzipping Milis167.txt
+06-17 23:01:39.639: V/Decompress(4019): Unzipping Milis168.txt
+06-17 23:01:39.659: V/Decompress(4019): Unzipping Milis169.txt
+06-17 23:01:39.689: V/Decompress(4019): Unzipping Milis170.txt
+06-17 23:01:39.719: V/Decompress(4019): Unzipping Milis171.txt
+06-17 23:01:39.749: V/Decompress(4019): Unzipping Milis172.txt
+06-17 23:01:39.779: V/Decompress(4019): Unzipping Milis173.txt
+06-17 23:01:39.819: V/Decompress(4019): Unzipping Milis174.txt
+06-17 23:01:39.849: V/Decompress(4019): Unzipping Milis175.txt
+06-17 23:01:39.869: V/Decompress(4019): Unzipping Milis176.txt
+06-17 23:01:39.899: V/Decompress(4019): Unzipping Milis177.txt
+06-17 23:01:39.929: V/Decompress(4019): Unzipping Milis178.txt
+06-17 23:01:39.959: V/Decompress(4019): Unzipping Milis179.txt
+06-17 23:01:39.979: V/Decompress(4019): Unzipping Milis180.txt
+06-17 23:01:40.009: V/Decompress(4019): Unzipping Milis181.txt
+06-17 23:01:40.039: V/Decompress(4019): Unzipping Milis182.txt
+06-17 23:01:40.069: V/Decompress(4019): Unzipping Milis183.txt
+06-17 23:01:40.099: V/Decompress(4019): Unzipping Milis184.txt
+06-17 23:01:40.129: V/Decompress(4019): Unzipping Milis185.txt
+06-17 23:01:40.159: V/Decompress(4019): Unzipping Milis186.txt
+06-17 23:01:40.189: V/Decompress(4019): Unzipping Milis187.txt
+06-17 23:01:40.209: V/Decompress(4019): Unzipping Milis188.txt
+06-17 23:01:40.239: V/Decompress(4019): Unzipping Milis189.txt
+06-17 23:01:40.269: V/Decompress(4019): Unzipping Milis190.txt
+06-17 23:01:40.299: V/Decompress(4019): Unzipping Milis191.txt
+06-17 23:01:40.339: V/Decompress(4019): Unzipping Milis192.txt
+06-17 23:01:40.369: V/Decompress(4019): Unzipping Milis193.txt
+06-17 23:01:40.399: V/Decompress(4019): Unzipping Milis194.txt
+06-17 23:01:40.419: V/Decompress(4019): Unzipping Milis195.txt
+06-17 23:01:40.449: V/Decompress(4019): Unzipping Milis196.txt
+06-17 23:01:40.479: V/Decompress(4019): Unzipping Milis197.txt
+06-17 23:01:42.149: V/Decompress(4019): Unzipping Milis198.txt
+06-17 23:01:43.449: V/Decompress(4019): Unzipping Milis199.txt
+06-17 23:01:43.479: V/Decompress(4019): Unzipping Milis200.txt
+06-17 23:01:43.509: V/Decompress(4019): Unzipping Milis201.txt
+06-17 23:01:43.529: V/Decompress(4019): Unzipping Milis202.txt
+06-17 23:01:43.559: V/Decompress(4019): Unzipping Milis203.txt
+06-17 23:01:43.589: V/Decompress(4019): Unzipping Milis204.txt
+06-17 23:01:43.619: V/Decompress(4019): Unzipping Milis205.txt
+06-17 23:01:43.639: V/Decompress(4019): Unzipping Milis206.txt
+06-17 23:01:43.819: V/Decompress(4019): Unzipping Milis207.txt
+06-17 23:01:43.849: V/Decompress(4019): Unzipping Milis208.txt
+06-17 23:01:43.879: V/Decompress(4019): Unzipping Milis209.txt
+06-17 23:01:43.919: V/Decompress(4019): Unzipping Milis210.txt
+06-17 23:01:43.949: V/Decompress(4019): Unzipping Milis211.txt
+06-17 23:01:43.979: V/Decompress(4019): Unzipping Milis212.txt
+06-17 23:01:44.009: V/Decompress(4019): Unzipping Milis213.txt
+06-17 23:01:44.039: V/Decompress(4019): Unzipping Milis214.txt
+06-17 23:01:44.209: V/Decompress(4019): Unzipping Milis215.txt
+06-17 23:01:44.249: V/Decompress(4019): Unzipping Milis216.txt
+06-17 23:01:44.279: V/Decompress(4019): Unzipping Milis217.txt
+06-17 23:01:44.299: V/Decompress(4019): Unzipping Milis218.txt
+06-17 23:01:44.329: V/Decompress(4019): Unzipping Milis219.txt
+06-17 23:01:44.359: V/Decompress(4019): Unzipping Milis220.txt
+06-17 23:01:44.389: V/Decompress(4019): Unzipping Milis221.txt
+06-17 23:01:44.409: V/Decompress(4019): Unzipping Milis222.txt
+06-17 23:01:44.589: V/Decompress(4019): Unzipping Milis223.txt
+06-17 23:01:44.619: V/Decompress(4019): Unzipping Milis224.txt
+06-17 23:01:44.649: V/Decompress(4019): Unzipping Milis225.txt
+06-17 23:01:44.679: V/Decompress(4019): Unzipping Milis226.txt
+06-17 23:01:44.719: V/Decompress(4019): Unzipping Milis227.txt
+06-17 23:01:44.739: V/Decompress(4019): Unzipping Milis228.txt
+06-17 23:01:44.769: V/Decompress(4019): Unzipping Milis229.txt
+06-17 23:01:44.799: V/Decompress(4019): Unzipping Milis230.txt
+06-17 23:01:44.959: V/Decompress(4019): Unzipping Milis231.txt
+06-17 23:01:44.989: V/Decompress(4019): Unzipping Milis232.txt
+06-17 23:01:45.059: V/Decompress(4019): Unzipping Milis233.txt
+06-17 23:01:45.099: V/Decompress(4019): Unzipping Milis234.txt
+06-17 23:01:45.129: V/Decompress(4019): Unzipping Milis235.txt
+06-17 23:01:45.159: V/Decompress(4019): Unzipping Milis236.txt
+06-17 23:01:45.189: V/Decompress(4019): Unzipping Milis237.txt
+06-17 23:01:45.219: V/Decompress(4019): Unzipping Milis238.txt
+06-17 23:01:45.239: V/Decompress(4019): Unzipping Milis239.txt
+06-17 23:01:45.269: V/Decompress(4019): Unzipping Milis240.txt
+06-17 23:01:45.299: V/Decompress(4019): Unzipping Milis241.txt
+06-17 23:01:45.329: V/Decompress(4019): Unzipping Milis242.txt
+06-17 23:01:45.349: V/Decompress(4019): Unzipping Milis243.txt
+06-17 23:01:45.379: V/Decompress(4019): Unzipping Milis244.txt
+06-17 23:01:45.419: V/Decompress(4019): Unzipping Milis245.txt
+06-17 23:01:45.449: V/Decompress(4019): Unzipping Milis246.txt
+06-17 23:01:45.479: V/Decompress(4019): Unzipping Milis247.txt
+06-17 23:01:45.509: V/Decompress(4019): Unzipping Milis248.txt
+06-17 23:01:45.529: V/Decompress(4019): Unzipping Milis249.txt
+06-17 23:01:45.559: V/Decompress(4019): Unzipping Milis250.txt
+06-17 23:01:45.589: V/Decompress(4019): Unzipping Milis251.txt
+06-17 23:01:45.619: V/Decompress(4019): Unzipping Milis252.txt
+06-17 23:01:45.649: V/Decompress(4019): Unzipping Milis253.txt
+06-17 23:01:45.679: V/Decompress(4019): Unzipping Milis254.txt
+06-17 23:01:45.699: V/Decompress(4019): Unzipping Milis255.txt
+06-17 23:01:45.729: V/Decompress(4019): Unzipping Milis256.txt
+06-17 23:01:45.759: V/Decompress(4019): Unzipping Milis257.txt
+06-17 23:01:45.789: V/Decompress(4019): Unzipping Milis258.txt
+06-17 23:01:45.819: V/Decompress(4019): Unzipping Milis259.txt
+06-17 23:01:45.849: V/Decompress(4019): Unzipping Milis260.txt
+06-17 23:01:45.869: V/Decompress(4019): Unzipping Milis261.txt
+06-17 23:01:45.899: V/Decompress(4019): Unzipping Milis262.txt
+06-17 23:01:45.929: V/Decompress(4019): Unzipping Milis263.txt
+06-17 23:01:45.959: V/Decompress(4019): Unzipping Milis264.txt
+06-17 23:01:45.979: D/ARREL ARXIU KEY:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/DadesKEY.txt
+06-17 23:01:45.979: D/ARREL ARXIU DATE:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/DadesDATE.txt
+06-17 23:01:45.989: D/ITER BYTES:(4019): 45
+06-17 23:01:45.989: D/ITER BYTES:(4019): 49
+06-17 23:01:45.989: D/ITER BYTES:(4019): 55
+06-17 23:01:45.989: D/ITER BYTES:(4019): 55
+06-17 23:01:45.989: D/ITER BYTES:(4019): 57
+06-17 23:01:45.989: D/ITER BYTES:(4019): 57
+06-17 23:01:45.989: D/ITER BYTES:(4019): 49
+06-17 23:01:45.989: D/ITER BYTES:(4019): 52
+06-17 23:01:45.989: D/ITER BYTES:(4019): 54
+06-17 23:01:45.989: D/ITER BYTES:(4019): 49
+06-17 23:01:45.989: D/ITER BYTES:(4019): 53
+06-17 23:01:45.989: D/NUM KEY FRAME PRE VALUE OF:(4019): -1779914615
+06-17 23:01:45.989: D/NUM KEY FRAME:(4019): -1779914615
+06-17 23:01:45.989: D/DATA EVENT LLEGIDA:(4019): 26-5-2013
+06-17 23:01:45.999: D/delayed(4019): FUNCIO DIFERIT
+06-17 23:01:46.169: D/NUM FITXERS CARPETA:(4019): 530
+06-17 23:01:46.169: D/TROBAT MILIS(4019): SURT WHILE-NOMES LLEGIR 1 COP
+06-17 23:01:46.169: D/->->CAPTURAT ELS MILIS,(4019): SESSIO SINCRONITZADA
+06-17 23:01:46.169: D/ARXIUS A REPRODUIR:(4019): 264
+06-17 23:01:46.169: D/SEGONS DE DELAY(4019): 3
+06-17 23:01:46.169: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades1.txt
+06-17 23:01:46.219: D/NUM DADES BYTES:(4019): 9870
+06-17 23:01:48.919: D/SEGONS DE DELAY(4019): 0
+06-17 23:01:48.919: D/DataStreamReader(4019): parseBlock: 1
+06-17 23:01:48.919: D/DataStreamReader(4019): ENTRA SYS_EVENT_ID
+06-17 23:01:48.919: D/LTData/LTEvent(4019): getCurrentEvent
+06-17 23:01:48.919: D/getCurrentEvent DELAYED currDate(4019): 26-5-2013
+06-17 23:01:48.929: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades2.txt
+06-17 23:01:48.929: D/NUM DADES BYTES:(4019): 246
+06-17 23:01:48.929: D/SEGONS DE DELAY(4019): 13
+06-17 23:01:48.929: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades3.txt
+06-17 23:01:48.929: D/NUM DADES BYTES:(4019): 36
+06-17 23:01:48.929: D/===eventData(4019): INFO
+06-17 23:01:48.929: D/eventData TYPE(4019): 0
+06-17 23:01:48.929: D/eventData NAME(4019): Grand Prix de Monaco
+06-17 23:01:48.929: D/eventData PLACE(4019): Monte Carlo, Monaco
+06-17 23:01:48.929: D/eventData SHORT(4019): MON
+06-17 23:01:48.929: D/eventData RACE DATE(4019): 26-5-2013
+06-17 23:01:48.929: D/HTTPATTEMPT_EVENTID_L856 NUMBER I KEYFRAME(4019): 0 -1
+06-17 23:01:48.929: D/DataStreamReader(4019): onDecryptionKeyObtained
+06-17 23:01:48.929: D/KEY ES(4019): -1779914615
+06-17 23:01:48.929: D/DataStreamReader(4019): resetDecryption
+06-17 23:01:48.929: D/DataStreamReader(4019): newDataObtained
+06-17 23:01:48.929: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:01:48.929: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019):  0
+06-17 23:01:49.549: D/DataStreamReader(4019): resetDecryption
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 1
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= S. VETTEL
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.243
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:15.988
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.549: D/ParseCarPacket CAR=1(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 22
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 2
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= M. WEBBER
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.352
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:17.322
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=2(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 3
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= F. ALONSO
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.712
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:16.510
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.559: D/ParseCarPacket CAR=3(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=3(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=3(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 24
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=0 CAR DATA= 22 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 4
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 8 LONG DATA= F. MASSA
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=4(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 5
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. BUTTON
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.744
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:17.420
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.569: D/ParseCarPacket CAR=5(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=5(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 22
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 6
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= S. PEREZ
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.682
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:17.748
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 7
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 12 LONG DATA= K. RAIKKONEN
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.835
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:16.040
+06-17 23:01:49.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=7(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=7(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=7(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=7(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 24
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=0 CAR DATA= 13 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 13
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 8
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 11 LONG DATA= R. GROSJEAN
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.738
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:18.603
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 20.7
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 36.6
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 21.1
+06-17 23:01:49.589: D/ParseCarPacket CAR=8(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 13
+06-17 23:01:49.589: D/ParseCarPacket CAR=9(4019):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.589: D/ParseCarPacket CAR=9(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+06-17 23:01:49.589: D/ParseCarPacket CAR=9(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 1 LONG DATA= 9
+06-17 23:01:49.589: D/ParseCarPacket CAR=9(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 10 LONG DATA= N. ROSBERG
+06-17 23:01:49.589: D/ParseCarPacket CAR=9(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.620
+06-17 23:01:49.589: D/ParseCarPacket CAR=9(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:16.135
+06-17 23:01:49.599: D/ParseCarPacket CAR=9(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=9(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=9(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=9(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=9(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 10
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 11 LONG DATA= L. HAMILTON
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.779
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:16.265
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=10(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.599: D/ParseCarPacket CAR=11(4019):  CAR TYPE=0 CAR DATA= 11 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.599: D/ParseCarPacket CAR=11(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 11
+06-17 23:01:49.599: D/ParseCarPacket CAR=11(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 11
+06-17 23:01:49.599: D/ParseCarPacket CAR=11(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 13 LONG DATA= N. HULKENBERG
+06-17 23:01:49.599: D/ParseCarPacket CAR=11(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.547
+06-17 23:01:49.599: D/ParseCarPacket CAR=11(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:18.331
+06-17 23:01:49.609: D/ParseCarPacket CAR=11(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.609: D/ParseCarPacket CAR=11(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 20.7
+06-17 23:01:49.609: D/ParseCarPacket CAR=11(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 36.2
+06-17 23:01:49.609: D/ParseCarPacket CAR=11(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 21.3
+06-17 23:01:49.609: D/ParseCarPacket CAR=11(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 22
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=0 CAR DATA= 19 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 19
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 12
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 12 LONG DATA= E. GUTIERREZ
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.917
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.5
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 40.3
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.0
+06-17 23:01:49.609: D/ParseCarPacket CAR=12(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 12
+06-17 23:01:49.609: D/ParseCarPacket CAR=13(4019):  CAR TYPE=0 CAR DATA= 17 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.609: D/ParseCarPacket CAR=13(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 17
+06-17 23:01:49.609: D/ParseCarPacket CAR=13(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 14
+06-17 23:01:49.609: D/ParseCarPacket CAR=13(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 11 LONG DATA= P. DI RESTA
+06-17 23:01:49.609: D/ParseCarPacket CAR=13(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.322
+06-17 23:01:49.619: D/ParseCarPacket CAR=13(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=13(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=13(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.5
+06-17 23:01:49.619: D/ParseCarPacket CAR=13(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 40.0
+06-17 23:01:49.619: D/ParseCarPacket CAR=13(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.6
+06-17 23:01:49.619: D/ParseCarPacket CAR=13(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 14
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=0 CAR DATA= 9 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 9
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 15
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 8 LONG DATA= A. SUTIL
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:25.108
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:17.261
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=14(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 21
+06-17 23:01:49.619: D/ParseCarPacket CAR=15(4019):  CAR TYPE=0 CAR DATA= 16 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.619: D/ParseCarPacket CAR=15(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 16
+06-17 23:01:49.619: D/ParseCarPacket CAR=15(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 16
+06-17 23:01:49.619: D/ParseCarPacket CAR=15(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 12 LONG DATA= P. MALDONADO
+06-17 23:01:49.619: D/ParseCarPacket CAR=15(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.452
+06-17 23:01:49.629: D/ParseCarPacket CAR=15(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:21.688
+06-17 23:01:49.629: D/ParseCarPacket CAR=15(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.629: D/ParseCarPacket CAR=15(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 20.9
+06-17 23:01:49.629: D/ParseCarPacket CAR=15(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 38.2
+06-17 23:01:49.629: D/ParseCarPacket CAR=15(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.1
+06-17 23:01:49.629: D/ParseCarPacket CAR=15(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 22
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=0 CAR DATA= 14 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 14
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 17
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 9 LONG DATA= V. BOTTAS
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.681
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:19.077
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 20.9
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 36.2
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 21.1
+06-17 23:01:49.629: D/ParseCarPacket CAR=16(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 22
+06-17 23:01:49.629: D/ParseCarPacket CAR=17(4019):  CAR TYPE=0 CAR DATA= 10 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.629: D/ParseCarPacket CAR=17(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 10
+06-17 23:01:49.629: D/ParseCarPacket CAR=17(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 18
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=3 CAR DATA= 1 CAR LEN= 9 LONG DATA= J. VERGNE
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:23.699
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:17.623
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=17(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=0 CAR DATA= 12 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 12
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 19
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 12 LONG DATA= D. RICCIARDO
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:24.852
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:18.344
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 21.0
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 36.3
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 20.9
+06-17 23:01:49.639: D/ParseCarPacket CAR=18(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.639: D/ParseCarPacket CAR=19(4019):  CAR TYPE=0 CAR DATA= 18 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.639: D/ParseCarPacket CAR=19(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 18
+06-17 23:01:49.639: D/ParseCarPacket CAR=19(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 20
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 6 LONG DATA= C. PIC
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.633
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.5
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 40.3
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.6
+06-17 23:01:49.649: D/ParseCarPacket CAR=19(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 13
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=0 CAR DATA= 15 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 15
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 21
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 14 LONG DATA= G. VAN DER GAR
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:26.095
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:19.408
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 20.9
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 36.8
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 21.5
+06-17 23:01:49.649: D/ParseCarPacket CAR=20(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 21
+06-17 23:01:49.649: D/ParseCarPacket CAR=21(4019):  CAR TYPE=0 CAR DATA= 21 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.649: D/ParseCarPacket CAR=21(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.649: D/ParseCarPacket CAR=21(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 22
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 10 LONG DATA= J. BIANCHI
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=21(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 1 LONG DATA= 1
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=0 CAR DATA= 20 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 2 LONG DATA= 20
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=2 CAR DATA= 2 CAR LEN= 2 LONG DATA= 23
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 10 LONG DATA= M. CHILTON
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=4 CAR DATA= 1 CAR LEN= 8 LONG DATA= 1:27.303
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=5 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=6 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=7 CAR DATA= 6 CAR LEN= 4 LONG DATA= 22.9
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=8 CAR DATA= 6 CAR LEN= 4 LONG DATA= 40.3
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 4 LONG DATA= 23.9
+06-17 23:01:49.659: D/ParseCarPacket CAR=22(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 13
+06-17 23:01:49.679: D/packet(4019): TIMESTAMP=27 0 27
+06-17 23:01:49.679: D/packet(4019): TIMESTAMP=32 0 32
+06-17 23:01:49.679: D/packet(4019): TIMESTAMP=34 0 34
+06-17 23:01:49.679: D/packet(4019): TIMESTAMP=48 0 48
+06-17 23:01:49.689: D/packet(4019): TIMESTAMP=58 0 58
+06-17 23:01:49.689: D/packet(4019): TIMESTAMP=67 0 67
+06-17 23:01:49.689: D/packet(4019): TIMESTAMP=77 0 77
+06-17 23:01:49.689: D/packet(4019): TIMESTAMP=82 0 82
+06-17 23:01:49.699: D/packet(4019): TIMESTAMP=87 0 87
+06-17 23:01:49.699: D/packet(4019): TIMESTAMP=115 0 115
+06-17 23:01:49.699: D/packet(4019): TIMESTAMP=128 0 -128
+06-17 23:01:49.699: D/packet(4019): TIMESTAMP=137 0 -119
+06-17 23:01:49.699: D/packet(4019): TIMESTAMP=142 0 -114
+06-17 23:01:49.699: D/packet(4019): TIMESTAMP=182 0 -74
+06-17 23:01:49.709: D/packet(4019): TIMESTAMP=192 0 -64
+06-17 23:01:49.709: D/packet(4019): TIMESTAMP=197 0 -59
+06-17 23:01:49.709: D/packet(4019): TIMESTAMP=222 0 -34
+06-17 23:01:49.709: D/packet(4019): TIMESTAMP=263 1 7
+06-17 23:01:49.729: D/packet(4019): TIMESTAMP=302 1 46
+06-17 23:01:49.729: D/packet(4019): TIMESTAMP=304 1 48
+06-17 23:01:49.729: D/packet(4019): TIMESTAMP=308 1 52
+06-17 23:01:49.729: D/packet(4019): TIMESTAMP=320 1 64
+06-17 23:01:49.739: D/packet(4019): TIMESTAMP=355 1 99
+06-17 23:01:49.739: D/packet(4019): TIMESTAMP=357 1 101
+06-17 23:01:49.739: D/packet(4019): TIMESTAMP=362 1 106
+06-17 23:01:49.739: D/packet(4019): TIMESTAMP=403 1 -109
+06-17 23:01:49.749: D/packet(4019): TIMESTAMP=412 1 -100
+06-17 23:01:49.749: D/packet(4019): TIMESTAMP=468 1 -44
+06-17 23:01:49.759: D/packet(4019): TIMESTAMP=484 1 -28
+06-17 23:01:49.759: D/packet(4019): TIMESTAMP=522 2 10
+06-17 23:01:49.759: D/packet(4019): TIMESTAMP=527 2 15
+06-17 23:01:49.769: D/packet(4019): TIMESTAMP=559 2 47
+06-17 23:01:49.809: D/packet(4019): TIMESTAMP=577 2 65
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=578 2 66
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=601 2 89
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=632 2 120
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=633 2 121
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=671 2 -97
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=686 2 -82
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=688 2 -80
+06-17 23:01:49.819: D/packet(4019): TIMESTAMP=715 2 -53
+06-17 23:01:49.829: D/packet(4019): TIMESTAMP=742 2 -26
+06-17 23:01:49.829: D/packet(4019): TIMESTAMP=743 2 -25
+06-17 23:01:49.829: D/packet(4019): TIMESTAMP=753 2 -15
+06-17 23:01:49.829: D/packet(4019): TIMESTAMP=782 3 14
+06-17 23:01:49.829: D/packet(4019): TIMESTAMP=790 3 22
+06-17 23:01:49.829: D/packet(4019): TIMESTAMP=797 3 29
+06-17 23:01:49.839: D/packet(4019): TIMESTAMP=798 3 30
+06-17 23:01:49.839: D/packet(4019): TIMESTAMP=806 3 38
+06-17 23:01:49.839: D/packet(4019): TIMESTAMP=818 3 50
+06-17 23:01:49.839: D/packet(4019): TIMESTAMP=852 3 84
+06-17 23:01:49.839: D/packet(4019): TIMESTAMP=853 3 85
+06-17 23:01:49.839: D/packet(4019): TIMESTAMP=872 3 104
+06-17 23:01:49.849: D/packet(4019): TIMESTAMP=890 3 122
+06-17 23:01:49.849: D/packet(4019): TIMESTAMP=914 3 -110
+06-17 23:01:49.849: D/packet(4019): TIMESTAMP=952 3 -72
+06-17 23:01:49.849: D/packet(4019): TIMESTAMP=962 3 -62
+06-17 23:01:49.849: D/packet(4019): TIMESTAMP=963 3 -61
+06-17 23:01:49.899: D/packet(4019): TIMESTAMP=1016 3 -8
+06-17 23:01:49.899: D/packet(4019): TIMESTAMP=1018 3 -6
+06-17 23:01:49.899: D/packet(4019): TIMESTAMP=1055 4 31
+06-17 23:01:49.899: D/packet(4019): TIMESTAMP=1072 4 48
+06-17 23:01:49.909: D/packet(4019): TIMESTAMP=1074 4 50
+06-17 23:01:49.909: D/packet(4019): TIMESTAMP=1093 4 69
+06-17 23:01:49.909: D/packet(4019): TIMESTAMP=1108 4 84
+06-17 23:01:49.909: D/packet(4019): TIMESTAMP=1128 4 104
+06-17 23:01:49.909: D/packet(4019): TIMESTAMP=1129 4 105
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1161 4 -119
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1182 4 -98
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1184 4 -96
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1191 4 -89
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1207 4 -73
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1231 4 -49
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1237 4 -43
+06-17 23:01:49.919: D/packet(4019): TIMESTAMP=1239 4 -41
+06-17 23:01:49.929: D/packet(4019): TIMESTAMP=1281 5 1
+06-17 23:01:49.929: D/packet(4019): TIMESTAMP=1292 5 12
+06-17 23:01:49.929: D/packet(4019): TIMESTAMP=1294 5 14
+06-17 23:01:49.929: D/packet(4019): TIMESTAMP=1308 5 28
+06-17 23:01:49.929: D/packet(4019): TIMESTAMP=1348 5 68
+06-17 23:01:49.939: D/packet(4019): TIMESTAMP=1349 5 69
+06-17 23:01:49.939: D/packet(4019): TIMESTAMP=1365 5 85
+06-17 23:01:49.939: D/packet(4019): TIMESTAMP=1402 5 122
+06-17 23:01:49.939: D/packet(4019): TIMESTAMP=1404 5 124
+06-17 23:01:49.939: D/packet(4019): TIMESTAMP=1405 5 125
+06-17 23:01:49.989: D/packet(4019): TIMESTAMP=1441 5 -95
+06-17 23:01:49.989: D/packet(4019): TIMESTAMP=1457 5 -79
+06-17 23:01:49.989: D/packet(4019): TIMESTAMP=1459 5 -77
+06-17 23:01:49.989: D/packet(4019): TIMESTAMP=1460 5 -76
+06-17 23:01:49.989: D/packet(4019): TIMESTAMP=1503 5 -33
+06-17 23:01:49.999: D/packet(4019): TIMESTAMP=1513 5 -23
+06-17 23:01:49.999: D/packet(4019): TIMESTAMP=1514 5 -22
+06-17 23:01:49.999: D/packet(4019): TIMESTAMP=1527 5 -9
+06-17 23:01:49.999: D/packet(4019): TIMESTAMP=1547 6 11
+06-17 23:01:50.009: D/packet(4019): TIMESTAMP=1561 6 25
+06-17 23:01:50.009: D/packet(4019): TIMESTAMP=1623 6 87
+06-17 23:01:50.009: D/packet(4019): TIMESTAMP=1625 6 89
+06-17 23:01:50.009: D/packet(4019): TIMESTAMP=1645 6 109
+06-17 23:01:50.059: D/packet(4019): TIMESTAMP=1678 6 -114
+06-17 23:01:50.059: D/packet(4019): TIMESTAMP=1679 6 -113
+06-17 23:01:50.059: D/packet(4019): TIMESTAMP=1702 6 -90
+06-17 23:01:50.059: D/packet(4019): TIMESTAMP=1733 6 -59
+06-17 23:01:50.059: D/packet(4019): TIMESTAMP=1735 6 -57
+06-17 23:01:50.059: D/packet(4019): TIMESTAMP=1780 6 -12
+06-17 23:01:50.069: D/packet(4019): TIMESTAMP=1787 6 -5
+06-17 23:01:50.069: D/packet(4019): TIMESTAMP=1788 6 -4
+06-17 23:01:50.069: D/packet(4019): TIMESTAMP=1790 6 -2
+06-17 23:01:50.069: D/packet(4019): TIMESTAMP=1834 7 42
+06-17 23:01:50.069: D/packet(4019): TIMESTAMP=1843 7 51
+06-17 23:01:50.069: D/packet(4019): TIMESTAMP=1845 7 53
+06-17 23:01:50.079: D/packet(4019): TIMESTAMP=1898 7 106
+06-17 23:01:50.079: D/packet(4019): TIMESTAMP=1900 7 108
+06-17 23:01:50.079: D/packet(4019): TIMESTAMP=1934 7 -114
+06-17 23:01:50.079: D/packet(4019): TIMESTAMP=1953 7 -95
+06-17 23:01:50.079: D/packet(4019): TIMESTAMP=1955 7 -93
+06-17 23:01:50.079: D/packet(4019): TIMESTAMP=2008 7 -40
+06-17 23:01:50.089: D/packet(4019): TIMESTAMP=2010 7 -38
+06-17 23:01:50.089: D/packet(4019): TIMESTAMP=2062 8 14
+06-17 23:01:50.089: D/packet(4019): TIMESTAMP=2063 8 15
+06-17 23:01:50.089: D/packet(4019): TIMESTAMP=2064 8 16
+06-17 23:01:50.099: D/packet(4019): TIMESTAMP=2084 8 36
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2113 8 65
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2118 8 70
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2120 8 72
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2145 8 97
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2173 8 125
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2176 8 -128
+06-17 23:01:50.139: D/packet(4019): TIMESTAMP=2181 8 -123
+06-17 23:01:50.149: D/packet(4019): TIMESTAMP=2247 8 -57
+06-17 23:01:50.149: D/packet(4019): TIMESTAMP=2267 8 -37
+06-17 23:01:50.149: D/packet(4019): TIMESTAMP=2285 8 -19
+06-17 23:01:50.149: D/packet(4019): TIMESTAMP=2294 8 -10
+06-17 23:01:50.199: D/packet(4019): TIMESTAMP=2338 9 34
+06-17 23:01:50.199: D/packet(4019): TIMESTAMP=2340 9 36
+06-17 23:01:50.199: D/packet(4019): TIMESTAMP=2359 9 55
+06-17 23:01:50.199: D/packet(4019): TIMESTAMP=2393 9 89
+06-17 23:01:50.199: D/packet(4019): TIMESTAMP=2395 9 91
+06-17 23:01:50.199: D/packet(4019): TIMESTAMP=2418 9 114
+06-17 23:01:50.209: D/packet(4019): TIMESTAMP=2448 9 -112
+06-17 23:01:50.209: D/packet(4019): TIMESTAMP=2450 9 -110
+06-17 23:01:50.209: D/packet(4019): TIMESTAMP=2451 9 -109
+06-17 23:01:50.209: D/packet(4019): TIMESTAMP=2506 9 -54
+06-17 23:01:50.209: D/packet(4019): TIMESTAMP=2516 9 -44
+06-17 23:01:50.219: D/packet(4019): TIMESTAMP=2533 9 -27
+06-17 23:01:50.219: D/packet(4019): TIMESTAMP=2558 9 -2
+06-17 23:01:50.219: D/packet(4019): TIMESTAMP=2561 10 1
+06-17 23:01:50.219: D/packet(4019): TIMESTAMP=2563 10 3
+06-17 23:01:50.259: D/packet(4019): TIMESTAMP=2613 10 53
+06-17 23:01:50.259: D/packet(4019): TIMESTAMP=2616 10 56
+06-17 23:01:50.269: D/packet(4019): TIMESTAMP=2641 10 81
+06-17 23:01:50.269: D/packet(4019): TIMESTAMP=2668 10 108
+06-17 23:01:50.269: D/packet(4019): TIMESTAMP=2671 10 111
+06-17 23:01:50.269: D/packet(4019): TIMESTAMP=2677 10 117
+06-17 23:01:50.269: D/packet(4019): TIMESTAMP=2685 10 125
+06-17 23:01:50.269: D/packet(4019): TIMESTAMP=2708 10 -108
+06-17 23:01:50.279: D/packet(4019): TIMESTAMP=2723 10 -93
+06-17 23:01:50.279: D/packet(4019): TIMESTAMP=2726 10 -90
+06-17 23:01:50.279: D/packet(4019): TIMESTAMP=2748 10 -68
+06-17 23:01:50.319: D/packet(4019): TIMESTAMP=2777 10 -39
+06-17 23:01:50.319: D/packet(4019): TIMESTAMP=2780 10 -36
+06-17 23:01:50.319: D/packet(4019): TIMESTAMP=2781 10 -35
+06-17 23:01:50.319: D/packet(4019): TIMESTAMP=2785 10 -31
+06-17 23:01:50.329: D/packet(4019): TIMESTAMP=2794 10 -22
+06-17 23:01:50.329: D/packet(4019): TIMESTAMP=2800 10 -16
+06-17 23:01:50.329: D/packet(4019): TIMESTAMP=2816 11 0
+06-17 23:01:50.369: D/packet(4019): TIMESTAMP=2826 11 10
+06-17 23:01:50.379: D/packet(4019): TIMESTAMP=2833 11 17
+06-17 23:01:50.379: D/packet(4019): TIMESTAMP=2836 11 20
+06-17 23:01:50.379: D/packet(4019): TIMESTAMP=2872 11 56
+06-17 23:01:50.379: D/packet(4019): TIMESTAMP=2879 11 63
+06-17 23:01:50.379: D/packet(4019): TIMESTAMP=2893 11 77
+06-17 23:01:50.379: D/packet(4019): TIMESTAMP=2907 11 91
+06-17 23:01:50.429: D/packet(4019): TIMESTAMP=2943 11 127
+06-17 23:01:50.429: D/packet(4019): TIMESTAMP=2945 11 -127
+06-17 23:01:50.429: D/packet(4019): TIMESTAMP=2946 11 -126
+06-17 23:01:50.429: D/packet(4019): TIMESTAMP=2982 11 -90
+06-17 23:01:50.429: D/packet(4019): TIMESTAMP=2998 11 -74
+06-17 23:01:50.429: D/packet(4019): TIMESTAMP=3002 11 -70
+06-17 23:01:50.439: D/packet(4019): TIMESTAMP=3053 11 -19
+06-17 23:01:50.439: D/packet(4019): TIMESTAMP=3057 11 -15
+06-17 23:01:50.439: D/packet(4019): TIMESTAMP=3108 12 36
+06-17 23:01:50.439: D/packet(4019): TIMESTAMP=3112 12 40
+06-17 23:01:50.439: D/packet(4019): TIMESTAMP=3163 12 91
+06-17 23:01:50.439: D/packet(4019): TIMESTAMP=3167 12 95
+06-17 23:01:50.449: D/packet(4019): TIMESTAMP=3184 12 112
+06-17 23:01:50.449: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.449: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.449: D/DataStreamReader(4019): ENTRA SYS_KEY_FRAME
+06-17 23:01:50.449: D/DataStreamReader(4019): resetDecryption
+06-17 23:01:50.449: D/SYSKEYFRAME_L897 NUMBER I KEYFRAME(4019): 222 -1779914615
+06-17 23:01:50.449: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:01:50.449: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:10:00 11
+06-17 23:01:50.519: D/DataStreamReader(4019): parseBlock: 2
+06-17 23:01:50.519: D/ParseCarPacket CAR=17(4019):  CAR TYPE=9 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/DataStreamReader(4019): ENTRA SYS_KEY_FRAME
+06-17 23:01:50.519: D/DataStreamReader(4019): resetDecryption
+06-17 23:01:50.519: D/SYSKEYFRAME_L897 NUMBER I KEYFRAME(4019): 222 -1779914615
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/packet(4019): TIMESTAMP=3218 12 -110
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/packet(4019): TIMESTAMP=3222 12 -106
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/ParseCarPacket CAR=20(4019):  CAR TYPE=8 CAR DATA= 0 CAR LEN= 2 LONG DATA= é[
+06-17 23:01:50.519: D/ParseCarPacket CAR=15(4019):  CAR TYPE=12 CAR DATA= 6 CAR LEN= 6 LONG DATA= iÛ£
+06-17 23:01:50.519: D/ParseCarPacket CAR=16(4019):  CAR TYPE=3 CAR DATA= 7 CAR LEN= 9 LONG DATA= ÷R¬ÚF
+06-17 23:01:50.519: D/parseSystemPacket(4019): 0:10:00
+06-17 23:01:50.519: D/ParseCarPacket CAR=4(4019):  CAR TYPE=4 CAR DATA= 7 CAR LEN= 14 LONG DATA= ôô¥!µôOæÖpï,
+06-17 23:01:50.519: D/ParseCarPacket CAR=11(4019):  CAR TYPE=3 CAR DATA= 0 CAR LEN= 9 LONG DATA= 9 µ|��Õ¦ø
+06-17 23:01:50.519: D/ParseCarPacket CAR=17(4019):  CAR TYPE=11 CAR DATA= 3 CAR LEN= 9 LONG DATA= ßCàeè1ºq
+06-17 23:01:50.529: D/ParseCarPacket CAR=23(4019):  CAR TYPE=5 CAR DATA= 7 CAR LEN= 6 LONG DATA= 623èP
+06-17 23:01:50.529: D/ParseCarPacket CAR=16(4019):  CAR TYPE=4 CAR DATA= 2 CAR LEN= 14 LONG DATA= Hofâ*©qþ[��
+06-17 23:01:50.529: D/ParseCarPacket CAR=2(4019):  CAR TYPE=12 CAR DATA= 6 CAR LEN= 9 LONG DATA= ¡q
+06-17 23:01:50.529: D/ParseCarPacket CAR=2(4019): ¢þÚÔ
+06-17 23:01:50.529: D/ParseCarPacket CAR=2(4019):  CAR TYPE=7 CAR DATA= 5 CAR LEN= 5 LONG DATA= ªýÌÅA
+06-17 23:01:50.529: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:01:50.529: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:10:00 11
+06-17 23:02:00.629: D/SEGONS DE DELAY(4019): 30
+06-17 23:02:00.759: D/DataStreamReader(4019): parseBlock: 3
+06-17 23:02:00.759: D/ParseCarPacket CAR=18(4019):  CAR TYPE=15 CAR DATA= 0 CAR LEN= 112 LONG DATA= -êaÔ©ÆËà];ø¶Á®BË%}4d¤;U¼!e%ô
+06-17 23:02:00.759: D/ParseCarPacket CAR=18(4019): ÑUÄün ¶Z\!ãhQæ`Éa1´Â��Å|ÅãrÖ��y"y©É£·2éLcÒFÈM`Àæ48¯ðQ8µUèÌÁÈÌ
+06-17 23:02:00.759: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:00.759: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:10:00 11
+06-17 23:02:00.769: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades4.txt
+06-17 23:02:00.769: D/NUM DADES BYTES:(4019): 4
+06-17 23:02:27.769: D/SEGONS DE DELAY(4019): 3
+06-17 23:02:27.769: D/DataStreamReader(4019): parseBlock: 4
+06-17 23:02:27.769: D/ParseCarPacket CAR=6(4019):  CAR TYPE=6 CAR DATA= 7 CAR LEN= 5 LONG DATA= Ïî8z
+06-17 23:02:27.769: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:27.769: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:10:00 11
+06-17 23:02:27.779: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades5.txt
+06-17 23:02:27.779: D/NUM DADES BYTES:(4019): 13
+06-17 23:02:30.479: D/SEGONS DE DELAY(4019): 20
+06-17 23:02:30.479: D/DataStreamReader(4019): parseBlock: 5
+06-17 23:02:30.479: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:30.479: D/packet(4019): TIMESTAMP=17239 67 87
+06-17 23:02:30.479: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:30.479: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:30.489: D/DataStreamReader(4019): ENTRA SYS_KEY_FRAME
+06-17 23:02:30.489: D/DataStreamReader(4019): resetDecryption
+06-17 23:02:30.489: D/SYSKEYFRAME_L897 NUMBER I KEYFRAME(4019): 224 -1779914615
+06-17 23:02:30.489: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:30.489: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:10:00 11
+06-17 23:02:30.489: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades6.txt
+06-17 23:02:30.489: D/NUM DADES BYTES:(4019): 21
+06-17 23:02:48.500: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:48.500: D/DataStreamReader(4019): parseBlock: 6
+06-17 23:02:48.500: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:48.500: D/packet(4019): TIMESTAMP=3277 12 -51
+06-17 23:02:48.500: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades7.txt
+06-17 23:02:48.500: D/NUM DADES BYTES:(4019): 14
+06-17 23:02:48.500: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:48.500: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:48.500: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:48.500: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:10:00 11
+06-17 23:02:48.500: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:49.399: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:49.399: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades8.txt
+06-17 23:02:49.399: D/NUM DADES BYTES:(4019): 6
+06-17 23:02:49.399: D/DataStreamReader(4019): parseBlock: 7
+06-17 23:02:49.399: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:49.399: D/packet(4019): TIMESTAMP=3297 12 -31
+06-17 23:02:49.399: D/parseSystemPacket(4019): 0:10:00
+06-17 23:02:49.399: D/TIMER ABANS START(4019): 0:09:59
+06-17 23:02:49.409: D/GUARDEM EVENTDATA, REMAINING i MINUTS:(4019): 0:09:59 28
+06-17 23:02:49.409: D/parseSystemPacket(4019): 0:09:59
+06-17 23:02:49.409: D/DataStreamReader(4019): ENTRA SYS_KEY_FRAME
+06-17 23:02:49.409: D/DataStreamReader(4019): resetDecryption
+06-17 23:02:49.409: D/SYSKEYFRAME_L897 NUMBER I KEYFRAME(4019): 225 -1779914615
+06-17 23:02:49.409: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:49.919: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:49.919: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:50.319: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:50.319: D/DataStreamReader(4019): parseBlock: 8
+06-17 23:02:50.319: D/parseSystemPacket(4019): 0:09:58
+06-17 23:02:50.319: D/packet(4019): TIMESTAMP=3298 12 -30
+06-17 23:02:50.319: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:50.319: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades9.txt
+06-17 23:02:50.319: D/NUM DADES BYTES:(4019): 36
+06-17 23:02:50.809: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:50.809: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:51.220: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:51.220: D/DataStreamReader(4019): parseBlock: 9
+06-17 23:02:51.220: D/parseSystemPacket(4019): 0:09:57
+06-17 23:02:51.220: D/parseSystemPacket(4019): 0:09:57
+06-17 23:02:51.220: D/packet(4019): TIMESTAMP=3299 12 -29
+06-17 23:02:51.220: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:02:51.220: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+06-17 23:02:51.220: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+06-17 23:02:51.220: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+06-17 23:02:51.220: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:02:51.230: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades10.txt
+06-17 23:02:51.230: D/NUM DADES BYTES:(4019): 25
+06-17 23:02:51.230: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:02:51.230: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:02:51.230: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:02:51.230: D/ParseCarPacket CAR=5(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:02:51.230: D/ParseCarPacket CAR=5(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:02:51.239: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:02:51.239: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:02:51.239: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:51.729: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:51.729: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:52.129: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:52.129: D/DataStreamReader(4019): parseBlock: 10
+06-17 23:02:52.129: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 0 CAR LEN= 0 LONG DATA= 
+06-17 23:02:52.129: D/parseSystemPacket(4019): 0:09:56
+06-17 23:02:52.129: D/parseSystemPacket(4019): 0:09:56
+06-17 23:02:52.129: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:02:52.129: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+06-17 23:02:52.129: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:02:52.129: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:02:52.129: D/ParseCarPacket CAR=7(4019):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+06-17 23:02:52.139: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades11.txt
+06-17 23:02:52.139: D/NUM DADES BYTES:(4019): 43
+06-17 23:02:52.139: D/ParseCarPacket CAR=7(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 25
+06-17 23:02:52.139: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:52.639: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:52.639: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:53.049: D/DataStreamReader(4019): parseBlock: 11
+06-17 23:02:53.049: D/parseSystemPacket(4019): 0:09:55
+06-17 23:02:53.049: D/packet(4019): TIMESTAMP=3300 12 -28
+06-17 23:02:53.049: D/ParseCarPacket CAR=9(4019):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+06-17 23:02:53.049: D/ParseCarPacket CAR=9(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+06-17 23:02:53.049: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:53.049: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades12.txt
+06-17 23:02:53.069: D/NUM DADES BYTES:(4019): 10
+06-17 23:02:53.069: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:02:53.069: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:02:53.069: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:02:53.069: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:02:53.069: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:02:53.069: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:02:53.069: D/ParseCarPacket CAR=5(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:02:53.069: D/ParseCarPacket CAR=5(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:02:53.069: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+06-17 23:02:53.069: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+06-17 23:02:53.079: D/parseSystemPacket(4019): 0:09:55
+06-17 23:02:53.079: D/parseSystemPacket(4019): 0:09:55
+06-17 23:02:53.079: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:53.599: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:53.599: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:53.999: D/DataStreamReader(4019): parseBlock: 12
+06-17 23:02:53.999: D/parseSystemPacket(4019): 0:09:54
+06-17 23:02:53.999: D/packet(4019): TIMESTAMP=3303 12 -25
+06-17 23:02:53.999: D/ParseCarPacket CAR=9(4019):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+06-17 23:02:53.999: D/ParseCarPacket CAR=9(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 24
+06-17 23:02:53.999: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:54.009: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:54.009: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades13.txt
+06-17 23:02:54.009: D/NUM DADES BYTES:(4019): 54
+06-17 23:02:54.479: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:54.479: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:54.919: D/SEGONS DE DELAY(4019): 2
+06-17 23:02:54.919: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades14.txt
+06-17 23:02:54.989: D/DataStreamReader(4019): parseBlock: 13
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 22
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 23
+06-17 23:02:54.989: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 0 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/parseSystemPacket(4019): 0:09:53
+06-17 23:02:54.989: D/packet(4019): TIMESTAMP=3304 12 -24
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:02:54.989: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:02:54.989: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:02:54.989: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:02:54.989: D/ParseCarPacket CAR=5(4019):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=5(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+06-17 23:02:54.989: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+06-17 23:02:54.989: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+06-17 23:02:54.989: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:54.999: D/NUM DADES BYTES:(4019): 11
+06-17 23:02:55.469: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:55.469: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:56.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:56.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:56.809: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:56.809: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades15.txt
+06-17 23:02:56.809: D/NUM DADES BYTES:(4019): 8
+06-17 23:02:56.809: D/DataStreamReader(4019): parseBlock: 14
+06-17 23:02:56.809: D/parseSystemPacket(4019): 0:09:51
+06-17 23:02:56.809: D/parseSystemPacket(4019): 0:09:51
+06-17 23:02:56.809: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:57.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:57.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:57.709: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:57.709: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades16.txt
+06-17 23:02:57.709: D/NUM DADES BYTES:(4019): 98
+06-17 23:02:57.709: D/DataStreamReader(4019): parseBlock: 15
+06-17 23:02:57.709: D/ParseCarPacket CAR=10(4019):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+06-17 23:02:57.709: D/parseSystemPacket(4019): 0:09:50
+06-17 23:02:57.709: D/packet(4019): TIMESTAMP=3306 12 -22
+06-17 23:02:57.719: D/ParseCarPacket CAR=10(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 24
+06-17 23:02:57.719: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:58.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:58.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:58.619: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:58.619: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades17.txt
+06-17 23:02:58.619: D/NUM DADES BYTES:(4019): 46
+06-17 23:02:58.619: D/DataStreamReader(4019): parseBlock: 16
+06-17 23:02:58.619: D/parseSystemPacket(4019): 0:09:49
+06-17 23:02:58.619: D/packet(4019): TIMESTAMP=3307 12 -21
+06-17 23:02:58.619: D/parseSystemPacket(4019): 0:09:49
+06-17 23:02:58.699: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:59.489: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:02:59.489: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:02:59.529: D/SEGONS DE DELAY(4019): 1
+06-17 23:02:59.529: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades18.txt
+06-17 23:02:59.579: D/NUM DADES BYTES:(4019): 13
+06-17 23:02:59.579: D/DataStreamReader(4019): parseBlock: 17
+06-17 23:02:59.579: D/parseSystemPacket(4019): 0:09:48
+06-17 23:02:59.579: D/packet(4019): TIMESTAMP=3308 12 -20
+06-17 23:02:59.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+06-17 23:02:59.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+06-17 23:02:59.579: D/ParseCarPacket CAR=9(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=9(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:02:59.579: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:02:59.579: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:02:59.579: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:02:59.579: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+06-17 23:02:59.579: D/ParseCarPacket CAR=5(4019):  CAR TYPE=0 CAR DATA= 8 CAR LEN= 0 LONG DATA= 
+06-17 23:02:59.579: D/ParseCarPacket CAR=5(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 8
+06-17 23:02:59.579: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:00.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:00.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:00.479: D/SEGONS DE DELAY(4019): 7
+06-17 23:03:00.479: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades19.txt
+06-17 23:03:00.479: D/NUM DADES BYTES:(4019): 8
+06-17 23:03:00.489: D/DataStreamReader(4019): parseBlock: 18
+06-17 23:03:00.489: D/ParseCarPacket CAR=6(4019):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+06-17 23:03:00.489: D/parseSystemPacket(4019): 0:09:47
+06-17 23:03:00.489: D/parseSystemPacket(4019): 0:09:47
+06-17 23:03:00.499: D/ParseCarPacket CAR=6(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 24
+06-17 23:03:00.499: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:01.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:01.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:02.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:02.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:03.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:03.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:04.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:04.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:05.429: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:05.429: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:06.439: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:06.439: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:06.779: D/SEGONS DE DELAY(4019): 1
+06-17 23:03:06.779: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades20.txt
+06-17 23:03:06.779: D/NUM DADES BYTES:(4019): 39
+06-17 23:03:06.809: D/DataStreamReader(4019): parseBlock: 19
+06-17 23:03:06.809: D/parseSystemPacket(4019): 0:09:41
+06-17 23:03:06.809: D/packet(4019): TIMESTAMP=3310 12 -18
+06-17 23:03:06.809: D/parseSystemPacket(4019): 0:09:41
+06-17 23:03:06.809: D/DataStreamReader(4019): ENTRA SYS_KEY_FRAME
+06-17 23:03:06.809: D/DataStreamReader(4019): resetDecryption
+06-17 23:03:06.809: D/SYSKEYFRAME_L897 NUMBER I KEYFRAME(4019): 226 -1779914615
+06-17 23:03:06.809: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:07.439: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:07.439: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:07.689: D/SEGONS DE DELAY(4019): 1
+06-17 23:03:07.689: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades21.txt
+06-17 23:03:07.689: D/NUM DADES BYTES:(4019): 11
+06-17 23:03:07.789: D/DataStreamReader(4019): parseBlock: 20
+06-17 23:03:07.789: D/parseSystemPacket(4019): 0:09:40
+06-17 23:03:07.789: D/packet(4019): TIMESTAMP=3317 12 -11
+06-17 23:03:07.789: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+06-17 23:03:07.789: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+06-17 23:03:07.789: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:03:07.789: D/ParseCarPacket CAR=9(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=9(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:03:07.789: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:03:07.789: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:03:07.789: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+06-17 23:03:07.789: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+06-17 23:03:07.789: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:08.439: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:08.439: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:08.589: D/SEGONS DE DELAY(4019): 1
+06-17 23:03:08.599: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades22.txt
+06-17 23:03:08.599: D/NUM DADES BYTES:(4019): 52
+06-17 23:03:08.599: D/DataStreamReader(4019): parseBlock: 21
+06-17 23:03:08.599: D/parseSystemPacket(4019): 0:09:39
+06-17 23:03:08.599: D/parseSystemPacket(4019): 0:09:39
+06-17 23:03:08.599: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:09.079: W/KeyCharacterMap(4019): No keyboard for id 0
+06-17 23:03:09.079: W/KeyCharacterMap(4019): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+06-17 23:03:09.099: D/F1LTActivity(4019): onBackPressed
+06-17 23:03:09.439: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:09.439: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:09.499: D/SEGONS DE DELAY(4019): 2
+06-17 23:03:09.499: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades23.txt
+06-17 23:03:09.499: D/NUM DADES BYTES:(4019): 6
+06-17 23:03:09.499: D/DataStreamReader(4019): parseBlock: 22
+06-17 23:03:09.499: D/ParseCarPacket CAR=3(4019):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+06-17 23:03:09.499: D/parseSystemPacket(4019): 0:09:38
+06-17 23:03:09.499: D/packet(4019): TIMESTAMP=3319 12 -9
+06-17 23:03:09.499: D/ParseCarPacket CAR=3(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 25
+06-17 23:03:09.509: D/ParseCarPacket CAR=2(4019):  CAR TYPE=0 CAR DATA= 1 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=2(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 1
+06-17 23:03:09.509: D/ParseCarPacket CAR=3(4019):  CAR TYPE=0 CAR DATA= 2 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=3(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 2
+06-17 23:03:09.509: D/ParseCarPacket CAR=6(4019):  CAR TYPE=0 CAR DATA= 3 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=6(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 3
+06-17 23:03:09.509: D/ParseCarPacket CAR=7(4019):  CAR TYPE=0 CAR DATA= 4 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=7(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 4
+06-17 23:03:09.509: D/ParseCarPacket CAR=9(4019):  CAR TYPE=0 CAR DATA= 5 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=9(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 5
+06-17 23:03:09.509: D/ParseCarPacket CAR=10(4019):  CAR TYPE=0 CAR DATA= 6 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=10(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 6
+06-17 23:03:09.509: D/ParseCarPacket CAR=1(4019):  CAR TYPE=0 CAR DATA= 7 CAR LEN= 0 LONG DATA= 
+06-17 23:03:09.509: D/ParseCarPacket CAR=1(4019):  CAR TYPE=1 CAR DATA= 5 CAR LEN= 1 LONG DATA= 7
+06-17 23:03:09.509: D/parseSystemPacket(4019): 0:09:38
+06-17 23:03:09.509: D/parseSystemPacket(4019): 0:09:38
+06-17 23:03:09.509: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:10.449: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:10.449: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:11.299: D/DataStreamReader(4019): parseBlock: 23
+06-17 23:03:11.299: D/ParseCarPacket CAR=2(4019):  CAR TYPE=2 CAR DATA= 1 CAR LEN= -1 LONG DATA= 
+06-17 23:03:11.299: D/ParseCarPacket CAR=2(4019):  CAR TYPE=10 CAR DATA= 1 CAR LEN= 2 LONG DATA= 24
+06-17 23:03:11.299: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:11.309: D/SEGONS DE DELAY(4019): 1
+06-17 23:03:11.309: D/ARREL ARXIU:(4019): /mnt/sdcard/F1LT/F1/UNZIPPED/Dades24.txt
+06-17 23:03:11.309: D/NUM DADES BYTES:(4019): 43
+06-17 23:03:11.769: D/DataStreamReader(4019): onSessionTimerUpdated
+06-17 23:03:11.769: D/F1LTActivity(4019): onNewDataObtained
+06-17 23:03:11.819: D/DataStreamReader(4019): disconnect
+06-17 23:03:11.819: D/SocketDataReader(4019): closeStream
+06-17 23:03:11.849: I/TAG(4019): **************** File /data/data/APP_PACKAGE/cache DELETED *******************
